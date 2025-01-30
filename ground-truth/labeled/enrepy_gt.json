@@ -1,0 +1,214 @@
+{
+  "@schemaVersion": "1.0",
+  "name": "clustering",
+  "structure": [
+    {
+      "@type": "group",
+      "name": "Analysis",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "analysis/analyze_method.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/analyze_manager.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/env.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/analyze_stmt.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/value_info.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/error_handler.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/analyze_expr.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/assign_target.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/__init__.py"
+        },
+        {
+          "@type": "item",
+          "name": "__init__.py"
+        },
+        {
+          "@type": "item",
+          "name": "__main__.py"
+        },
+        {
+          "@type": "item",
+          "name": "analysis/attribute_analyzer.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "cfg",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "cfg/Resolver.py"
+        },
+        {
+          "@type": "item",
+          "name": "cfg/HeapObject.py"
+        },
+        {
+          "@type": "item",
+          "name": "cfg/module_tree.py"
+        },
+        {
+          "@type": "item",
+          "name": "cfg/call_graph.py"
+        },
+        {
+          "@type": "item",
+          "name": "cfg/__init__.py"
+        },
+        {
+          "@type": "item",
+          "name": "passes/aggregate_control_flow_info.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Entity",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "ent/ent_finder.py"
+        },
+        {
+          "@type": "item",
+          "name": "ent/entity.py"
+        },
+        {
+          "@type": "item",
+          "name": "ent/EntKind.py"
+        },
+        {
+          "@type": "item",
+          "name": "ent/__init__.py"
+        },
+        {
+          "@type": "item",
+          "name": "ent/ent_factory.py"
+        },
+        {
+          "@type": "item",
+          "name": "passes/entity_pass.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "DependencyManager",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "dep/DepDB.py"
+        },
+        {
+          "@type": "item",
+          "name": "dep/__init__.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "vis",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "passes/build_visibility.py"
+        },
+        {
+          "@type": "item",
+          "name": "vis/graphdiffer.py"
+        },
+        {
+          "@type": "item",
+          "name": "vis/mapping.py"
+        },
+        {
+          "@type": "item",
+          "name": "vis/representation.py"
+        },
+        {
+          "@type": "item",
+          "name": "vis/__init__.py"
+        },
+        {
+          "@type": "item",
+          "name": "vis/summary_repr.py"
+        },
+        {
+          "@type": "item",
+          "name": "vis/und_mapping.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "test",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "test_gen/__init__.py"
+        },
+        {
+          "@type": "item",
+          "name": "test_gen/binder.py"
+        },
+        {
+          "@type": "item",
+          "name": "test_gen/yaml_represent.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ReferenceResolver",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "ref/Ref.py"
+        },
+        {
+          "@type": "item",
+          "name": "ref/__init__.py"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "passes",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "passes/build_ambiguous.py"
+        },
+        {
+          "@type": "item",
+          "name": "passes/__init__.py"
+        }
+      ]
+    }
+  ]
+}
