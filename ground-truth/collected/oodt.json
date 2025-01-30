@@ -1,0 +1,4900 @@
+{
+  "@schemaVersion": "1.0",
+  "name": "clustering",
+  "structure": [
+    {
+      "@type": "group",
+      "name": "FileMgr.CacheandIngest",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/RmiCache.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.Query",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/QueryResult.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.structs",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/ProfileTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.repository",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/repository/XMLRepositoryManagerFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.validation",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/validation/DataSourceValidationLayer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.Exceptions",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/EDAException.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/OptionHelpException.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/exceptions/DataTransferException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileSAXException.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/exceptions/QueryFormulationException.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/exceptions/RepositoryManagerException.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/exceptions/ValidationLayerException.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/exceptions/VersioningException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.tools.ProductTypeDocTool",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/ProductTypeDocTool.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.tools.OptimizeLuceneCatalog",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/OptimizeLuceneCatalog.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.tools.DumpDbElementsToXml",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/DumpDbElementsToXml.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.tools.CASAnalyzer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/CASAnalyzer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.UtilityClasses",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/DbStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/GenericFileManagerObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/QueryUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/SqlParser.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/XmlRpcStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/XmlStructFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.Validation",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/validation/ValidationLayerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/validation/XMLValidationLayerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/validation/DataSourceValidationLayer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.Versioning",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/xmlquery/LargeResult.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/versioning/InPlaceVersioner.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/versioning/SingleFileBasicVersioner.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/versioning/MetadataBasedFileVersioner.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/versioning/BasicVersioner.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/versioning/DateTimeVersioner.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/util/SSOUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/query/QueryResultComparator.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.structs.query.filter",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/filter/TimeEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/filter/ObjectTimeEvent.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.system.auth",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/system/auth/Dispatcher.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/system/auth/SecureWebServer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.metadata",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/metadata/ProductMetKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.metadata.extractors",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/util/TestXmlStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/metadata/extractors/TestCoreMetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/QueryElementTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.datatransfer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/datatransfer/DataTransferFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/datatransfer/InPlaceDataTransferFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/datatransfer/LocalDataTransferFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/datatransfer/RemoteDataTransferFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.ingest",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/DefaultFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/AbstractCacheServerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/LocalCacheFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/RmiCacheFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/repository/RepositoryManagerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/repository/DataSourceRepositoryManager.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.structs.type",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/activity/QueriedHandlers.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/RmiCacheServerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/FileTransferStatus.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/type/ValueReplaceTypeHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/ExtractorSpec.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProductServer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.structs.type.examples",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/type/examples/MajorMinorVersionTypeHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/QueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/TermQueryCriteria.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/BooleanQueryCriteria.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/util/XMLQueryKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/query/conv/AsciiSortableVersionConverter.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/QueryCriteria.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/FreeTextQueryCriteria.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/filter/QueryFilter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/query/conv/DateVersionConverter.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LogFilter.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/TermQueryCriteria.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/RemoteableCache.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/ingest/TestLocalCache.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/CmdLineIngester.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/ingest/TestStdIngester.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.system.XmlRpcFileManagerClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/system/XmlRpcFileManagerClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/ingest/RmiCacheServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/Result.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/AbstractTestCase.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.Catalog",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/Page.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/catalog/TestMappedDataSourceCatalog.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/validation/ValidationLayer.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/IndexFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/catalog/LuceneCatalogFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/catalog/MappedDataSourceCatalogFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.system.XmlRpcFileManager",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/system/TestXmlRpcFileManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/datatransfer/TestInPlaceDataTransferer.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/datatransfer/TestLocalDataTransferer.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/DatasetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/repository/DataSourceRepositoryManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/repository/XMLRepositoryManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/datatransfer/TransferStatusTracker.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/catalog/DataSourceCatalog.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/Pagination.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/validation/TestXMLValidationLayer.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/catalog/DataSourceCatalogFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/datatransfer/LocalDataTransferer.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/repository/RepositoryManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/catalog/TestLuceneCatalog.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.CatalogSearch",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/LoginServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.DeleteProduct",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/test/org/apache/oodt/xmlquery/LargeResultTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.ExpImpCatalog",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/ExpImpCatalog.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.Metadata-BasedProductMover",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/MetadataBasedProductMover.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/system/XmlRpcFileManagerClient.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.ProductDumper",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/ProductDumper.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.MetadataDumper",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/MetadataDumper.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.QueryTool",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/tools/QueryTool.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileMgr.XmlRpcFileMgrBrowser",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/system/XmlRpcFilemgrBrowser.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileManagerBrowser.ViewPanels",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/BooleanQueryCriteria.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/ProductCrawler.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/IndexPager.java"
+        },
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/view/panels/BottomPane.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/XML.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/RangedProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/HeaderTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileManagerBrowser.MainView",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/view/GuiParams.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/FieldType.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileManagerBrowser.ViewPrompts",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/view/prompts/QueryBuilderPrompt.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/CountingOutputStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/product/DBMSExecutor.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileManagerBrowser.ViewMenus",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/exec/EnvUtilities.java"
+        },
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/view/menus/RightClickMenu.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileManagerBrowser.Controller",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/gui/LeafListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/controller/WindowListener.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "FileManagerBrowser.Model",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "app/fmbrowser/src/main/java/org/apache/oodt/cas/filemgr/browser/model/QueryBuilder.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/AppTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.ConfiguredTestCase",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/ConfiguredTestCaseTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.ExecServerConfig",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/ConfigurationEntityResolver.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Executable.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/ExecServerConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/Documentable.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.Configuration",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Configuration.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.MultiServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Initializer.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/MultiServerTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/ExecServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/EDAException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.StorageService",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/StandardOutputStorage.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/NullStorage.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/XMLStorage.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/XMLStandardOutputStorage.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/WriterStorage.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/SQLDatabaseStorage.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/Page.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.ProgramExecution",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/exec/ExecHelper.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/exec/StreamGobbler.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/exec/EnvUtilities.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.ActivityTrackingandFactories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/activity/ActivityTrackerTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/activity/HistoryTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/DatagramLoggingActivityFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/activity/CompositeActivityTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/NullActivity.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.SQLDatabaseRetrieval",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/Retrieval.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/SQLDatabaseRetrieval.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.ActivityException",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/ActivityException.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/StoredActivity.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/StoredIncident.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.DatagramLogger",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/DatagramLogger.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.Net",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/AppTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.Pagination",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/pagination/PaginationUtils.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.Spring",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/spring/SpringSetIdInjectionType.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/spring/postprocessor/SetIdBeanPostProcessor.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.XMLUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/xml/XMLUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/xml/DOMUtil.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.DateUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.JNDIUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/object/jndi/ObjectCtxFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/object/jndi/TestContext.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/object/jndi/ObjectNameParser.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/object/jndi/RMIContext.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/AppTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.ActivityUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/activity/ActivityStoppedTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/Incident.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.LoggingUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/Log.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/LoginServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LogListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LogFilter.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LogWriter.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/WriterLogger.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.IOStreams",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/Base64EncodingOutputStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LoggerOutputStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/CountingOutputStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/io/NullOutputStreamTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/Base64DecodingInputStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/NullInputStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/FixedBufferOutputStream.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.TimeEvent",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/filter/ObjectTimeEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/filter/TimeEventWeightedHash.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/filter/TimeEvent.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.CmdLineOptionValidator",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/validator/AllowedArgsCmdLineOptionValidator.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/CmdLineOption.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/validator/ArgRegExpCmdLineOptionValidator.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/validator/ClassExistsCmdLineOptionValidator.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/validator/FileExistCmdLineOptionValidator.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/validator/NoRestrictionsCmdLineOptionValidator.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.CommandLineOptionHandling",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/handler/StdCmdLineOptionHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/handler/CmdLineOptionBeanHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/handler/CmdLineOptionHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/CmdLineOptionInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/CmdLineOption.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/OptionHelpException.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/CmdLineOption.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/CmdLineOption.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/util/CmdLineOptionsUsagePrinter.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/option/required/RequiredOption.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.LogInitializer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/LoginServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/PropertyMgr.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/LogEventMultiplexer.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/MemoryLogger.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/FileLogger.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/DateConvert.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.XMLRPC",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/SAXParser.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/XMLRPCFault.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/XMLRPC.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/XML.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/EnterpriseEntityResolverTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/Base64.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/DOMParser.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.OtherUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/JDBC_DB.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/CacheMapTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/LDAPTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/ScreenLogger.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Service.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.database.SQLScript",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/database/SqlScript.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Commons.database.DatabaseConnectionBuilder",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/database/DatabaseConnectionBuilder.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.XmlRpcClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/xmlrpc/XmlRpcCommunicationChannelClientFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/xmlrpc/XmlRpcCommunicationChannelClient.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.XmlRpcServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/xmlrpc/XmlRpcCommunicationChannelServerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/xmlrpc/XmlRpcCommunicationChannelServer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.RmiClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/rmi/RmiCommunicationChannelClientInterface.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/rmi/RmiCommunicationChannelClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/rmi/RmiCommunicationChannelClientMBean.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.RmiServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/rmi/RmiCommunicationChannelClient.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CommChannelBaseClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/AbstractCommunicationChannelClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/CommunicationChannelClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/CommunicationChannelClientFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CommChannelBaseServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/AbstractCommunicationChannelClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/CommunicationChannelClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/channel/CommunicationChannelServerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/CatalogServiceServerLauncher.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CatalogServiceClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/system/impl/CatalogServiceClientFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/system/impl/CatalogServiceClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/option/PrintSupportedClientsHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CatalogBase",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/system/CatalogServiceFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/LoginServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/IndexFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/Page.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CatalogServiceLocal",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/test/org/apache/oodt/cas/catalog/system/impl/TestCatalogServiceLocal.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/system/impl/CatalogServiceLocalFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CatalogServiceServerAction",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/QueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/LoadCatalogsServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/ShutdownServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/ReducedPagedQueryServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/GetSupportedCatalogIds.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/CatalogServiceServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/QueryServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/ReducedQueryServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/action/LoadCatalogRepositoryServerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/option/PrintSupportedActionsHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.PrintSupportedServersHandler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/option/PrintSupportedServersHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.Exceptions",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/QueryServiceException.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/CatalogDictionaryException.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/IngestServiceException.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/CatalogIndexException.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/CatalogRepositoryException.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/IngestServiceException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CatalogServiceCommandLineClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/server/CatalogServiceCommandLineClient.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.IngesterMappers",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/MemoryBasedIngestMapperFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/test/java/org/apache/oodt/xmlps/mapping/TestMappingReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/LuceneIngestMapperFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/IngestMapperFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/MemoryBasedIngestMapper.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/LuceneIngestMapper.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/InMemoryIngestMapperFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/DataSourceIngestMapperFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/DataSourceIngestMapper.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/mapping/InMemoryIngestMapper.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.CatalogRepositories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/SerializedCatalogRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/SerializedCatalogRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/SpringCatalogRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/CatalogRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/MemoryBasedCatalogRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/MemoryBasedCatalogRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/CatalogRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/repository/SpringCatalogRepositoryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.QueryParser",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/TokenMgrError.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/SimpleNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/SimpleCharStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/Literal.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/QueryParserTreeConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/Token.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/QueryParserConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/parser/QueryParserTokenManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/WildcardLiteral.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/EDAException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.QueryFiltering",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/filter/QueryFilter.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/filter/FilterAlgorithm.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/filter/time/MetadataTimeEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/filter/time/MetadataTimeEventQueryFilter.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/filter/time/MetadataTimeEventFilterAlgorithm.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/query/conv/AsciiSortableVersionConverter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/query/conv/DateVersionConverter.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.QueryExpression",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/CustomQueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/CustomWrapperQueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/QueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/WrapperQueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/FreeTextQueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/QueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/QueryLogicalGroup.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/RelOpExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/RelOpExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/ComparisonQueryExpression.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.QueryPager",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/IndexPager.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/ProcessedPageInfo.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/TransactionReceipt.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/CatalogReceipt.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/QueryPager.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/IngestReceipt.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/TransactionIdFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/TransactionIdFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/TransactionIdFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/TransactionIdFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.DataSourceIndex",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/QueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/index/DataSourceIndex.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/index/InMemoryIndex.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/index/WorkflowManagerDataSourceIndex.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/index/InMemoryIndexFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/index/DataSourceIndexFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/index/WorkflowManagerDataSourceIndexFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/IngestService.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/IndexFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.Dictionary",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/DictionaryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/Dictionary.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/dictionary/WorkflowManagerDictionary.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/impl/dictionary/WorkflowManagerDictionaryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.TermsandBuckets",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/Codec.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/term/TermBucket.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/term/Bucket.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Catalog.Utilities",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/metadata/TransactionalMetadata.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/Codec.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/struct/TransactionId.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/PluginClassLoader.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/Serializer.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/PluginURL.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/CasPropertyPlaceholderConfigurer.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/QueryUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Conditionslibrary",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowConditionInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/metadata/PcsMetadataKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/FalseCondition.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/LongCondition.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/TrueCondition.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.engine.structs.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/WorkflowEngineFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/NonBlockingThreadPoolWorkflowEngineFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/ThreadPoolWorkflowEngineFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/test/org/apache/oodt/cas/filemgr/util/TestXmlRpcStructFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Lifecycle",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/lifecycle/WorkflowLifecycle.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/lifecycle/WorkflowLifecycle.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/lifecycle/WorkflowLifecycleManager.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Metadatareader",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/WorkflowInstanceMetMap.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/WorkflowInstanceMetMapKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/WorkflowInstanceMetadataReader.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.RPCWorkflowManagerSystemInterface",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/system/XmlRpcWorkflowManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/exceptions/InstanceRepositoryException.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/system/XmlRpcWorkflowManagerClient.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.ScriptFile",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileServer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.structs",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/DbStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowTaskInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/TaskJobInput.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowStatus.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/TaskJob.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowInstancePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowTask.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/LongTask.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Workflowengine",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/WorkflowProcessorThread.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/IterativeWorkflowProcessorThread.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/NonBlockingIterativeWorkflowProcessorThread.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/NonBlockingShepardThread.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/NonBlockingThreadPoolWorkflowEngine.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/ThreadPoolWorkflowEngine.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/engine/WorkflowEngine.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.WorkflowInstance",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/ExternScriptTaskInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/GoodbyeWorld.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/HelloWorld.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/LongTask.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/PGETask.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/NumIncrementTask.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/examples/RandomStatusUpdateTask.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.WorkflowInstancerepository",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/WorkflowInstanceRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/AbstractPaginatibleInstanceRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/DataSourceWorkflowInstanceRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/test/org/apache/oodt/cas/workflow/instrepo/TestLuceneWorkflowInstanceRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/MemoryWorkflowInstanceRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/Pagination.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/MemoryWorkflowInstanceRepository.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.WorkflowInstancerepository.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/WorkflowInstanceRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/DataSourceWorkflowInstanceRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/LuceneWorkflowInstanceRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/instrepo/MemoryWorkflowInstanceRepositoryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Workflowlifecyclereader",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/lifecycle/WorkflowLifecycleMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/lifecycle/WorkflowLifecyclesReader.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Workflowrepository",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/WorkflowRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/DataSourceWorkflowRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/XMLWorkflowRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/WorkflowRepository.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.Workflowrepository.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/WorkflowRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/DataSourceWorkflowRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/repository/WorkflowRepositoryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Workflow.XMLPackager",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/XmlStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/XmlRpcStructFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WorkflowLifecycleStage",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/lifecycle/WorkflowLifecycleStage.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.AssignmentMonitor",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/test/org/apache/oodt/cas/resource/monitor/TestAssignmentMonitor.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.BatchManager",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/AbstractTestCase.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/batchmgr/XmlRpcBatchMgr.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/batchmgr/XmlRpcBatchMgrProxy.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.BatchManager.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/batchmgr/BatchmgrFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/batchmgr/XmlRpcBatchMgrFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobExceptions",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/structs/exceptions/JobExecutionException.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/product/ProductException.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/QueryException.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/structs/exceptions/JobRepositoryException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobInstance",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/examples/HelloWorldJob.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/examples/LongJob.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/metadata/JobMetadata.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobMonitor",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/test/org/apache/oodt/cas/resource/monitor/TestAssignmentMonitor.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Service.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobMonitor.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/monitor/AssignmentMonitorFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/monitor/MonitorFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobRepository",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobrepo/JobRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobrepo/MemoryJobRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobrepo/XStreamJobRepository.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobRepository.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobrepo/JobRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobrepo/MemoryJobRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobrepo/XStreamJobRepositoryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobSpecQueueing",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/ObjectCodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobqueue/JobStack.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.JobSpecQueueing.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobqueue/JobQueueFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobqueue/JobStackJobQueueFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.Jobsubmittertool",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/tools/JobSubmitter.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/tools/JobSubmitter.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.NodeRepository",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/noderepo/NodeRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/noderepo/XmlNodeRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/noderepo/XmlNodeRepository.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.NodeRepository.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/noderepo/NodeRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/noderepo/XmlNodeRepositoryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.Objectmarshaller",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/test/org/apache/oodt/grid/ConfigurationTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/util/XmlRpcWriteable.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.QueueManager",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/scheduler/LRUQueueManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/jobqueue/JobQueue.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.QueueRepository",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/queuerepo/QueueRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/queuerepo/XmlQueueRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/test/org/apache/oodt/cas/resource/queuerepo/TestXmlQueueRepository.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.QueueRepository.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/queuerepo/QueueRepositoryFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/queuerepo/XmlQueueRepositoryFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.RPCBatchStub",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/system/extern/XmlRpcBatchStub.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/system/extern/XmlRpcBatchStub.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.RunDirJobSubmitter",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/tools/RunDirJobSubmitter.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.Scheduler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/scheduler/LRUQueueManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/QueryServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.Scheduler.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/scheduler/LRUSchedulerFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/DefaultFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.structs",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/structs/JobInput.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/PGETaskInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/structs/JobSpec.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/structs/NameValueJobInput.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.UlimitAPI",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/exec/EnvUtilities.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/util/UlimitMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/util/UlimitProperty.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.XML-RPCResourceManagerClient",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/system/XmlRpcResourceManagerClient.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ResourceManager.XML-RPCResourceManagerCore",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/system/XmlRpcResourceManager.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/ProtocolFile.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/ProtocolPath.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol.ftp",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/ftp/CogJGlobusFtpClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/ftp/CogJGlobusFtpClient.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/NaughtyTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol.http",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/structs/ExtractorSpec.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol.factories",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/http/HttpClientFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/ProtocolPath.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol.imaps",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/imaps/ImapsClientFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol.local",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/system/CatalogService.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/local/LocalClientFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Protocol.sftp",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/protocol/sftp/JschSftpClientFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/objectfactory/PushPullObjectFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.FileRestriction",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/filerestrictions/VirtualFile.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/AndExpression.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.FileRestriction.parsers",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/structs/CDERow.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/SqlParser.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.FileRestriction.renamingcovention",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/product/ProductException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.RetrievalSystem",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalsystem/DataFileToPropFileLinker.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LogListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalsystem/DownloadThreadEvaluator.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalsystem/DownloadingFileInfo.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalsystem/RemoteFile.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalsystem/RemoteFileMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/test/org/apache/oodt/grid/ConfigurationTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalsystem/TimeAndThreadCount.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.RetrivalMethod",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/product/Retriever.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/daemon/CrawlDaemonController.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/retrievalmethod/ListRetriever.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.AccessHandler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/url/handlers/imaps/ImapsURLConnection.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/url/handlers/sftp/SftpURLConnection.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/url/handlers/sftp/SftpURLConnection.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.ExpressionValidator",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/Expression.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.daemon",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/AppTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/daemon/DaemonLauncher.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/daemon/DaemonLauncherMBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/io/LogListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Executable.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/NaughtyTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/daemon/DaemonRmiInterface.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Config",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/config/ConfigParserMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Service.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/config/DataFilesInfo.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/config/DownloadInfo.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/GridServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/config/PropFilesInfo.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/config/ProtocolInfo.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/config/RemoteSpecs.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/page/PageInfo.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Exceptions(Josh)",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/AlreadyInDatabaseException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/CrawlDaemonException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/FileRestrictionsException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/MetExtractorException.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/EDAException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/ProtocolDeletionError.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/PushPullFrameworkException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/RemoteConnectionException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/RetrievalMethodException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/ThreadEvaluatorException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/ToManyFailedDownloadsException.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/exceptions/UndefinedTypeException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PushPull.Expressions(Josh)",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/expressions/GlobalVariables.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/net/Net.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/exec/ExecHelper.java"
+        },
+        {
+          "@type": "item",
+          "name": "pushpull/src/main/java/org/apache/oodt/cas/pushpull/expressions/Punctuation.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/util/LDAP.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/SerializableMetadata.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Crawler.Utilities",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/comparator/FilemgrUniquenessCheckComparator.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/util/CasPropertyList.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/util/CasPropertyPlaceholderConfigurer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Crawler.Exceptions",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/structs/exceptions/CrawlerActionException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Crawler.CrawlerLauncher",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/CrawlerLauncher.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Crawler.ProductCrawler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/daemon/CrawlDaemon.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/AutoDetectProductCrawler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/StdProductCrawler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/MetExtractorProductCrawler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/status/IngestStatus.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/typedetection/MimeExtractorConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractorConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/CrawlerActionPhases.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/CrawlerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/MimeTypeCrawlerAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/ProductCrawler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/config/ProductCrawlerBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/CrawlerActionRepo.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/DeleteFile.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/FilemgrUniquenessChecker.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/action/WorkflowMgrStatusUpdate.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/typedetection/MimeExtractorRepo.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Crawler.CrawlerDaemonController",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/daemon/CrawlDaemonController.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Crawler.Command_Line_Crawler_Options_Handlers",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/option/CmdLineOptionCrawlerActionInfoHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/option/CmdLineOptionInfoHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/option/CmdLineOptionPreconditionInfoHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/option/CmdLineOptionProductCrawlerInfoHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "crawler/src/main/java/org/apache/oodt/cas/crawl/option/CmdLineOptionJavaPropHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.MetExtractor.exceptions",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/exceptions/MetExtractionException.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/exceptions/MetExtractorConfigReaderException.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/exceptions/PreconditionComparatorException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.MetExtractor.extractors",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/CopyAndRewriteConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/CopyAndRewriteConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/CopyAndRewriteConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractorConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/ExternConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/ExternConfigReaderMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/ExternMetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/ExternMetExtractorMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/FilenameTokenConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/FilenameTokenConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/FilenameTokenExtractorMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/FilenameTokenMetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/MetReaderConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/MetReaderConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/extractors/MetReaderExtractor.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.MetExtractor",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractorConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractorConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/util/GenericMetadataObjectFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.Metadata",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "metadata/src/test/org/apache/oodt/cas/metadata/TestSerializableMetadata.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/AbstractMetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/Metadata.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.Utils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/util/MimeTypeUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.PreConditionComparator",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/preconditions/MimeTypeComparator.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/preconditions/FileSizeComparator.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/preconditions/ExistanceCheckComparator.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Metadata.PreConditionOperatorMetKeys",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/xml/XMLUtils.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.OFSNFileHandler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/OFSNFileHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/XMLQueryTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.OtherHandlers",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/AbstractCrawlLister.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/DirListNonRecursiveHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/DirListRecursiveHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/FileListNonRecursiveHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/FileListRecursiveHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/OFSNListHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/SingleFileListHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/SingleZipFileListHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/RawSizeListHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/OFSNGetHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEDataHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/StdOFSNGetHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.Handlerconfig",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/OFSNHandlerConfig.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.xmlquery",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/product/Retriever.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/product/ProductException.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/ByteArrayCodec.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/test/org/apache/oodt/xmlquery/ChunkedProductInputStreamTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/CodecFactoryTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/CompressedObjectCodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/CompressedStringCodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/ObjectCodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/QueryElementTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/QueryException.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/QueryHeader.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/QueryResult.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/Statistic.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/StringCodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/UnsupportedMimeTypeCodec.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/CodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/main/java/org/apache/oodt/xmlquery/activity/QueryConstructed.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.Filehandlerconfiguration",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/OFSNFileHandlerConfigurationReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/handlers/ofsn/OFSNFileHandlerConfiguration.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.OFSNMetKeys",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.OFSNXMLConfigMetKeys",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.OFSNXMLMetKeys",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/util/XMLQueryKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Product.OODTMetKeys",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "XMLPS.QueryParser",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/GreaterThanEqualsExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/HandlerQueryParser.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/LessThanExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/WildcardLiteral.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/ContainsExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/EqualsExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/gui/LeafListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/LogOpExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/OrExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/LessThanEqualsExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/AndExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/RelOpExpression.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "XMLPS.Mapping",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/FieldScope.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/util/GenericCDEObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/product/DBMSExecutor.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/MappingField.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/FieldType.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/DatabaseTable.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/DatabaseTableGroup.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/Mapping.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/MappingReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/MappingReaderMetKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "XMLPS.Helper",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/util/XMLQueryHelper.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/util/XMLQueryKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "XMLPS.CDEstruct",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/structs/CDERow.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/CodecTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "XMLPS.XMLPSHandler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/product/XMLPSProductHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/profile/XMLPSProfileHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/product/DBMSExecutor.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "XMLPS.Function",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/funcs/MappingFunc.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/mapping/funcs/ReplaceFunc.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/handlers/ProfileHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/Utility.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer.Lightweight",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/AndExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/QueryExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/test/org/apache/oodt/xmlquery/LargeResultTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileSAXException.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/OrExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/handlers/lightweight/OperatorExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "xmlps/src/main/java/org/apache/oodt/xmlps/queryparser/OrExpression.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/EnumeratedProfileElementTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/ResourceAttributesTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/UnspecifiedProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEDataHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/query/QueryExpression.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer.GUI",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/Profile.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/gui/LeafListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/gui/ProfileBuilderGUI.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer..pstructs",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/ProfileAttributesTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/ProfileTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/EnumeratedProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/ResourceAttributesTest.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer.Handlers",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/handlers/DatabaseProfileManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/handlers/ProfileManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/handlers/ProfileHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer.Profile",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/DefaultFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/EnumeratedProfileElementTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileAttributes.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileSAXException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/ProfileSQLException.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/RangedProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/test/org/apache/oodt/profile/ResourceAttributesTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/UnspecifiedProfileElement.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "ProfileServer.Activity",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "xmlquery/src/test/org/apache/oodt/xmlquery/CodecTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/activity/ProfileClientConstructed.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/activity/QueriedHandlers.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/activity/ReceivedQuery.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Curation.MainCurationService",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/service/IngestionResource.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/metadata/JobMetadata.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/service/CurationServiceConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/service/PolicyResource.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/service/SystemResource.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/service/DirectoryResource.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/service/CurationService.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Curation.SSOConfiguratedCuratorWebService",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/UploadDatasetDefinitionServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/CuratorConfMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/UploadPolicyServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/BeginIngestionTaskServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/ShowExistingDatasetsByPolicyServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/MetViewerServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/UploadMetExtractorConfigServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/ShowExistingPoliciesServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/SSOConfiguredCuratorWebService.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/DirectoryListingServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/servlet/UpdateDatasetMetaDataServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/policymgr/CurationPolicyManager.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Curation.IngestionTaskStructures",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/structs/IngestionTaskStatus.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/structs/IngestionTask.java"
+        },
+        {
+          "@type": "item",
+          "name": "metadata/src/main/java/org/apache/oodt/cas/metadata/MetExtractorConfig.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Curation.CuratorLuceneCatalog",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/util/CuratorLuceneCatalog.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/util/CuratorLuceneCatalogFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Curation.OtherUtils",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/test/org/apache/oodt/commons/util/XMLTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/util/ExtractorConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/util/CurationXmlStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "curator/src/main/java/org/apache/oodt/cas/curation/util/ExtractorConfigWriter.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.ProductServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProductServer.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.ProfileServer",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileServer.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.Configuration",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/AuthenticationRequiredException.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Configuration.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.ConfigurationWebInterface",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/GridServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.Login",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/LoginServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.ProductQueryWebInterface",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProductQueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/QueryServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebGrid.ProfileQueryWebInterface",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProfileQueryServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PCS.XMLWriter",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileWriter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEDataParseKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/test/org/apache/oodt/grid/ConfigurationTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEDataHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PCS.XMLReader",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileReader.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "PCS.PGEConfigurationrepresentation",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEGroup.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/GridServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEScalar.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEMatrix.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEXMLFileUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "CASPGE.config",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/DynamicConfigFile.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/OutputDir.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigBean.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigBuilder.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/RegExprOutputFiles.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/RenamingConv.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/XmlFilePgeConfigBuilder.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/ConfigFilePropertyAdder.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "CASPGE.metadata",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/metadata/PcsMetadataKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/metadata/PgeMetadata.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/metadata/PgeTaskMetadataKeys.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "CASPGE.PGETask",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/PGETask.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/PGETaskInstance.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/PGETaskInstance.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "CASPGE.Dateversionconverter",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/query/conv/DateVersionConverter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/StdPGETaskInstance.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "CASPGE.writers",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/writers/metlist/MetadataListPcsMetFileWriter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/writers/PcsMetFileWriter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileWriter.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/writers/xslt/XslTransformWriter.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "OPeNDAPps.config",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ConfigServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Server.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/config/DatasetMetElem.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/config/OpendapConfig.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/config/OpendapConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/config/OpendapConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/config/RewriteSpec.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "OPeNDAPps.DapNames",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/DapNames.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "OPeNDAPps.Main",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/DatasetCrawler.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/DatasetExtractor.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "OPeNDAPps.OpendapProfileElementExtractor",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/OpendapProfileElementExtractor.java"
+        },
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/OpendapProfileHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "OPeNDAPps.util",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "opendapps/src/main/java/org/apache/oodt/opendapps/util/OpendapURLEvaluator.java"
+        },
+        {
+          "@type": "item",
+          "name": "profile/src/main/java/org/apache/oodt/profile/Utility.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebAppFileManagerProduct.ProductRDFHandling",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProductQueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/QueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/rdf/RDFConfigReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/rdf/RDFConfigReaderMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/Utility.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/rdf/ProductTypeFilter.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/rdf/RDFConfig.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebAppFileManagerProductCasProductHandler",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/CASProductHandlerMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "product/src/main/java/org/apache/oodt/product/QueryHandler.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebAppFileManagerProductRSSHandling",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/activity/Storage.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/main/java/org/apache/oodt/pcs/input/PGEConfigFileReader.java"
+        },
+        {
+          "@type": "item",
+          "name": "pcs/input/src/test/org/apache/oodt/pcs/input/PGEConfigFileReaderTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "grid/src/main/java/org/apache/oodt/grid/ProductQueryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/rss/RSSTagAttribute.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/main/java/org/apache/oodt/cas/pge/config/PgeConfigMetKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "pge/src/test/org/apache/oodt/cas/pge/util/UtilsTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/Configuration.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/rss/RSSProductTransferServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "WebAppFileManagerProductProductData",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/data/DataDeliveryServlet.java"
+        },
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/date/DateUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/data/DataDeliveryKeys.java"
+        },
+        {
+          "@type": "item",
+          "name": "webapp/fmprod/src/main/java/org/apache/oodt/cas/product/data/DatasetDeliveryServlet.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "SharedUtilitiesComponent",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/util/GenericResourceManagerObjectFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "resource/src/main/java/org/apache/oodt/cas/resource/util/JobBuilder.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/XmlRpcStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "filemgr/src/main/java/org/apache/oodt/cas/filemgr/util/XmlStructFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/test/org/apache/oodt/cas/workflow/util/TestGenericWorkflowObjectFactory.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "SharedWorkflowDataStructures",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowCondition.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowConditionConfiguration.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/WorkflowTaskConfiguration.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "SharedWorkflowExceptions",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "commons/src/main/java/org/apache/oodt/commons/EDAException.java"
+        },
+        {
+          "@type": "item",
+          "name": "catalog/src/main/java/org/apache/oodt/cas/catalog/exception/CatalogRepositoryException.java"
+        },
+        {
+          "@type": "item",
+          "name": "workflow/src/main/java/org/apache/oodt/cas/workflow/structs/exceptions/WorkflowTaskInstanceException.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "SSO",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "sso/src/main/java/org/apache/oodt/security/sso/DummyImpl.java"
+        },
+        {
+          "@type": "item",
+          "name": "sso/src/main/java/org/apache/oodt/security/sso/SingleSignOn.java"
+        },
+        {
+          "@type": "item",
+          "name": "sso/src/main/java/org/apache/oodt/security/sso/AbstractWebBasedSingleSignOn.java"
+        },
+        {
+          "@type": "item",
+          "name": "sso/src/main/java/org/apache/oodt/security/sso/SingleSignOnFactory.java"
+        }
+      ]
+    }
+  ]
+}
