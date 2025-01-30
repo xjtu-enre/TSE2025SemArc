@@ -1,0 +1,3928 @@
+{
+    "@schemaVersion": "1.0",
+    "name": "clustering",
+    "structure": [
+        {
+            "@type": "group",
+            "name": "apps",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "__main__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "apps/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "apps/registry.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "apps/config.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "language",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "conf/locale/el/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/hr/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/az/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_AR/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/he/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/nb/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ms/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/is/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en_GB/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/zh_Hant/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ar_DZ/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sv/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr_BE/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/de_CH/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_MX/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/pl/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/cs/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/it/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/bg/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/vi/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr_CA/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/gd/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ko/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ro/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/lt/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ar/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sr_Latn/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/tk/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr_CH/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/th/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_NI/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sq/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/bs/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en_AU/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/tg/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fa/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/pt/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en_IE/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/zh_Hans/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/et/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/lv/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sl/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/nl/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/mk/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/km/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/da/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ca/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ta/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ja/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ug/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/hi/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sr/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/eo/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/eu/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_PR/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ka/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/cy/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/te/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/hu/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/uz/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_CO/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sk/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/tr/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ckb/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/mn/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/bn/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ml/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ru/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ky/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ig/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/de/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/pt_BR/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/id/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/uk/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/gl/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/nn/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/kn/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fi/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fy/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ga/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr_BE/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/km/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/hu/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ar_DZ/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fy/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ta/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/th/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/uz/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/bg/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/mk/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/et/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/it/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ru/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sq/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr_CA/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/de_CH/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/pl/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/te/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/mn/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/pt/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fi/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ca/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/da/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/eo/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_AR/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/he/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/uk/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/cy/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sv/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ko/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ky/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/bn/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ka/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/hr/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/kn/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/lv/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fr_CH/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_PR/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sr/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/id/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/tr/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ro/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/nn/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ms/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ar/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/gl/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_CO/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_NI/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/lt/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/pt_BR/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/bs/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en_IE/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en_GB/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en_AU/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/es_MX/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/vi/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/hi/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sl/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/zh_Hans/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ja/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/de/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/eu/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ml/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/gd/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/is/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/zh_Hant/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/fa/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ckb/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/tg/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ig/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/tk/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/en/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/cs/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sk/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/el/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ga/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/sr_Latn/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/nb/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/nl/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/ug/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/az/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/locale/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/global_settings.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gis_commands",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/management/commands/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/management/commands/inspectdb.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/management/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/management/commands/ogrinspect.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gis_db",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/admin/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/base/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/mysql/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/adapter.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/proxy.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/fields.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/pgraster.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/aggregates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/mysql/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/lookups.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/admin/options.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geometry.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/functions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/mysql/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/adapter.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/adapter.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/base/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/base/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/mysql/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/base/adapter.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/const.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/mysql/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/sql/conversion.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/postgis/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/models/sql/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/mysql/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/base/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/oracle/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/backends/spatialite/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/db/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/apps.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "db_models",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/reverse_related.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/query_utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/related_descriptors.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/options.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/enums.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/math.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/mixins.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/expressions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/compiler.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/comparison.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/indexes.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/signals.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/where.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/query.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/manager.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/generated.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/files.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/related_lookups.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/aggregates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/related.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/proxy.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/deletion.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/json.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/text.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/query.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/fields/mixins.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/constraints.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/window.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/constants.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/datastructures.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/constants.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/functions/datetime.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/sql/subqueries.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/models/lookups.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/tree.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/hashable.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "utils",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/html.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/safestring.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/functional.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/autoreload.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/datastructures.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/_os.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/text.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/connection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/numberformat.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/cache.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/decorators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/regex_helper.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/encoding.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/deconstruct.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/deprecation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/dateparse.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/inspect.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/formats.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/crypto.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/duration.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/timezone.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/log.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/version.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/http.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/itercompat.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/transaction.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/utils.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "auth_commands",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/management/commands/createsuperuser.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/management/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/management/commands/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/management/commands/changepassword.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "auth",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/forms.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/signals.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/mixins.py"
+                },
+
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/base_user.py"
+                },
+
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/handlers/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/validators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/tokens.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/admin.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/context_processors.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/views/decorators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/handlers/modwsgi.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/backends.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/hashers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/urls.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/password_validation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/decorators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "shortcuts.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "commands",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/optimizemigration.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/startproject.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/testserver.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/diffsettings.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/makemessages.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/squashmigrations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/gzip.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/makemigrations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/createcachetable.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/compilemessages.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/templates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/flush.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/loaddata.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/migrate.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/dbshell.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/dumpdata.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/color.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/termcolors.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/showmigrations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/inspectdb.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/check.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/sqlsequencereset.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/sqlmigrate.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/test.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/sqlflush.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/startapp.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/sendtestemail.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/runserver.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/commands/shell.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/management/sql.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/jslex.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "postgres",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/forms/hstore.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/functions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/citext.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/forms/array.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/serializers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/indexes.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/aggregates/statistics.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/constraints.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/forms/ranges.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/hstore.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/aggregates/mixins.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/jsonb.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/lookups.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/aggregates/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/signals.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/forms/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/ranges.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/expressions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/search.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/aggregates/general.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/fields/array.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "oracle",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/functions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/validation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/oracledb_any.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/oracle/creation.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "admin",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/forms.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/templatetags/log.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/actions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/exceptions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/templatetags/admin_urls.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/helpers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/options.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/paginator.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/tests.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/templatetags/admin_list.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/filters.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/views/autocomplete.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/decorators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/ddl_references.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/templatetags/admin_modify.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/asgi.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/widgets.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/templatetags/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/debug.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/sites.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/views/main.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/templatetags/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/views/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "geos",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/servers/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/io.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/serializers/geojson.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/error.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/predicates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prepared.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/asyncio.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/geom.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/io.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/prepared.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/threadsafe.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/coordseq.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/misc.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/polygon.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/errcheck.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/coordseq.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/collections.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/factory.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/linestring.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/point.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/geometry.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/mutable_list.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/prototypes/topology.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/shortcuts.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/servers/basehttp.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geos/libgeos.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/serializers/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/migrations/state.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/graph.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/operations/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/autodetector.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/questioner.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/gzip.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/serializer.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/optimizer.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/executor.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/writer.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/operations/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/operations/fields.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/exceptions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/operations/special.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/operations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/recorder.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/migration.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/migrations/loader.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "staticfiles_commands",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/management/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/management/commands/runserver.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/management/commands/findstatic.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/management/commands/collectstatic.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/management/commands/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "staticfiles",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/utils.py"
+                },
+
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/finders.py"
+                },
+
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/testing.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/urls.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/storage.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/staticfiles/handlers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/static.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/urls/static.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/urls/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "files",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/files/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/locks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/storage/filesystem.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/uploadhandler.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/storage/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/storage/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/move.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/storage/handler.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/uploadedfile.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/temp.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/storage/memory.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/storage/mixins.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/files/images.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "checks",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/checks/caches.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/compatibility/django_4_0.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/translation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/security/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/archive.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/files.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/model_checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/templates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/messages.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/security/sessions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/async_checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/registry.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/urls.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/database.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/security/csrf.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/security/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/checks/compatibility/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "template",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "template/library.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/defaultfilters.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loader_tags.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/response.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/engine.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/defaulttags.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/autoreload.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/context.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/exceptions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/context_processors.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loader.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/smartif.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/lorem_ipsum.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gdal",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/geometries.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/feature.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/sitemaps/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/datasource.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/geomtype.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/layer.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/error.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/srs.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/field.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/libgdal.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/driver.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/envelope.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/ptr.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "auth_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0001_initial.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0002_alter_permission_name_max_length.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0012_alter_user_first_name_max_length.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0003_alter_user_email_max_length.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0007_alter_validators_add_error_messages.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0009_alter_user_last_name_max_length.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0005_alter_user_last_login_null.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0006_require_contenttypes_0002.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0010_alter_group_name_max_length.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0008_alter_user_username_max_length.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0004_alter_user_username_opts.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/auth/migrations/0011_update_proxy_permissions.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sessions_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/migrations/0001_initial.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/migrations/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "contenttypes",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/fields.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/forms.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/prefetch.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/admin.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "contenttypes_commands",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/management/commands/remove_stale_contenttypes.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/management/commands/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/management/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sessions",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/cached_db.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/signed_cookies.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/cache.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/db.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/exceptions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/file.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/base_session.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/backends/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sessions_commands",
+            "nested": [
+
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/management/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/management/commands/clearsessions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/management/commands/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "mail",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/smtp.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/message.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/dummy.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/locmem.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/console.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/filebased.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/mail/backends/base.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "flatpages",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/forms.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/templatetags/flatpages.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/urls.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/admin.py"
+                },
+
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/templatetags/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/sitemaps.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sites",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/wsgi.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/managers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/requests.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/checks.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/admin.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/shortcuts.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/management.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "mysql",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/compiler.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/validation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/creation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/mysql/base.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sqlite3",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/creation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/_functions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/sqlite3/schema.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "db_base",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/validation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/operations.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/creation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/base/schema.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "forms",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "forms/boundfield.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/fields.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/formsets.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/forms.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/models.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/widgets.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "forms/renderers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/choices.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "cache",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/db.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/dummy.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/redis.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/filebased.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/locmem.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/memcached.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/backends/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/cache/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/cache.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "postgresql",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/creation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/schema.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/introspection.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/psycopg_any.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/postgresql/operations.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "admindocs",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/admindocs/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admindocs/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admindocs/urls.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/clickjacking.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/utils/ogrinfo.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admindocs/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admindocs/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admindocs/apps.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "test",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "test/selenium.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/runner.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/testcases.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/html.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/client.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/signals.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "test/utils.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "messages",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/constants.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/context_processors.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/api.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/ipv6.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/test.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "serializers",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/serializers/jsonl.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/serializers/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/serializers/pyyaml.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/serializers/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/serializers/python.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/serializers/json.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/serializers/xml_serializer.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/xmlutils.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "urls",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "urls/conf.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "urls/resolvers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "urls/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "urls/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "urls/converters.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "urls/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "urls/exceptions.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "message_storage",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/storage/cookie.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/signing.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sessions/serializers.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/storage/session.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/storage/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/storage/fallback.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/messages/storage/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/module_loading.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gdal_prototypes",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/srs.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/raster.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/errcheck.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/geom.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/generation.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/prototypes/ds.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "handlers",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/handlers/exception.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/handlers/wsgi.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/handlers/asgi.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/handlers/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/handlers/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/debug.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/signals.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "template_loaders",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "template/loaders/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loaders/app_directories.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loaders/filesystem.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loaders/cached.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loaders/base.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/loaders/locmem.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "decorators",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "views/decorators/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/csrf.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/clickjacking.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/vary.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/http.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/common.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/decorators/cache.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/http.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "http",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "http/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "http/response.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "http/cookie.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "http/request.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "http/multipartparser.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "middleware",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "middleware/security.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/locale.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/common.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "template_backends",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "template/backends/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/backends/dummy.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/backends/utils.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/backends/jinja2.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/backends/django.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "template/backends/base.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "templatetags",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "templatetags/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "templatetags/i18n.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "templatetags/l10n.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "templatetags/static.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "templatetags/cache.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "templatetags/tz.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "translation",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "utils/translation/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/translation/reloader.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/translation/trans_real.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/translation/template.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/translation/trans_null.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "conf/urls/i18n.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/i18n.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/humanize/templatetags/humanize.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/humanize/templatetags/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/humanize/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/humanize/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/dates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/timesince.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/dateformat.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "generic",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "views/generic/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/generic/edit.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/generic/list.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/generic/dates.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/generic/detail.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/generic/base.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "admin_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/migrations/0001_initial.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/migrations/0003_logentry_add_action_flag_choices.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/migrations/0002_logentry_remove_auto_add.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/admin/migrations/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "flatpages_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/migrations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/flatpages/migrations/0001_initial.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "raster",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/raster/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/raster/source.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/raster/const.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/raster/band.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/gdal/raster/base.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gis_sitemaps",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/sitemaps/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/sitemaps/kml.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/utils/srs.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gis_forms",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/forms/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/forms/widgets.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/forms/fields.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "redirects",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/middleware.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/admin.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/models.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "syndication_feed",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/feeds.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "utils/feedgenerator.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/syndication/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/syndication/apps.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/syndication/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "contenttypes_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/migrations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/migrations/0002_remove_content_type_name.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/contenttypes/migrations/0001_initial.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "geolocation",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/geoip2.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/measure.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "gis_utils",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/utils/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/utils/layermapping.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/gis/utils/ogrinspect.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "redirects_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/migrations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/migrations/0002_alter_redirect_new_path_help_text.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/redirects/migrations/0001_initial.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sitemaps",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/sitemaps/views.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sitemaps/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sitemaps/apps.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "sites_migrations",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/migrations/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/migrations/0002_alter_domain_unique.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/sites/migrations/0001_initial.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "validators",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "core/validators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "contrib/postgres/validators.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/exceptions.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "core/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "dummy",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "db/backends/dummy/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/dummy/features.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/dummy/base.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "dispatch",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "dispatch/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "dispatch/dispatcher.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "db/backends/signals.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "views",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "views/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/defaults.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "views/csrf.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "middleware/csrf.py"
+                }
+            ]
+        }
+    ]
+}
