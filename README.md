@@ -24,13 +24,15 @@ To run the semantic analysis, use the following command:
 
 ```bash
 python semantic_analysis.py [project folder]
+```
 
 ## SemArc
 ### Usage
 ```bash
 SemArc.py [-h] [-g  [...]] [-o] [--cache_dir] [-s  [...]] [-a  [...]] [-c  [...]] [-r] [-n] datapath [datapath ...]
-````
+```
 positional arguments:
+````
   datapath              path to the input project folder
 
 options:
