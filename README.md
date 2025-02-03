@@ -50,3 +50,11 @@ options:
   -r , --resolution     resolution parameter, affecting the final cluster size.
   -n, --no_fig          prevent figure generation
 ````
+### Example
+
+We have provided a **demo** folder that contains the source code, ground-truth architecture and semantic files of **bash-4.2**. You can run the architecture recovery process on this example project using the following command:
+
+```bash
+python .\SemArc.py .\demo\bash-4.2 -s .\stopwords.txt -a .\semantic_analysis\bash-4.2_ArchSem.json -c .\semantic_analysis\bash-4.2_CodeSem.json -g .\demo\bash-4.2-GT.json
+```
+
