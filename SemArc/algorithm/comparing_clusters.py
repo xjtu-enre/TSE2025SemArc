@@ -813,8 +813,8 @@ METRICS_TO_FUNCTION = {
     # 'ARI': fun_ARI,
     'a2a_adj': fun_a2a_adj_v3,
     # 'c2c_cvg': fun_c2c_cvg,
-    'c2c_cvg_66': fun_c2c_cvg_66,
-    'c2c_cvg_50': fun_c2c_cvg,
+    'c2c_cvg': fun_c2c_cvg_66,
+    # 'c2c_cvg_50': fun_c2c_cvg,
     # 'c2c_cvg_33': fun_c2c_cvg_33,
     # 'c2c_cvg_10': fun_c2c_cvg_10,
 

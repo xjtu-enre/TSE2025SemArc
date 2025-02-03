@@ -90,6 +90,6 @@ if __name__ == '__main__':
         stopword_files=args.stopword_file,
         fig_add_texts = [False],
         generate_figures = not args.no_fig,
-        pattern_file = args.pattern_file,
-        llm_file = args.llm_file
+        pattern_file = args.archsem_file,
+        llm_file = args.codesem_file
     )
