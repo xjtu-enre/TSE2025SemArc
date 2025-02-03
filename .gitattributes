@@ -9,3 +9,5 @@
 *.cmd linguist-language=Python
 *.c linguist-language=Python
 *.h linguist-language=Python 
+*.cpp linguist-language=Python
+*.cmake linguist-language=Python
