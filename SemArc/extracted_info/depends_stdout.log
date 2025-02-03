@@ -1,0 +1,43 @@
+Usage: depends [-hms] [--auto-include] [--auto-stub] [--detail]
+               [--duck-typing-deduce] [--external-deps] [--output-self-deps]
+               [-d=<dir>] [-p=<namePathPattern>] [--strip-paths=<strippedPaths>
+               [,<strippedPaths>...]]... [--type-filter=<typeFilter>[,
+               <typeFilter>...]]... [-f=<format>[,<format>...]]...
+               [-g=<granularity>[,<granularity>...]]... [-i=<includes>[,
+               <includes>...]]... <lang> <src> <output>
+      <lang>                 The lanauge of project files: [cpp, python, java, kotlin
+                               [on-going], go, ruby, pom]
+      <src>                  The directory to be analyzed
+      <output>               The output file name
+      --auto-include         auto include all paths under the source path (please
+                               notice the potential side effect)
+      --auto-stub            create stub files for unsolved symbols (exprimental
+                               feature, only for java)
+      --detail               add detail dependency information to output (only
+                               applicable for JSON output format)
+      --duck-typing-deduce   Deduce implicit variable types
+      --external-deps        Output external dependencies
+      --output-self-deps     Output self dependencies
+      --strip-paths=<strippedPaths>[,<strippedPaths>...]
+                             The path(s) to be stripped. if -s enabled, the path(s)
+                               start after <src>. Otherwise, the path(s) should be
+                               valid.
+      --type-filter=<typeFilter>[,<typeFilter>...]
+                             only filter the listed dependency types[Import,
+                               Contain, Implement, Extend, Call, Parameter, Return,
+                               Set, Create, Use, Receive, Cast, Throw, Annotation,
+                               MixIn, Link, Parent, Plugin, Dependency]
+  -d, --dir=<dir>            The output directory
+  -f, --format=<format>[,<format>...]
+                             the output format: [json(default),xml,excel,detail,dot,
+                               plantuml]
+  -g, --granularity=<granularity>[,<granularity>...]
+                             Granularity of dependency.[file(default),method,
+                               structure]
+  -h, --help                 display this help and exit
+  -i, --includes=<includes>[,<includes>...]
+                             The files of searching path
+  -m, --map                  Output DV8 dependency map file.
+  -p, --namepattern=<namePathPattern>
+                             The name path pattern.[dot(.), unix(/) or windows(\)
+  -s, --strip-leading-path   Strip the leading path.

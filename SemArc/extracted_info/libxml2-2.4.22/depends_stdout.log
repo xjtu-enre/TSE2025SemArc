@@ -1,0 +1,862 @@
+Start parsing files...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\c14n.c...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\win32config.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\macos\src\config-mac.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\list.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\SAX.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xlink.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\c14n.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\catalog.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\debugXML.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\DOCBparser.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\SAX.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\DOCBparser.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\encoding.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\entities.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+warning: parse error if (doc != NULL)
+			doc->encoding = xmlStrdup(BAD_CAST "ISO-8859-1");Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\entities.c:676
+warning: parse error if (doc != NULL)
+			doc->encoding = xmlStrdup(BAD_CAST "ISO-8859-1");Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\entities.c:709
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\error.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\example\gjobread.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\globals.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\SAX.h...skip
+parsing error 
+xmlFreeFunc xmlFree = (xmlFreeFunc) xmlMemFree;
+warning: parse error xmlFreeFunc xmlFree = (xmlFreeFunc) xmlMemFree;Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\globals.c:51
+parsing error 
+xmlMallocFunc xmlMalloc = (xmlMallocFunc) xmlMemMalloc;
+warning: parse error xmlMallocFunc xmlMalloc = (xmlMallocFunc) xmlMemMalloc;Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\globals.c:52
+parsing error 
+xmlReallocFunc xmlRealloc = (xmlReallocFunc) xmlMemRealloc;
+warning: parse error xmlReallocFunc xmlRealloc = (xmlReallocFunc) xmlMemRealloc;Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\globals.c:53
+parsing error 
+xmlStrdupFunc xmlMemStrdup = (xmlStrdupFunc) xmlMemoryStrdup;
+warning: parse error xmlStrdupFunc xmlMemStrdup = (xmlStrdupFunc) xmlMemoryStrdup;Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\globals.c:54
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\hash.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\HTMLparser.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\HTMLtree.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\list.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\list.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\macos\src\macos_main.c...
+parsing error 
+DECLARE_MAIN(test)REGISTER_MAIN_STARTREGISTER_MAIN(test)REGISTER_MAIN_ENDint main(){	(void) exec_commands();		return 0;}
+warning: parse error DECLARE_MAIN(test)REGISTER_MAIN_STARTREGISTER_MAIN(test)REGISTER_MAIN_ENDint main(){	(void) exec_commands();		return 0;}Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\macos\src\macos_main.c:1
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\nanoftp.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\nanoftp.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\nanohttp.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+warning: parse error !xmlStrncasecmp(BAD_CAST line, BAD_CAST"Content-Type:", 13)Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c:664
+warning: parse error !xmlStrncasecmp(BAD_CAST line, BAD_CAST"ContentType:", 12)Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c:670
+warning: parse error !xmlStrncasecmp(BAD_CAST line, BAD_CAST"Location:", 9)Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c:675
+warning: parse error !xmlStrncasecmp(BAD_CAST line, BAD_CAST"WWW-Authenticate:", 17)Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c:681
+warning: parse error !xmlStrncasecmp(BAD_CAST line, BAD_CAST"Proxy-Authenticate:", 19)Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c:687
+warning: parse error !xmlStrncasecmp( BAD_CAST line, BAD_CAST"Content-Length:", 15)Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\nanohttp.c:693
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\parser.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\parserInternals.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\encoding.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\SAX.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\nanoftp.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\nanohttp.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xinclude.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpointer.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+parsing error 
+PyObject_HEAD
+warning: parse error PyObject_HEADSyntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h:22
+parsing error 
+PyObject_HEAD
+warning: parse error PyObject_HEADSyntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h:30
+parsing error 
+PyObject_HEAD
+warning: parse error PyObject_HEADSyntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h:38
+parsing error 
+PyObject_HEAD
+warning: parse error PyObject_HEADSyntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h:46
+parsing error 
+PyObject_HEAD
+warning: parse error PyObject_HEADSyntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h:54
+parsing error 
+PyObject_HEAD
+warning: parse error PyObject_HEADSyntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h:62
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\python\types.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\python\libxml_wrap.h...skip
+warning: parse error if PyFloat_Check
+        (obj) {
+        ret = xmlXPathNewFloat((double) PyFloat_AS_DOUBLE(obj));
+    }Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\types.c:395
+warning: parse error else if PyString_Check
+        (obj) {
+        xmlChar *str;
+
+        str = xmlStrndup((const xmlChar *) PyString_AS_STRING(obj),
+                         PyString_GET_SIZE(obj));
+        ret = xmlXPathWrapString(str);
+    }Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\types.c:398
+warning: parse error else if PyList_Check
+        (obj) {
+        int i;
+        PyObject *node;
+        xmlNodePtr cur;
+        xmlNodeSetPtr set;
+
+        set = xmlXPathNodeSetCreate(NULL);
+
+        for (i = 0; i < PyList_Size(obj); i++) {
+            node = PyList_GetItem(obj, i);
+            if ((node == NULL) || (node->ob_type == NULL))
+                continue;
+
+            cur = NULL;
+            if (PyCObject_Check(node)) {
+                printf("Got a CObject\n");
+                cur = PyxmlNode_Get(node);
+            } else if (PyInstance_Check(node)) {
+                PyInstanceObject *inst = (PyInstanceObject *) node;
+                PyObject *name = inst->in_class->cl_name;
+
+                if PyString_Check
+                    (name) {
+                    char *type = PyString_AS_STRING(name);
+                    PyObject *wrapper;
+
+                    if (!strcmp(type, "xmlNode")) {
+                        wrapper =
+                            PyObject_GetAttrString(node, (char *) "_o");
+                        if (wrapper != NULL) {
+                            cur = PyxmlNode_Get(wrapper);
+                        }
+                    }
+                    }
+            } else {
+                printf("Unknown object in Python return list\n");
+            }
+            if (cur != NULL) {
+                xmlXPathNodeSetAdd(set, cur);
+            }
+        }
+        ret = xmlXPathWrapNodeSet(set);
+    }Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\types.c:405
+warning: parse error else {
+        printf("Unable to convert Python Object to XPath");
+    }Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\python\types.c:448
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\SAX.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\SAX.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testAutomata.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlautomata.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlregexp.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testC14N.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\c14n.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testDocbook.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\DOCBparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testHTML.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testRegexp.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlregexp.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testSAX.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testSchemas.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlschemas.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testThreads.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testThreadsWin32.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+parsing error 
+I
+warning: parse error IMissing ';' in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\testThreadsWin32.c:40
+parsing error 
+thread_specific_data(void *private_data)
+{
+    xmlDocPtr myDoc;
+    const char *filename = (const char *) private_data;
+    int okay = 1;
+
+    if (!strcmp(filename, "test/threads/invalid.xml")) {
+        xmlDoValidityCheckingDefaultValue = 0;
+        xmlGenericErrorContext = stdout;
+    } else {
+        xmlDoValidityCheckingDefaultValue = 1;
+        xmlGenericErrorContext = stderr;
+    }
+    myDoc = xmlParseFile(filename);
+    if (myDoc) {
+        xmlFreeDoc(myDoc);
+    } else {
+        printf("parse failed\n");
+	okay = 0;
+    }
+    if (!strcmp(filename, "test/threads/invalid.xml")) {
+        if (xmlDoValidityCheckingDefaultValue != 0) {
+	    printf("ValidityCheckingDefaultValue override failed\n");
+	    okay = 0;
+	}
+        if (xmlGenericErrorContext != stdout) {
+	    printf("xmlGenericErrorContext override failed\n");
+	    okay = 0;
+	}
+    } else {
+        if (xmlDoValidityCheckingDefaultValue != 1) {
+	    printf("ValidityCheckingDefaultValue override failed\n");
+	    okay = 0;
+	}
+        if (xmlGenericErrorContext != stderr) {
+	    printf("xmlGenericErrorContext override failed\n");
+	    okay = 0;
+	}
+    }
+    if (okay == 0)
+	return ((DWORD) Failed);
+    return ((DWORD) Okay);
+}
+warning: parse error thread_specific_data(void *private_data)
+{
+    xmlDocPtr myDoc;
+    const char *filename = (const char *) private_data;
+    int okay = 1;
+
+    if (!strcmp(filename, "test/threads/invalid.xml")) {
+        xmlDoValidityCheckingDefaultValue = 0;
+        xmlGenericErrorContext = stdout;
+    } else {
+        xmlDoValidityCheckingDefaultValue = 1;
+        xmlGenericErrorContext = stderr;
+    }
+    myDoc = xmlParseFile(filename);
+    if (myDoc) {
+        xmlFreeDoc(myDoc);
+    } else {
+        printf("parse failed\n");
+	okay = 0;
+    }
+    if (!strcmp(filename, "test/threads/invalid.xml")) {
+        if (xmlDoValidityCheckingDefaultValue != 0) {
+	    printf("ValidityCheckingDefaultValue override failed\n");
+	    okay = 0;
+	}
+        if (xmlGenericErrorContext != stdout) {
+	    printf("xmlGenericErrorContext override failed\n");
+	    okay = 0;
+	}
+    } else {
+        if (xmlDoValidityCheckingDefaultValue != 1) {
+	    printf("ValidityCheckingDefaultValue override failed\n");
+	    okay = 0;
+	}
+        if (xmlGenericErrorContext != stderr) {
+	    printf("xmlGenericErrorContext override failed\n");
+	    okay = 0;
+	}
+    }
+    if (okay == 0)
+	return ((DWORD) Failed);
+    return ((DWORD) Okay);
+}Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\testThreadsWin32.c:41
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testURI.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\testXPath.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpointer.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\threads.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing error 
+void __cdecl xmlGlobalStateCleanupHelper (void *p)
+{
+	xmlGlobalStateCleanupHelperParams *params = (xmlGlobalStateCleanupHelperParams *) p;
+	WaitForSingleObject (params->thread, INFINITE);
+	CloseHandle (params->thread);
+	xmlFreeGlobalState (params->memory);
+	free (params);
+	_endthread ();
+}
+warning: parse error void __cdecl xmlGlobalStateCleanupHelper (void *p)
+{
+	xmlGlobalStateCleanupHelperParams *params = (xmlGlobalStateCleanupHelperParams *) p;
+	WaitForSingleObject (params->thread, INFINITE);
+	CloseHandle (params->thread);
+	xmlFreeGlobalState (params->memory);
+	free (params);
+	_endthread ();
+}Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\threads.c:340
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\tree.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\entities.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\triodef.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\triop.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\triostr.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\triodef.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\triop.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\trionan.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\triodef.h...skip
+warning: parse error parameters[i].data.string = (argarray == NULL)
+		? va_arg(arglist, char *)
+		: (char *)(argarray[num]);Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,685
+warning: parse error parameters[i].data.pointer = (argarray == NULL)
+	    ? va_arg(arglist, void *)
+	    : argarray[num];Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,695
+warning: parse error if (argarray == NULL)
+                parameters[i].data.pointer = 
+                  (trio_uintmax_t *)va_arg(arglist, void *);Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,704
+warning: parse error else
+                {
+                  if (parameters[i].type == FORMAT_CHAR)
+                    parameters[i].data.pointer =
+                      (trio_uintmax_t *)((char *)argarray[num]);
+                  else if (parameters[i].flags & FLAGS_SHORT)
+                    parameters[i].data.pointer =
+                      (trio_uintmax_t *)((short *)argarray[num]);
+                  else
+                    parameters[i].data.pointer =
+                      (trio_uintmax_t *)((int *)argarray[num]);
+                }Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,707
+warning: parse error if (parameters[i].flags & FLAGS_SIZE_T)
+		parameters[i].data.number.as_unsigned = (argarray == NULL)
+		  ? (trio_uintmax_t)va_arg(arglist, size_t)
+		  : (trio_uintmax_t)(*((size_t *)argarray[num]));
+	      else
+#endif
+#if defined(QUALIFIER_PTRDIFF_T)
+	      if (parameters[i].flags & FLAGS_PTRDIFF_T)
+		parameters[i].data.number.as_unsigned = (argarray == NULL)
+		  ? (trio_uintmax_t)va_arg(arglist, ptrdiff_t)
+		  : (trio_uintmax_t)(*((ptrdiff_t *)argarray[num]));
+	      else
+#endif
+#if defined(QUALIFIER_INTMAX_T)
+	      if (parameters[i].flags & FLAGS_INTMAX_T)
+		parameters[i].data.number.as_unsigned = (argarray == NULL)
+		  ? (trio_uintmax_t)va_arg(arglist, trio_intmax_t)
+		  : (trio_uintmax_t)(*((trio_intmax_t *)argarray[num]));
+	      else
+#endif
+	      if (parameters[i].flags & FLAGS_QUAD)
+		parameters[i].data.number.as_unsigned = (argarray == NULL)
+		  ? (trio_uintmax_t)va_arg(arglist, trio_ulonglong_t)
+		  : (trio_uintmax_t)(*((trio_ulonglong_t *)argarray[num]));
+	      else if (parameters[i].flags & FLAGS_LONG)
+		parameters[i].data.number.as_unsigned = (argarray == NULL)
+		  ? (trio_uintmax_t)va_arg(arglist, long)
+		  : (trio_uintmax_t)(*((long *)argarray[num]));Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,762
+warning: parse error else
+		{
+		  if (argarray == NULL)
+		    parameters[i].data.number.as_unsigned = (trio_uintmax_t)va_arg(arglist, int);
+		  else
+		    {
+		      if (parameters[i].type == FORMAT_CHAR)
+			parameters[i].data.number.as_unsigned = (trio_uintmax_t)(*((char *)argarray[num]));
+		      else if (parameters[i].flags & FLAGS_SHORT)
+			parameters[i].data.number.as_unsigned = (trio_uintmax_t)(*((short *)argarray[num]));
+		      else
+			parameters[i].data.number.as_unsigned = (trio_uintmax_t)(*((int *)argarray[num]));
+		    }
+		}Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,790
+warning: parse error if (parameters[i].flags & FLAGS_USER_DEFINED)
+	    parameters[i].data.pointer = (argarray == NULL)
+	      ? va_arg(arglist, void *)
+	      : argarray[num];Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,812
+warning: parse error else
+	    parameters[i].data.number.as_unsigned = (argarray == NULL)
+	      ? (trio_uintmax_t)va_arg(arglist, int)
+	      : (trio_uintmax_t)(*((int *)argarray[num]));Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,816
+warning: parse error if (parameters[i].flags & FLAGS_LONG)
+		parameters[i].data.longdoublePointer = (argarray == NULL)
+		  ? va_arg(arglist, long double *)
+		  : (long double *)((long double *)argarray[num]);Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,825
+warning: parse error else
+                {
+                  if (argarray == NULL)
+                    parameters[i].data.doublePointer =
+                      va_arg(arglist, double *);
+                 else
+                   {
+                     if (parameters[i].flags & FLAGS_SHORT)
+                       parameters[i].data.doublePointer =
+                         (double *)((float *)argarray[num]);
+                     else
+                       parameters[i].data.doublePointer =
+                         (double *)((double *)argarray[num]);
+                   }
+                }Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,829
+warning: parse error if (parameters[i].flags & FLAGS_LONG)
+		parameters[i].data.longdoubleNumber = (argarray == NULL)
+		  ? va_arg(arglist, long double)
+		  : (long double)(*((long double *)argarray[num]));Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,847
+warning: parse error else
+		{
+		  if (argarray == NULL)
+		    parameters[i].data.longdoubleNumber =
+		      (long double)va_arg(arglist, double);
+		  else
+		    {
+		      if (parameters[i].flags & FLAGS_SHORT)
+			parameters[i].data.longdoubleNumber =
+			  (long double)(*((float *)argarray[num]));
+		      else
+			parameters[i].data.longdoubleNumber =
+			  (long double)(long double)(*((double *)argarray[num]));
+		    }
+		}Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\trio.c:1,851
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\trionan.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\triodef.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\trionan.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\triostr.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\triostr.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\uri.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\list.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+warning: parse error (xmlStrEqual(ret->name, BAD_CAST "xmlns")) ||
+	    ((ret->prefix != NULL &&
+	     (xmlStrEqual(ret->prefix, BAD_CAST "xmlns"))))Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:1,390
+warning: parse error (tmp != NULL) &&
+		   ((xmlStrEqual(tmp->name, BAD_CAST "xmlns")) ||
+		    ((ret->prefix != NULL &&
+		     (xmlStrEqual(ret->prefix, BAD_CAST "xmlns")))))Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:1,398
+warning: parse error (xmlStrEqual(BAD_CAST "id", attr->name)) ||
+	    (xmlStrEqual(BAD_CAST "name", attr->name))Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:1,923
+warning: parse error tmp->content = xmlStrdup(BAD_CAST "CDATA");Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:4,122
+warning: parse error (attr->prefix == NULL) &&
+		(xmlStrEqual(attr->name, BAD_CAST "xmlns"))Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:4,542
+warning: parse error xmlStrEqual(attr->prefix, BAD_CAST "xmlns")Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:4,552
+warning: parse error (attr->prefix == NULL) &&
+		(xmlStrEqual(attr->name, BAD_CAST "xmlns"))Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:4,626
+warning: parse error xmlStrEqual(attr->prefix, BAD_CAST "xmlns")Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:4,643
+warning: parse error (xmlStrEqual(doc->intSubset->name, BAD_CAST "HTML")) &&
+		(xmlStrEqual(root->name, BAD_CAST "html"))Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:4,710
+warning: parse error xmlStrEqual(BAD_CAST "#PCDATA", list[i])Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:5,177
+warning: parse error TMissing ';' in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:5,178
+warning: parse error test_node = xmlNewNode (NULL, BAD_CAST "<!dummy?>");Syntax error in file: D:\lda_demoGPT\local\data\libxml2-2.4.22\valid.c:5,276
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xinclude.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpointer.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xinclude.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xlink.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xlink.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlcatalog.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlIO.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlIO.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\nanohttp.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\nanoftp.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmllint.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\HTMLtree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xinclude.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\catalog.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\DOCBparser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlmemory.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlregexp.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlregexp.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlautomata.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlunicode.h...
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlschemas.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlschemas.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\schemasInternals.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlregexp.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlschemastypes.h...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlwin32version.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\schemasInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlautomata.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlregexp.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlschemastypes.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parser.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlschemas.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\schemasInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlschemastypes.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xmlunicode.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlunicode.h...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xpath.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\tree.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\valid.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\hash.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpointer.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\threads.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\trionan.c...skip
+parsing D:\lda_demoGPT\local\data\libxml2-2.4.22\xpointer.c...
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\libxml.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpointer.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlmemory.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\parserInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\uri.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpath.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xpathInternals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\xmlerror.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\globals.h...skip
+already parsed D:\lda_demoGPT\local\data\libxml2-2.4.22\include\libxml\debugXML.h...skip
+all files procceed successfully...
+Resolve types and bindings of variables, methods and expressions....
+Resolve type bindings....
+Dependency analaysing....
+types and bindings resolved successfully...
+Dependency done....
+dependencie data generating...
+Start create dependencies matrix....
+Finish create dependencies matrix....
+reorder dependency matrix...
+Dependencies data generating done successfully...
+Consumed time: 25.074 s,  or 0.4179 min.

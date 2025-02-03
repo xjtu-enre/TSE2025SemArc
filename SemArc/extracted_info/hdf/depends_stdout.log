@@ -1,0 +1,2930 @@
+Start parsing files...
+parsing D:\lda_demoGPT\local\data\hdf\core\adapter\syscall\src\hdf_devmgr_adapter.c...
+parsing D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...
+parsing D:\lda_demoGPT\local\data\hdf\include\core\hdf_io_service_if.h...
+parsing D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\adapter\syscall\src\hdf_syscall_adapter.c...
+parsing D:\lda_demoGPT\local\data\hdf\include\osal\osal_thread.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\osal\osal_time.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\adapter\syscall\include\hdf_syscall_adapter.h...
+parsing D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_thread.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\adapter\vnode\src\hdf_vnode_adapter.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\adapter\vnode\include\hdf_vnode_adapter.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\osal\osal_cdev.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\osal\osal_sem.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\devsvc_manager_if.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_listener_holder.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_service_status.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\common\include\host\hdf_device_section.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_io_service_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\common\include\manager\hdf_device_node_ext.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_device_info.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_driver.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\core\hdf_pm.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\common\src\buildin_config_entry.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\common\src\devlite_object_config.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\devhost_service.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\devhost_service_if.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_device_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_observer.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_subscriber.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\devmgr_service.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\devmgr_service_if.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\devhost_service_if.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\device_token_if.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\power_state_token_if.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_power_state.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_manager.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\devsvc_manager_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_observer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_manager_ext.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\common\include\manager\hdf_device_node_ext.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_token.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\device_token_if.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_driver_installer.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_driver_loader.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_device_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\common\src\devmgr_service_start.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\common\include\manager\devmgr_service_start.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\devhost_service_clnt.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\devhost_service_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devmgr_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_power_manager.h...
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\power_state_token.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\power_state_token_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_pm.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\common\src\hdf_attribute.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_attribute_manager.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devhost_service_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devhost_service_clnt.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_host_info.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\common\src\hdf_attribute_macro.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_attribute_macro.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devhost_service_clnt.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\include\utils\hcs_macro.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_attribute_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_host_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\common\src\hdf_device_node_ext.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\common\include\manager\hdf_device_node_ext.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\devhost_service.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devhost_service.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\devmgr_service_clnt.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\devhost_service_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\devmgr_service_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_token.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_driver.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_driver_loader.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\power_state_token.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\devmgr_service_clnt.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devmgr_service_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\devsvc_manager_clnt.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_token.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_observer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_node.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devhost_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devmgr_service_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_attribute_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_object.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_token.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_driver_loader.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_observer_record.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\power_state_token.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_object.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devhost_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devsvc_manager_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_driver_loader.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_observer_record.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_power_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_observer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\power_state_token.h...skip
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:37
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:55
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:66
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:77
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:90
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:106
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:123
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:137
+warning: parse error devNode = (struct HdfDeviceNode *)HDF_SLIST_CONTAINER_OF(
+        struct HdfDeviceObject, deviceObject, struct HdfDeviceNode, deviceObject);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_object.c:150
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_device_token.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_token.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_driver_loader.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_driver_loader.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_driver.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_observer_record.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_observer_record.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_subscriber.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_power_manager.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_power_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_pm_reg.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\power_state_token.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_service_observer.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_observer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_observer_record.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\hdf_service_subscriber.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_service_subscriber.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\host\src\power_state_token.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\power_state_token.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devmgr_service_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_power_state.h...skip
+warning: parse error stateToken = (struct PowerStateToken *)HDF_SLIST_CONTAINER_OF(
+        struct HdfSRef, sref, struct PowerStateToken, wakeRef);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\power_state_token.c:22
+warning: parse error stateToken = (struct PowerStateToken *)HDF_SLIST_CONTAINER_OF(
+        struct HdfSRef, sref, struct PowerStateToken, wakeRef);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\host\src\power_state_token.c:45
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\devhost_service_clnt.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devhost_service_clnt.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\device_token_clnt.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\device_token_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_device_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\common\include\manager\devmgr_service_start.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_driver_installer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\device_token_clnt.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\device_token_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_token.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\devmgr_service.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devmgr_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devhost_service_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\device_token_clnt.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_attribute_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_driver_installer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_host_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_time.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\devsvc_manager.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devmgr_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_service_record.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_object.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\devsvc_manager_ext.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_listener_holder.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\hdf_device_node.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\svcmgr_ioservice.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_service_status.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\driver_manager.c...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_driver.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\hdf_driver_installer.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_driver_installer.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\host\include\devhost_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\hdf_host_info.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\hdf_host_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\power_state_token_clnt.c...
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\include\power_state_token_clnt.h...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\power_state_token_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\src\servstat_listener_holder.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\manager\include\devsvc_listener_holder.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_device_desc.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mutex.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_power_state.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\include\ioservstat_listener.h...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_io_service_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_service_status.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_time.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\svcmgr_ioservice.h...skip
+warning: parse error HDF_LOGE("%s: received event[%d] from %s at %" PRIu64 ".%" PRIu64 "", (char *)listener->priv, eventCount++,
+        (char *)service->priv, time.sec, time.usec);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:86
+warning: parse error HDF_LOGE("send event finish at %" PRIu64 ".%" PRIu64 "", time.sec, time.usec);Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:141
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService001, TestSize.Level0)
+{
+    struct HdfIoService *testServ = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(testServ, nullptr);
+    HdfIoServiceRecycle(testServ);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService001, TestSize.Level0)
+{
+    struct HdfIoService *testServ = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(testServ, nullptr);
+    HdfIoServiceRecycle(testServ);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:155
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService002, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv0";
+
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+    HdfIoServiceGroupRecycle(group);
+
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService002, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv0";
+
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+    HdfIoServiceGroupRecycle(group);
+
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:168
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService003, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv0";
+
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupAddService(group, serv1);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceRegisterEventListener(serv, &listener1.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+    ASSERT_EQ(1, listener1.eventCount);
+    HdfIoServiceGroupRecycle(group);
+    HdfDeviceUnregisterEventListener(serv, &listener1.listener);
+    HdfIoServiceRecycle(serv);
+    HdfIoServiceRecycle(serv1);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService003, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv0";
+
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupAddService(group, serv1);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceRegisterEventListener(serv, &listener1.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+    ASSERT_EQ(1, listener1.eventCount);
+    HdfIoServiceGroupRecycle(group);
+    HdfDeviceUnregisterEventListener(serv, &listener1.listener);
+    HdfIoServiceRecycle(serv);
+    HdfIoServiceRecycle(serv1);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:218
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService004, TestSize.Level0)
+{
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    int ret = HdfDeviceRegisterEventListener(serv1, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    ret = SendEvent(serv1, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv1, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    HdfIoServiceRecycle(serv1);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService004, TestSize.Level0)
+{
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    int ret = HdfDeviceRegisterEventListener(serv1, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    ret = SendEvent(serv1, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv1, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    HdfIoServiceRecycle(serv1);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:273
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService005, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    HdfIoServiceGroupRemoveService(group, serv);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+    HdfIoServiceGroupRecycle(group);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService005, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    HdfIoServiceGroupRemoveService(group, serv);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+    HdfIoServiceGroupRecycle(group);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:298
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService006, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupAddService(group, serv1);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = SendEvent(serv1, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+
+    HdfIoServiceGroupRemoveService(group, serv);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+
+    ret = SendEvent(serv1, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(3, listener0.eventCount);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(4, listener0.eventCount);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+    HdfIoServiceRecycle(serv1);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService006, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupAddService(group, serv1);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = SendEvent(serv1, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+
+    HdfIoServiceGroupRemoveService(group, serv);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(2, listener0.eventCount);
+
+    ret = SendEvent(serv1, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(3, listener0.eventCount);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(4, listener0.eventCount);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+    HdfIoServiceRecycle(serv1);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:338
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService007, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    EXPECT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService007, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    EXPECT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:406
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService008, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService008, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:443
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService009, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService009, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:480
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService010, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    HdfIoServiceGroupRemoveService(group, serv);
+    HdfIoServiceGroupRemoveService(group, serv);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService010, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfIoServiceGroupAddService(group, serv);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupAddService(group, serv);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfIoServiceGroupRegisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    HdfIoServiceGroupRemoveService(group, serv);
+    HdfIoServiceGroupRemoveService(group, serv);
+
+    ret = HdfIoServiceGroupUnregisterListener(group, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceGroupRecycle(group);
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:517
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService011, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService011, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:557
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService012, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    HdfIoServiceRecycle(serv);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService012, TestSize.Level0)
+{
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    int ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, false);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    HdfIoServiceRecycle(serv);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:586
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService013, TestSize.Level0)
+{
+    struct HdfSBuf *data = HdfSbufObtainDefaultSize();
+    ASSERT_NE(data, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+
+    HdfSbufWriteUint32(data, POWER_STATE_SUSPEND);
+    int ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfSbufFlush(data);
+    HdfSbufWriteUint32(data, POWER_STATE_RESUME);
+    ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfSbufFlush(data);
+    HdfSbufWriteUint32(data, POWER_STATE_DOZE_SUSPEND);
+    ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfSbufFlush(data);
+    HdfSbufWriteUint32(data, POWER_STATE_DOZE_RESUME);
+    ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    HdfIoServiceRecycle(serv);
+    HdfSbufRecycle(data);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService013, TestSize.Level0)
+{
+    struct HdfSBuf *data = HdfSbufObtainDefaultSize();
+    ASSERT_NE(data, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+
+    HdfSbufWriteUint32(data, POWER_STATE_SUSPEND);
+    int ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfSbufFlush(data);
+    HdfSbufWriteUint32(data, POWER_STATE_RESUME);
+    ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfSbufFlush(data);
+    HdfSbufWriteUint32(data, POWER_STATE_DOZE_SUSPEND);
+    ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfSbufFlush(data);
+    HdfSbufWriteUint32(data, POWER_STATE_DOZE_RESUME);
+    ret = serv->dispatcher->Dispatch(&serv->object, SAMPLE_DRIVER_PM_STATE_INJECT, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+    HdfIoServiceRecycle(serv);
+    HdfSbufRecycle(data);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:615
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService014, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    int ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceRegisterEventListener(serv1, &listener1.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, true);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+    ASSERT_EQ(1, listener1.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv1, &listener1.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceRecycle(serv);
+    HdfIoServiceRecycle(serv1);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService014, TestSize.Level0)
+{
+    struct HdfIoServiceGroup *group = HdfIoServiceGroupObtain();
+    ASSERT_NE(group, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct HdfIoService *serv1 = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv1, nullptr);
+    serv1->priv = (void *)"serv1";
+
+    int ret = HdfDeviceRegisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceRegisterEventListener(serv1, &listener1.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = SendEvent(serv, testSvcName, true);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    usleep(eventWaitTimeUs);
+    ASSERT_EQ(1, listener0.eventCount);
+    ASSERT_EQ(1, listener1.eventCount);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv, &listener0.listener);
+    EXPECT_NE(ret, HDF_SUCCESS);
+
+    ret = HdfDeviceUnregisterEventListener(serv1, &listener1.listener);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    HdfIoServiceRecycle(serv);
+    HdfIoServiceRecycle(serv1);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:651
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService015, TestSize.Level0)
+{
+    struct ISvcMgrIoservice *servmgr = SvcMgrIoserviceGet();
+    ASSERT_NE(servmgr, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct IoServiceStatusData issd;
+    struct ServiceStatusListener *listener = IoServiceStatusListenerNewInstance();
+    listener->callback = TestOnServiceStatusReceived;
+    listener->priv = (void *)&issd;
+
+    int status = servmgr->RegisterServiceStatusListener(servmgr, listener, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    TestServiceStop(&issd);
+
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    IoServiceStatusListenerFree(listener);
+    SvcMgrIoserviceRelease(servmgr);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService015, TestSize.Level0)
+{
+    struct ISvcMgrIoservice *servmgr = SvcMgrIoserviceGet();
+    ASSERT_NE(servmgr, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct IoServiceStatusData issd;
+    struct ServiceStatusListener *listener = IoServiceStatusListenerNewInstance();
+    listener->callback = TestOnServiceStatusReceived;
+    listener->priv = (void *)&issd;
+
+    int status = servmgr->RegisterServiceStatusListener(servmgr, listener, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    TestServiceStop(&issd);
+
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    IoServiceStatusListenerFree(listener);
+    SvcMgrIoserviceRelease(servmgr);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:767
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService016, TestSize.Level0)
+{
+    struct ISvcMgrIoservice *servmgr = SvcMgrIoserviceGet();
+    ASSERT_NE(servmgr, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct IoServiceStatusData issd;
+    struct ServiceStatusListener *listener = IoServiceStatusListenerNewInstance();
+    listener->callback = TestOnServiceStatusReceived;
+    listener->priv = (void *)&issd;
+
+    int status = servmgr->RegisterServiceStatusListener(servmgr, listener, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    struct HdfIoService *testService = HdfIoServiceBind(SAMPLE_SERVICE);
+    ASSERT_TRUE(testService != nullptr);
+    HdfSBuf *data = HdfSbufObtainDefaultSize();
+    ASSERT_TRUE(data != nullptr);
+
+    std::string servinfo = "foo";
+    ASSERT_TRUE(HdfSbufWriteString(data, servinfo.data()));
+    int ret = testService->dispatcher->Dispatch(&testService->object, SAMPLE_DRIVER_UPDATE_SERVICE_INFO, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    int count = servstatWaitTime;
+    while (!issd.callbacked && count > 0) {
+        OsalMSleep(1);
+        count--;
+    }
+    ASSERT_TRUE(issd.callbacked);
+    ASSERT_EQ(issd.servName, SAMPLE_SERVICE);
+    ASSERT_EQ(issd.devClass, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(issd.servInfo, servinfo);
+    ASSERT_EQ(issd.servStatus, SERVIE_STATUS_CHANGE);
+
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    IoServiceStatusListenerFree(listener);
+    HdfIoServiceRecycle(testService);
+    SvcMgrIoserviceRelease(servmgr);
+    HdfSbufRecycle(data);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService016, TestSize.Level0)
+{
+    struct ISvcMgrIoservice *servmgr = SvcMgrIoserviceGet();
+    ASSERT_NE(servmgr, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct IoServiceStatusData issd;
+    struct ServiceStatusListener *listener = IoServiceStatusListenerNewInstance();
+    listener->callback = TestOnServiceStatusReceived;
+    listener->priv = (void *)&issd;
+
+    int status = servmgr->RegisterServiceStatusListener(servmgr, listener, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    struct HdfIoService *testService = HdfIoServiceBind(SAMPLE_SERVICE);
+    ASSERT_TRUE(testService != nullptr);
+    HdfSBuf *data = HdfSbufObtainDefaultSize();
+    ASSERT_TRUE(data != nullptr);
+
+    std::string servinfo = "foo";
+    ASSERT_TRUE(HdfSbufWriteString(data, servinfo.data()));
+    int ret = testService->dispatcher->Dispatch(&testService->object, SAMPLE_DRIVER_UPDATE_SERVICE_INFO, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    int count = servstatWaitTime;
+    while (!issd.callbacked && count > 0) {
+        OsalMSleep(1);
+        count--;
+    }
+    ASSERT_TRUE(issd.callbacked);
+    ASSERT_EQ(issd.servName, SAMPLE_SERVICE);
+    ASSERT_EQ(issd.devClass, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(issd.servInfo, servinfo);
+    ASSERT_EQ(issd.servStatus, SERVIE_STATUS_CHANGE);
+
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    IoServiceStatusListenerFree(listener);
+    HdfIoServiceRecycle(testService);
+    SvcMgrIoserviceRelease(servmgr);
+    HdfSbufRecycle(data);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:799
+parsing error 
+HWTEST_F(IoServiceTest, HdfIoService017, TestSize.Level0)
+{
+    struct ISvcMgrIoservice *servmgr = SvcMgrIoserviceGet();
+    ASSERT_NE(servmgr, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct IoServiceStatusData issd;
+    struct ServiceStatusListener *listener = IoServiceStatusListenerNewInstance();
+    listener->callback = TestOnServiceStatusReceived;
+    listener->priv = (void *)&issd;
+
+    HDF_LOGI("%{public}s:%{public}d", __func__, __LINE__);
+    int status = servmgr->RegisterServiceStatusListener(servmgr, listener, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    struct HdfIoService *testService = HdfIoServiceBind(SAMPLE_SERVICE);
+    ASSERT_TRUE(testService != nullptr);
+    HdfSBuf *data = HdfSbufObtainDefaultSize();
+    ASSERT_TRUE(data != nullptr);
+    const char *newServName = "sample_service1";
+    ASSERT_TRUE(HdfSbufWriteString(data, "sample_driver"));
+    ASSERT_TRUE(HdfSbufWriteString(data, newServName));
+    int ret = testService->dispatcher->Dispatch(&testService->object, SAMPLE_DRIVER_REGISTER_DEVICE, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    int count = 10;
+    while (!issd.callbacked && count > 0) {
+        OsalMSleep(1);
+        count--;
+    }
+    ASSERT_TRUE(issd.callbacked);
+    ASSERT_EQ(issd.servName, newServName);
+    ASSERT_EQ(issd.devClass, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(issd.servInfo, std::string(SAMPLE_SERVICE));
+    ASSERT_EQ(issd.servStatus, SERVIE_STATUS_START);
+
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    issd.callbacked = false;
+    ret = testService->dispatcher->Dispatch(&testService->object, SAMPLE_DRIVER_UNREGISTER_DEVICE, data, nullptr);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    OsalMSleep(10);
+
+    ASSERT_FALSE(issd.callbacked);
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_NE(status, HDF_SUCCESS);
+    IoServiceStatusListenerFree(listener);
+    HdfIoServiceRecycle(testService);
+    SvcMgrIoserviceRelease(servmgr);
+    HdfSbufRecycle(data);
+}
+warning: parse error HWTEST_F(IoServiceTest, HdfIoService017, TestSize.Level0)
+{
+    struct ISvcMgrIoservice *servmgr = SvcMgrIoserviceGet();
+    ASSERT_NE(servmgr, nullptr);
+
+    struct HdfIoService *serv = HdfIoServiceBind(testSvcName);
+    ASSERT_NE(serv, nullptr);
+    serv->priv = (void *)"serv";
+
+    struct IoServiceStatusData issd;
+    struct ServiceStatusListener *listener = IoServiceStatusListenerNewInstance();
+    listener->callback = TestOnServiceStatusReceived;
+    listener->priv = (void *)&issd;
+
+    HDF_LOGI("%{public}s:%{public}d", __func__, __LINE__);
+    int status = servmgr->RegisterServiceStatusListener(servmgr, listener, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    struct HdfIoService *testService = HdfIoServiceBind(SAMPLE_SERVICE);
+    ASSERT_TRUE(testService != nullptr);
+    HdfSBuf *data = HdfSbufObtainDefaultSize();
+    ASSERT_TRUE(data != nullptr);
+    const char *newServName = "sample_service1";
+    ASSERT_TRUE(HdfSbufWriteString(data, "sample_driver"));
+    ASSERT_TRUE(HdfSbufWriteString(data, newServName));
+    int ret = testService->dispatcher->Dispatch(&testService->object, SAMPLE_DRIVER_REGISTER_DEVICE, data, nullptr);
+    ASSERT_EQ(ret, HDF_SUCCESS);
+
+    int count = 10;
+    while (!issd.callbacked && count > 0) {
+        OsalMSleep(1);
+        count--;
+    }
+    ASSERT_TRUE(issd.callbacked);
+    ASSERT_EQ(issd.servName, newServName);
+    ASSERT_EQ(issd.devClass, DEVICE_CLASS_DEFAULT);
+    ASSERT_EQ(issd.servInfo, std::string(SAMPLE_SERVICE));
+    ASSERT_EQ(issd.servStatus, SERVIE_STATUS_START);
+
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    issd.callbacked = false;
+    ret = testService->dispatcher->Dispatch(&testService->object, SAMPLE_DRIVER_UNREGISTER_DEVICE, data, nullptr);
+    ASSERT_EQ(status, HDF_SUCCESS);
+
+    OsalMSleep(10);
+
+    ASSERT_FALSE(issd.callbacked);
+    status = servmgr->UnregisterServiceStatusListener(servmgr, listener);
+    ASSERT_NE(status, HDF_SUCCESS);
+    IoServiceStatusListenerFree(listener);
+    HdfIoServiceRecycle(testService);
+    SvcMgrIoserviceRelease(servmgr);
+    HdfSbufRecycle(data);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_ioservice_test.cpp:852
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_lite_manager_test.cpp...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_time.h...skip
+parsing error 
+HWTEST_F(HdfManagerTest, HdfIoServiceBind001, TestSize.Level0)
+{
+    const char *svcName = "HDF_TEST";
+    struct HdfIoService *hdfSvc = HdfIoServiceBind(svcName);
+    EXPECT_TRUE(hdfSvc != nullptr);
+    HdfIoServiceRecycle(hdfSvc);
+}
+warning: parse error HWTEST_F(HdfManagerTest, HdfIoServiceBind001, TestSize.Level0)
+{
+    const char *svcName = "HDF_TEST";
+    struct HdfIoService *hdfSvc = HdfIoServiceBind(svcName);
+    EXPECT_TRUE(hdfSvc != nullptr);
+    HdfIoServiceRecycle(hdfSvc);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_lite_manager_test.cpp:52
+parsing error 
+HWTEST_F(HdfManagerTest, HdfIoServiceBind002, TestSize.Level0)
+{
+    struct HdfIoService *hdfSvc = HdfIoServiceBind(DEV_MGR_NODE);
+    EXPECT_TRUE(hdfSvc != nullptr);
+    HdfIoServiceRecycle(hdfSvc);
+}
+warning: parse error HWTEST_F(HdfManagerTest, HdfIoServiceBind002, TestSize.Level0)
+{
+    struct HdfIoService *hdfSvc = HdfIoServiceBind(DEV_MGR_NODE);
+    EXPECT_TRUE(hdfSvc != nullptr);
+    HdfIoServiceRecycle(hdfSvc);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_lite_manager_test.cpp:66
+parsing error 
+HWTEST_F(HdfManagerTest, HdfRegisterDevice001, TestSize.Level0)
+{
+    int32_t ret = HDF_FAILURE;
+    struct HdfSBuf *data = nullptr;
+    struct HdfIoService *ioService = HdfIoServiceBind(SAMPLE_SERVICE);
+    ASSERT_TRUE(ioService != nullptr);
+    data = HdfSbufObtainDefaultSize();
+    EXPECT_TRUE(data != nullptr);
+    EXPECT_TRUE(HdfSbufWriteString(data, "sample_driver"));
+    EXPECT_TRUE(HdfSbufWriteString(data, "sample_service1"));
+    uint64_t timeBefore = OsalGetSysTimeMs();
+    ret = ioService->dispatcher->Dispatch(&ioService->object, SAMPLE_DRIVER_REGISTER_DEVICE, data, nullptr);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+    uint64_t timeAfter = OsalGetSysTimeMs();
+    EXPECT_TRUE((timeAfter - timeBefore) < 100);
+
+    struct HdfIoService *ioService1 = HdfIoServiceBind("sample_service1");
+    ASSERT_TRUE(ioService1 != nullptr);
+    HdfIoServiceRecycle(ioService1);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, SAMPLE_DRIVER_UNREGISTER_DEVICE, data, nullptr);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+
+    ioService1 = HdfIoServiceBind("sample_service1");
+    EXPECT_TRUE(ioService1 == nullptr);
+    HdfIoServiceRecycle(ioService);
+    HdfIoServiceRecycle(ioService1);
+    HdfSbufRecycle(data);
+}
+warning: parse error HWTEST_F(HdfManagerTest, HdfRegisterDevice001, TestSize.Level0)
+{
+    int32_t ret = HDF_FAILURE;
+    struct HdfSBuf *data = nullptr;
+    struct HdfIoService *ioService = HdfIoServiceBind(SAMPLE_SERVICE);
+    ASSERT_TRUE(ioService != nullptr);
+    data = HdfSbufObtainDefaultSize();
+    EXPECT_TRUE(data != nullptr);
+    EXPECT_TRUE(HdfSbufWriteString(data, "sample_driver"));
+    EXPECT_TRUE(HdfSbufWriteString(data, "sample_service1"));
+    uint64_t timeBefore = OsalGetSysTimeMs();
+    ret = ioService->dispatcher->Dispatch(&ioService->object, SAMPLE_DRIVER_REGISTER_DEVICE, data, nullptr);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+    uint64_t timeAfter = OsalGetSysTimeMs();
+    EXPECT_TRUE((timeAfter - timeBefore) < 100);
+
+    struct HdfIoService *ioService1 = HdfIoServiceBind("sample_service1");
+    ASSERT_TRUE(ioService1 != nullptr);
+    HdfIoServiceRecycle(ioService1);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, SAMPLE_DRIVER_UNREGISTER_DEVICE, data, nullptr);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+
+    ioService1 = HdfIoServiceBind("sample_service1");
+    EXPECT_TRUE(ioService1 == nullptr);
+    HdfIoServiceRecycle(ioService);
+    HdfIoServiceRecycle(ioService1);
+    HdfSbufRecycle(data);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_lite_manager_test.cpp:79
+parsing error 
+HWTEST_F(HdfManagerTest, HdfGetServiceNameByDeviceClass001, TestSize.Level0)
+{
+    struct HdfSBuf *data = HdfSbufObtain(2000);
+    ASSERT_TRUE(data != nullptr);
+
+    bool flag = false;
+    for (size_t i = DEVICE_CLASS_DEFAULT; i < DEVICE_CLASS_MAX; i++) {
+        int32_t ret = HdfGetServiceNameByDeviceClass((DeviceClass)i, data);
+        std::cout << "clasee " << i << " device list:" << std::endl;
+        EXPECT_TRUE(ret == HDF_SUCCESS);
+        const char *svcName = nullptr;
+        while (true) {
+            svcName = HdfSbufReadString(data);
+            if (svcName == nullptr) {
+                break;
+            }
+            std::cout << svcName << std::endl;
+            if (strcmp(svcName, "sample_service") == 0) {
+                flag = true;
+            }
+        }
+        HdfSbufFlush(data);
+    }
+    HdfSbufRecycle(data);
+    EXPECT_TRUE(flag);
+}
+warning: parse error HWTEST_F(HdfManagerTest, HdfGetServiceNameByDeviceClass001, TestSize.Level0)
+{
+    struct HdfSBuf *data = HdfSbufObtain(2000);
+    ASSERT_TRUE(data != nullptr);
+
+    bool flag = false;
+    for (size_t i = DEVICE_CLASS_DEFAULT; i < DEVICE_CLASS_MAX; i++) {
+        int32_t ret = HdfGetServiceNameByDeviceClass((DeviceClass)i, data);
+        std::cout << "clasee " << i << " device list:" << std::endl;
+        EXPECT_TRUE(ret == HDF_SUCCESS);
+        const char *svcName = nullptr;
+        while (true) {
+            svcName = HdfSbufReadString(data);
+            if (svcName == nullptr) {
+                break;
+            }
+            std::cout << svcName << std::endl;
+            if (strcmp(svcName, "sample_service") == 0) {
+                flag = true;
+            }
+        }
+        HdfSbufFlush(data);
+    }
+    HdfSbufRecycle(data);
+    EXPECT_TRUE(flag);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_lite_manager_test.cpp:115
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestOneDriverOnce, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_ONCE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestOneDriverOnce, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_ONCE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:54
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestOneDriverTwice, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_TWICE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestOneDriverTwice, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_TWICE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:70
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestOneDriverTen, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_TEN, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestOneDriverTen, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_TEN, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:86
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestOneDriverHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestOneDriverHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:102
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestOneDriverThousand, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_THOUSAND, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestOneDriverThousand, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_ONE_DRIVER_THOUSAND, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:118
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestTwoDriverOnce, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_ONCE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestTwoDriverOnce, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_ONCE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:134
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestTwoDriverTwice, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_TWICE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestTwoDriverTwice, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_TWICE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:150
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestTwoDriverTen, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_TEN, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestTwoDriverTen, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_TEN, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:166
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestTwoDriverHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestTwoDriverHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:182
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestTwoDriverThousand, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_THOUSAND, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestTwoDriverThousand, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_TWO_DRIVER_THOUSAND, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:198
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverOnce, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_ONCE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverOnce, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_ONCE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:214
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverTwice, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_TWICE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverTwice, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_TWICE, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:230
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverTen, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_TEN, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverTen, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_TEN, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:246
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:262
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverThousand, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_THOUSAND, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverThousand, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_THOUSAND, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:278
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverSeqHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_SEQ_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverSeqHundred, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_SEQ_HUNDRED, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:294
+parsing error 
+HWTEST_F(HdfPmTest, HdfPmTestThreeDriverHundredWithSync, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_HUNDRED_WITH_SYNC, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}
+warning: parse error HWTEST_F(HdfPmTest, HdfPmTestThreeDriverHundredWithSync, TestSize.Level3)
+{
+    int32_t ret = HDF_FAILURE;
+
+    ASSERT_TRUE(ioService != NULL);
+
+    ret = ioService->dispatcher->Dispatch(&ioService->object, HDF_PM_TEST_THREE_DRIVER_HUNDRED_WITH_SYNC, NULL, NULL);
+    EXPECT_TRUE(ret == HDF_SUCCESS);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_pm_test.cpp:310
+parsing D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestObtain001, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtain(DEFAULT_SBUF_SIZE);
+    ASSERT_NE(sBuf, nullptr);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestObtain001, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtain(DEFAULT_SBUF_SIZE);
+    ASSERT_NE(sBuf, nullptr);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:246
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestWriteUint64002, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    auto ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+    ASSERT_EQ(ret, true);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestWriteUint64002, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    auto ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+    ASSERT_EQ(ret, true);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:259
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestWriteUint64Loop003, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    for (int i = 0; i < DEFAULT_BIG_LOOP_COUNT; ++i) {
+        auto ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestWriteUint64Loop003, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    for (int i = 0; i < DEFAULT_BIG_LOOP_COUNT; ++i) {
+        auto ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:274
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestReadUint64Loop004, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    int loop = DEFAULT_BIG_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        auto ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+    uint64_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        auto ret = HdfSbufReadUint64(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, (uint64_t)INT64_MAX);
+    }
+    auto ret = HdfSbufReadUint64(readBuf, &val);
+    ASSERT_EQ(ret, false);
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestReadUint64Loop004, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    int loop = DEFAULT_BIG_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        auto ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+    uint64_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        auto ret = HdfSbufReadUint64(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, (uint64_t)INT64_MAX);
+    }
+    auto ret = HdfSbufReadUint64(readBuf, &val);
+    ASSERT_EQ(ret, false);
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:291
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestInt8005, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt8(sBuf, INT8_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int8_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt8(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT8_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestInt8005, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt8(sBuf, INT8_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int8_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt8(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT8_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:321
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestInt16006, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt16(sBuf, INT16_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int16_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt16(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT16_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestInt16006, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt16(sBuf, INT16_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int16_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt16(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT16_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:354
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestInt32007, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt32(sBuf, INT32_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int32_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt32(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT32_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestInt32007, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt32(sBuf, INT32_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int32_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt32(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT32_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:387
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestInt64008, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint64_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int64_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt64(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT64_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestInt64008, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteInt64(sBuf, INT64_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint64_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    int64_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadInt64(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, INT64_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:420
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestUInt32009, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteUint32(sBuf, UINT32_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    uint32_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadUint32(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, UINT32_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestUInt32009, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteUint32(sBuf, UINT32_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    uint32_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadUint32(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, UINT32_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:453
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestUInt16010, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteUint16(sBuf, UINT16_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    uint16_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadUint16(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, UINT16_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestUInt16010, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteUint16(sBuf, UINT16_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    uint16_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadUint16(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, UINT16_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:486
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestUInt8011, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteUint8(sBuf, UINT8_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    uint8_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadUint8(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, UINT8_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestUInt8011, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteUint8(sBuf, UINT8_MAX);
+        ASSERT_EQ(ret, true);
+    }
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_EQ(dataSize, loop * sizeof(uint32_t));
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    uint8_t val = 0;
+    for (int j = 0; j < loop; ++j) {
+        val = 0;
+        ret = HdfSbufReadUint8(readBuf, &val);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(val, UINT8_MAX);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:519
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestString012, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteString(sBuf, str.data());
+        ASSERT_EQ(ret, true);
+    }
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *readStr = HdfSbufReadString(readBuf);
+        ASSERT_EQ(std::string(readStr), str);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestString012, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = DEFAULT_LOOP_COUNT;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteString(sBuf, str.data());
+        ASSERT_EQ(ret, true);
+    }
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *readStr = HdfSbufReadString(readBuf);
+        ASSERT_EQ(std::string(readStr), str);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:552
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestNullString013, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    auto ret = HdfSbufWriteString(sBuf, nullptr);
+    ASSERT_EQ(true, ret);
+    ret = HdfSbufWriteInt32(sBuf, INT32_MIN);
+    ASSERT_EQ(true, ret);
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_NE((size_t)0, dataSize);
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+    auto val = HdfSbufReadString(readBuf);
+    ASSERT_EQ(nullptr, val);
+    int32_t intVal = 0;
+    ret = HdfSbufReadInt32(readBuf, &intVal);
+    ASSERT_EQ(true, ret);
+    ASSERT_EQ(INT32_MIN, intVal);
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestNullString013, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    auto ret = HdfSbufWriteString(sBuf, nullptr);
+    ASSERT_EQ(true, ret);
+    ret = HdfSbufWriteInt32(sBuf, INT32_MIN);
+    ASSERT_EQ(true, ret);
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_NE((size_t)0, dataSize);
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+    auto val = HdfSbufReadString(readBuf);
+    ASSERT_EQ(nullptr, val);
+    int32_t intVal = 0;
+    ret = HdfSbufReadInt32(readBuf, &intVal);
+    ASSERT_EQ(true, ret);
+    ASSERT_EQ(INT32_MIN, intVal);
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:581
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestBuffer014, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = 1;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteBuffer(sBuf, str.data(), str.size() + 1);
+        ASSERT_EQ(ret, true);
+    }
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestBuffer014, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    bool ret;
+    int loop = 1;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteBuffer(sBuf, str.data(), str.size() + 1);
+        ASSERT_EQ(ret, true);
+    }
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+    HdfSbufRecycle(readBuf);
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:609
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestNullBuffer015, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    auto ret = HdfSbufWriteBuffer(sBuf, nullptr, 0);
+    ASSERT_EQ(true, ret);
+    ret = HdfSbufWriteInt16(sBuf, INT16_MIN);
+    ASSERT_EQ(true, ret);
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_NE((size_t)0, dataSize);
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+    const uint8_t *buffVal = nullptr;
+    uint32_t buffLen = 0;
+    ret = HdfSbufReadBuffer(readBuf, (const void **)(&buffVal), &buffLen);
+    ASSERT_EQ(true, ret);
+    ASSERT_EQ((uint32_t)0, buffLen);
+    dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_NE((size_t)0, dataSize);
+    int16_t intVal = 0;
+    ret = HdfSbufReadInt16(readBuf, &intVal);
+    ASSERT_EQ(true, ret);
+    ASSERT_EQ(INT16_MIN, intVal);
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestNullBuffer015, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+    auto ret = HdfSbufWriteBuffer(sBuf, nullptr, 0);
+    ASSERT_EQ(true, ret);
+    ret = HdfSbufWriteInt16(sBuf, INT16_MIN);
+    ASSERT_EQ(true, ret);
+    size_t dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_NE((size_t)0, dataSize);
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+    const uint8_t *buffVal = nullptr;
+    uint32_t buffLen = 0;
+    ret = HdfSbufReadBuffer(readBuf, (const void **)(&buffVal), &buffLen);
+    ASSERT_EQ(true, ret);
+    ASSERT_EQ((uint32_t)0, buffLen);
+    dataSize = HdfSbufGetDataSize(sBuf);
+    ASSERT_NE((size_t)0, dataSize);
+    int16_t intVal = 0;
+    ret = HdfSbufReadInt16(readBuf, &intVal);
+    ASSERT_EQ(true, ret);
+    ASSERT_EQ(INT16_MIN, intVal);
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:642
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestRandomDataSeq016, TestSize.Level0)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    GenDataTable();
+    GenDataSequence(100);
+    bool ret = PushDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    ret = PullDataSequence(readBuf);
+    ASSERT_EQ(true, ret);
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestRandomDataSeq016, TestSize.Level0)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    GenDataTable();
+    GenDataSequence(100);
+    bool ret = PushDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    HdfSBuf *readBuf = HdfSbufBind((uintptr_t)HdfSbufGetData(sBuf), HdfSbufGetDataSize(sBuf));
+    ASSERT_NE(readBuf, nullptr);
+
+    ret = PullDataSequence(readBuf);
+    ASSERT_EQ(true, ret);
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:675
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestRandomRWDataSeq017, TestSize.Level0)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    GenDataTable();
+    GenDataSequence(100);
+    bool ret = PushDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    ret = PullDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    ret = PushDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    ret = PullDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    uint8_t val = 0;
+    ret = HdfSbufReadUint8(sBuf, &val);
+    ASSERT_EQ(false, ret);
+    ASSERT_EQ(0, val);
+
+    HdfSbufRecycle(sBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestRandomRWDataSeq017, TestSize.Level0)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    GenDataTable();
+    GenDataSequence(100);
+    bool ret = PushDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    ret = PullDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    ret = PushDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    ret = PullDataSequence(sBuf);
+    ASSERT_EQ(true, ret);
+
+    uint8_t val = 0;
+    ret = HdfSbufReadUint8(sBuf, &val);
+    ASSERT_EQ(false, ret);
+    ASSERT_EQ(0, val);
+
+    HdfSbufRecycle(sBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:700
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestSbufMove018, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    GenDataTable();
+    GenDataSequence(100);
+
+    bool ret;
+    int loop = 1;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteBuffer(sBuf, str.data(), str.size() + 1);
+        ASSERT_EQ(ret, true);
+    }
+
+    HdfSBuf *readBuf = HdfSbufMove(sBuf);
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestSbufMove018, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    GenDataTable();
+    GenDataSequence(100);
+
+    bool ret;
+    int loop = 1;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteBuffer(sBuf, str.data(), str.size() + 1);
+        ASSERT_EQ(ret, true);
+    }
+
+    HdfSBuf *readBuf = HdfSbufMove(sBuf);
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:733
+parsing error 
+HWTEST_F(HdfSBufTest, SbufTestSbufMoveHalf019, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    bool ret;
+    int loop = 1;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteBuffer(sBuf, str.data(), str.size() + 1);
+        ASSERT_EQ(ret, true);
+    }
+    for (int j = 0; j < loop/2; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(sBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+
+    HdfSBuf *readBuf = HdfSbufMove(sBuf);
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+
+    const char *data = nullptr;
+    uint32_t readSize = 0;
+    ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+    ASSERT_EQ(ret, false);
+
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}
+warning: parse error HWTEST_F(HdfSBufTest, SbufTestSbufMoveHalf019, TestSize.Level1)
+{
+    HdfSBuf *sBuf = HdfSbufObtainDefaultSize();
+    ASSERT_NE(sBuf, nullptr);
+
+    bool ret;
+    int loop = 1;
+    std::string str("test");
+    for (int i = 0; i < loop; ++i) {
+        ret = HdfSbufWriteBuffer(sBuf, str.data(), str.size() + 1);
+        ASSERT_EQ(ret, true);
+    }
+    for (int j = 0; j < loop/2; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(sBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+
+    HdfSBuf *readBuf = HdfSbufMove(sBuf);
+    ASSERT_NE(readBuf, nullptr);
+
+    for (int j = 0; j < loop; ++j) {
+        const char *data = nullptr;
+        uint32_t readSize = 0;
+        ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+        ASSERT_EQ(ret, true);
+        ASSERT_EQ(readSize, str.size() + 1);
+        ASSERT_EQ(std::string(data), str);
+    }
+
+    const char *data = nullptr;
+    uint32_t readSize = 0;
+    ret = HdfSbufReadBuffer(readBuf, (const void **)(&data), &readSize);
+    ASSERT_EQ(ret, false);
+
+    HdfSbufRecycle(sBuf);
+    HdfSbufRecycle(readBuf);
+}Syntax error in file: D:\lda_demoGPT\local\data\hdf\core\manager\test\unittest\common\hdf_sbuf_test.cpp:770
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\hdf_device_info.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_device_info.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\hdf_io_service.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_io_service.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\adapter\vnode\include\hdf_vnode_adapter.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\hdf_object_manager.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_object_manager.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\hdf_service_record.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_service_record.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\ioserstat_listener.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\ioservstat_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\service_status.c...
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\hdf_service_status.h...skip
+parsing D:\lda_demoGPT\local\data\hdf\core\shared\src\svcmgr_ioservice.c...
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\svcmgr_ioservice.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_base.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_dlist.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\core\hdf_io_service_if.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_log.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\utils\hdf_sbuf.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\core\shared\include\ioservstat_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\hdf\include\osal\osal_mem.h...skip
+all files procceed successfully...
+Resolve types and bindings of variables, methods and expressions....
+Resolve type bindings....
+Dependency analaysing....
+types and bindings resolved successfully...
+Dependency done....
+dependencie data generating...
+Start create dependencies matrix....
+Finish create dependencies matrix....
+reorder dependency matrix...
+Dependencies data generating done successfully...
+Consumed time: 4.671 s,  or 0.07785 min.

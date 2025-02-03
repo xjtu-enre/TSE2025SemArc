@@ -1,0 +1,96 @@
+Start parsing files...
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\c14n.c...
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpathInternals.h...
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xmlwin32version.h...
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h...
+parsing error 
+LIBXML_DLL_IMPORT
+warning: parse error LIBXML_DLL_IMPORTSyntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h:309
+parsing error 
+LIBXML_DLL_IMPORT
+warning: parse error LIBXML_DLL_IMPORTSyntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h:310
+parsing error 
+LIBXML_DLL_IMPORT
+warning: parse error LIBXML_DLL_IMPORTSyntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h:311
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\c14n.h...
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h...skip
+warning: parse error return ((ns != NULL) &&
+            (xmlStrEqual(ns->prefix, BAD_CAST "xml")) &&
+            (xmlStrEqual(ns->href,
+                         BAD_CAST
+                         "http://www.w3.org/XML/1998/namespace")));Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\c14n.c:128
+warning: parse error xmlStrEqual(prefix, BAD_CAST "#default")
+                || xmlStrEqual(prefix, BAD_CAST "")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\c14n.c:464
+warning: parse error (attr->ns != NULL)
+                    && (xmlStrEqual(attr->ns->prefix, BAD_CAST "xml"))Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\c14n.c:680
+warning: parse error (!xmlStrEqual
+                 ((const xmlChar *) uri->scheme, BAD_CAST "urn"))
+                && (xmlStrlen((const xmlChar *) uri->server) == 0)Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\c14n.c:745
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\list.c...
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\list.h...
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c...
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h...skip
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpathInternals.h...skip
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpointer.h...
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h...skip
+parsing error 
+static xmlNs xmlXPathXMLNamespaceStruct = {
+    NULL,
+    XML_NAMESPACE_DECL,
+    XML_XML_NAMESPACE,
+    BAD_CAST "xml"
+warning: parse error static xmlNs xmlXPathXMLNamespaceStruct = {
+    NULL,
+    XML_NAMESPACE_DECL,
+    XML_XML_NAMESPACE,
+    BAD_CAST "xml"Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:66
+parsing error 
+};
+warning: parse error };Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:71
+warning: parse error ret->stringval = xmlStrdup(BAD_CAST val);Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:3,009
+warning: parse error return(xmlXPathEqualNodeSetString(arg, BAD_CAST buf));Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:4,238
+warning: parse error xmlStrEqual(name, BAD_CAST "node")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:7,364
+warning: parse error xmlStrEqual(name, BAD_CAST "text")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:7,366
+warning: parse error xmlStrEqual(name, BAD_CAST "comment")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:7,368
+warning: parse error xmlStrEqual(name, BAD_CAST "processing-instruction")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:7,370
+warning: parse error xmlStrEqual(name, BAD_CAST "comment")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,076
+warning: parse error xmlStrEqual(name, BAD_CAST "node")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,078
+warning: parse error xmlStrEqual(name, BAD_CAST "processing-instruction")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,080
+warning: parse error xmlStrEqual(name, BAD_CAST "text")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,082
+warning: parse error xmlStrEqual(name, BAD_CAST "ancestor")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,179
+warning: parse error xmlStrEqual(name, BAD_CAST "ancestor-or-self")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,181
+warning: parse error xmlStrEqual(name, BAD_CAST "attribute")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,183
+warning: parse error xmlStrEqual(name, BAD_CAST "child")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,187
+warning: parse error xmlStrEqual(name, BAD_CAST "descendant")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,191
+warning: parse error xmlStrEqual(name, BAD_CAST "descendant-or-self")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,193
+warning: parse error xmlStrEqual(name, BAD_CAST "following")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,197
+warning: parse error xmlStrEqual(name, BAD_CAST "following-sibling")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,199
+warning: parse error xmlStrEqual(name, BAD_CAST "namespace")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,203
+warning: parse error xmlStrEqual(name, BAD_CAST "parent")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,207
+warning: parse error xmlStrEqual(name, BAD_CAST "preceding")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,209
+warning: parse error xmlStrEqual(name, BAD_CAST "preceding-sibling")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,211
+warning: parse error xmlStrEqual(name, BAD_CAST "self")Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,215
+warning: parse error (name != NULL) && (xmlStrEqual(name, BAD_CAST "range-to"))Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:8,284
+warning: parse error (f != -1) &&
+                        (comp->steps[f].op == XPATH_OP_FUNCTION) &&
+                        (comp->steps[f].value5 == NULL) &&
+                        (comp->steps[f].value == 0) &&
+                        (comp->steps[f].value4 != NULL) &&
+                        (xmlStrEqual
+                         (comp->steps[f].value4, BAD_CAST "last"))Syntax error in file: E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpath.c:9,925
+parsing E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\xpointer.c...
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpointer.h...skip
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpath.h...skip
+already parsed E:\XJTU\架构逆向\lda_demoGPT\local\data\temp\include\libxml\xpathInternals.h...skip
+all files procceed successfully...
+Resolve types and bindings of variables, methods and expressions....
+Resolve type bindings....
+Dependency analaysing....
+types and bindings resolved successfully...
+Dependency done....
+dependencie data generating...
+Start create dependencies matrix....
+Finish create dependencies matrix....
+reorder dependency matrix...
+Dependencies data generating done successfully...
+Consumed time: 7.789 s,  or 0.12981667 min.

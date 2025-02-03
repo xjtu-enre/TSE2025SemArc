@@ -1,0 +1,2348 @@
+Start parsing files...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dcamera_device\dcamera_device.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_device\dcamera_device.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\device\dcamera_device_stub.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_device\dmetadata_processor.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dstream_operator.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\dstream_operator_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_device\dmetadata_processor.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dcamera_steam.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dimage_buffer.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dbuffer_manager.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dimage_buffer.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+parsing error 
+DECLARE_INTERFACE_DESCRIPTOR(u"HDI.DCamera.V1_0.ProviderCallback");
+warning: parse error DECLARE_INTERFACE_DESCRIPTOR(u"HDI.DCamera.V1_0.ProviderCallback");Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h:46
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_host\dcamera_host.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_device\dcamera_device.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_provider\dcamera_provider.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dcamera_device\dmetadata_processor.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_device\dmetadata_processor.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dbuffer_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dcamera_host\dcamera_host.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_host\dcamera_host.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dcamera_provider\dcamera_provider.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_provider\dcamera_provider.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_device\dcamera_device.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_host\dcamera_host.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dstream_operator\dbuffer_manager.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dbuffer_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dstream_operator\dcamera_steam.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dcamera_steam.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dstream_operator\dimage_buffer.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dimage_buffer.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dstream_operator\doffline_stream_operator.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\doffline_stream_operator.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\doffline_stream_operator_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\dstream_operator\dstream_operator.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dstream_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dstream_operator\dbuffer_manager.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_provider\dcamera_provider.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\src\utils\dcamera.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\test\common.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\test\common.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\utils\dcamera.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_host\dcamera_host.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback_stub.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_proxy.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback_stub.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\test\dcamera_hdi_sample.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\test\common.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\dcamera_source_handler.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\dcamera_source_callback.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\dcamera_source_callback_stub.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\idcamera_source_callback.h...
+parsing error 
+DECLARE_INTERFACE_DESCRIPTOR(u"ohos.distributedhardware.dcamerasourcecallback");
+warning: parse error DECLARE_INTERFACE_DESCRIPTOR(u"ohos.distributedhardware.dcamerasourcecallback");Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\idcamera_source_callback.h:25
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\device\dcamera_device_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_proxy.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\host\dcamera_host_proxy.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\doffline_stream_operator_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\doffline_stream_operator_proxy.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\operator\dstream_operator_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_proxy.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h...skip
+parsing error 
+DECLARE_INTERFACE_DESCRIPTOR(u"HDI.DCamera.V1_0.Provider");
+warning: parse error DECLARE_INTERFACE_DESCRIPTOR(u"HDI.DCamera.V1_0.Provider");Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider.h:44
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\config\host\dcamera_host_config.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\host\dcamera_host_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_host\dcamera_host.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\config\provider\dcamera_provider_config.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\provider\dcamera_provider_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\hdi_impl\include\dcamera_provider\dcamera_provider.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\device\dcamera_device_callback_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\device\dcamera_device_callback_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\device\dcamera_device_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\device\dcamera_device_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\host\dcamera_host_callback_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\host\dcamera_host_callback_proxy.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\host\dcamera_host_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\host\dcamera_host_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\doffline_stream_operator_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\doffline_stream_operator_stub.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\dstream_operator_callback_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\dstream_operator_callback_proxy.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\dstream_operator_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\operator\dstream_operator_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\provider\dcamera_provider_callback_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\provider\dcamera_provider_callback_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\provider\dcamera_provider_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\server\provider\dcamera_provider_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\ipc_data_utils.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\src\utils\data_buffer.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\src\utils\dcamera_utils_tools.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\src\dcamera_sink_handler.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\dcamera_sink_handler.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\dcamera_sink_handler_ipc.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\idistributed_camera_sink.h...
+parsing error 
+DECLARE_INTERFACE_DESCRIPTOR(u"ohos.distributedhardware.distributedcamerasink");
+warning: parse error DECLARE_INTERFACE_DESCRIPTOR(u"ohos.distributedhardware.distributedcamerasink");Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\idistributed_camera_sink.h:25
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\src\dcamera_sink_handler_ipc.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\dcamera_sink_handler_ipc.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\src\distributed_camera_sink_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\distributed_camera_sink_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\idistributed_camera_sink.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\src\callback\dcamera_source_callback.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\dcamera_source_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\src\callback\dcamera_source_callback_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\dcamera_source_callback_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\src\dcamera_source_handler.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\dcamera_source_handler.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\dcamera_source_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\dcamera_source_handler_ipc.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\idcamera_source_callback.h...skip
+parsing error 
+DECLARE_INTERFACE_DESCRIPTOR(u"ohos.distributedhardware.distributedcamerasource");
+warning: parse error DECLARE_INTERFACE_DESCRIPTOR(u"ohos.distributedhardware.distributedcamerasource");Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h:28
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\src\dcamera_source_handler_ipc.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\dcamera_source_handler_ipc.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\src\distributed_camera_source_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\distributed_camera_source_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\src\dcamera_capture_info_cmd.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\src\dcamera_channel_info_cmd.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_channel_info_cmd.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\src\dcamera_event_cmd.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_event_cmd.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\src\dcamera_info_cmd.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_info_cmd.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\src\dcamera_metadata_setting_cmd.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_metadata_setting_cmd.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\src\dcamera_open_info_cmd.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_open_info_cmd.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_channel_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_event_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_metadata_setting_cmd.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_protocol.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_001, TestSize.Level1)
+{
+    int32_t ret = DCAMERA_OK;
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_001, TestSize.Level1)
+{
+    int32_t ret = DCAMERA_OK;
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp:107
+parsing error 
+HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_002, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_002, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp:119
+parsing error 
+HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_003, TestSize.Level1)
+{
+    DCameraChannelInfoCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_CHANNEL_INFO_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_003, TestSize.Level1)
+{
+    DCameraChannelInfoCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_CHANNEL_INFO_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp:136
+parsing error 
+HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_004, TestSize.Level1)
+{
+    DCameraEventCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_EVENT_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_004, TestSize.Level1)
+{
+    DCameraEventCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_EVENT_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp:153
+parsing error 
+HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_005, TestSize.Level1)
+{
+    DCameraInfoCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_INFO_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_005, TestSize.Level1)
+{
+    DCameraInfoCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_INFO_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp:170
+parsing error 
+HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_006, TestSize.Level1)
+{
+    DCameraMetadataSettingCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_METADATA_SETTING_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraProtocolTest, dcamera_protocol_test_006, TestSize.Level1)
+{
+    DCameraMetadataSettingCmd cmd;
+    int32_t ret = cmd.Unmarshal(TEST_METADATA_SETTING_CMD_JSON);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::string jsonStr;
+    ret = cmd.Marshal(jsonStr);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\test\unittest\common\dcameraprotocol\dcamera_protocol_test.cpp:187
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\callback\dcamera_input_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_input_callback.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_event_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\callback\dcamera_manager_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_manager_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\callback\dcamera_photo_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_photo_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\callback\dcamera_preview_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_preview_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\callback\dcamera_session_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_session_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\callback\dcamera_video_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_video_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\dcamera_client.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\dcamera_client.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\listener\dcamera_photo_surface_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\listener\dcamera_video_surface_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_input_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_manager_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_photo_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_session_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_video_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\dcamera_client_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\dcamera_client.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_input_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_manager_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_photo_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_preview_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_session_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_video_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\listener\dcamera_photo_surface_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\listener\dcamera_photo_surface_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\listener\dcamera_photo_surface_listener_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\listener\dcamera_photo_surface_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\listener\dcamera_video_surface_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\listener\dcamera_video_surface_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\src\listener\dcamera_video_surface_listener_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\listener\dcamera_video_surface_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\test\unittest\common\cameraoperator\dcamera_client_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\dcamera_client.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraClientTest, dcamera_client_test_001, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_001: test set state callback");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraClientTest, dcamera_client_test_001, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_001: test set state callback");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\test\unittest\common\cameraoperator\dcamera_client_test.cpp:136
+parsing error 
+HWTEST_F(DCameraClientTest, dcamera_client_test_002, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_002: test set result callback");
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    int32_t ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraClientTest, dcamera_client_test_002, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_002: test set result callback");
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    int32_t ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\test\unittest\common\cameraoperator\dcamera_client_test.cpp:150
+parsing error 
+HWTEST_F(DCameraClientTest, dcamera_client_test_003, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_003: test init and release client");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraClientTest, dcamera_client_test_003, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_003: test init and release client");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\test\unittest\common\cameraoperator\dcamera_client_test.cpp:164
+parsing error 
+HWTEST_F(DCameraClientTest, dcamera_client_test_004, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_004: test startCapture and stopCapture");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    DHLOGI("DCameraClientTest dcamera_client_test_004: video width: %d, height: %d, format: %d, isCapture: %d",
+        videoInfo_true_->width_, videoInfo_true_->height_, videoInfo_true_->format_, videoInfo_true_->isCapture_);
+    std::vector<std::shared_ptr<DCameraCaptureInfo>> captureInfos;
+    captureInfos.push_back(videoInfo_true_);
+    ret = client_->StartCapture(captureInfos);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    sleep(TEST_SLEEP_SEC);
+
+    ret = client_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraClientTest, dcamera_client_test_004, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_004: test startCapture and stopCapture");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    DHLOGI("DCameraClientTest dcamera_client_test_004: video width: %d, height: %d, format: %d, isCapture: %d",
+        videoInfo_true_->width_, videoInfo_true_->height_, videoInfo_true_->format_, videoInfo_true_->isCapture_);
+    std::vector<std::shared_ptr<DCameraCaptureInfo>> captureInfos;
+    captureInfos.push_back(videoInfo_true_);
+    ret = client_->StartCapture(captureInfos);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    sleep(TEST_SLEEP_SEC);
+
+    ret = client_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\test\unittest\common\cameraoperator\dcamera_client_test.cpp:188
+parsing error 
+HWTEST_F(DCameraClientTest, dcamera_client_test_005, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_005: test startCapture and stopCapture");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    DHLOGI("DCameraClientTest dcamera_client_test_005: video width: %d, height: %d, format: %d, isCapture: %d",
+        videoInfo_true_->width_, videoInfo_true_->height_, videoInfo_true_->format_, videoInfo_true_->isCapture_);
+    DHLOGI("DCameraClientTest dcamera_client_test_005: photo width: %d, height: %d, format: %d, isCapture: %d",
+        photoInfo_false_->width_, photoInfo_false_->height_, photoInfo_false_->format_, photoInfo_false_->isCapture_);
+    std::vector<std::shared_ptr<DCameraCaptureInfo>> captureInfos;
+    captureInfos.push_back(videoInfo_true_);
+    captureInfos.push_back(photoInfo_false_);
+    ret = client_->StartCapture(captureInfos);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    sleep(TEST_SLEEP_SEC);
+
+    DHLOGI("DCameraClientTest dcamera_client_test_005: video width: %d, height: %d, format: %d, isCapture: %d",
+        videoInfo_false_->width_, videoInfo_false_->height_, videoInfo_false_->format_, videoInfo_false_->isCapture_);
+    DHLOGI("DCameraClientTest dcamera_client_test_005: photo width: %d, height: %d, format: %d, isCapture: %d",
+        photoInfo_true_->width_, photoInfo_true_->height_, photoInfo_true_->format_, photoInfo_true_->isCapture_);
+    captureInfos.clear();
+    captureInfos.push_back(videoInfo_false_);
+    captureInfos.push_back(photoInfo_true_);
+    ret = client_->StartCapture(captureInfos);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    sleep(TEST_SLEEP_SEC);
+
+    ret = client_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraClientTest, dcamera_client_test_005, TestSize.Level1)
+{
+    DHLOGI("DCameraClientTest dcamera_client_test_005: test startCapture and stopCapture");
+    std::shared_ptr<StateCallback> stateCallback = std::make_shared<DCameraClientTestStateCallback>();
+    int32_t ret = client_->SetStateCallback(stateCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    std::shared_ptr<ResultCallback> resultCallback = std::make_shared<DCameraClientTestResultCallback>();
+    ret = client_->SetResultCallback(resultCallback);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    DHLOGI("DCameraClientTest dcamera_client_test_005: video width: %d, height: %d, format: %d, isCapture: %d",
+        videoInfo_true_->width_, videoInfo_true_->height_, videoInfo_true_->format_, videoInfo_true_->isCapture_);
+    DHLOGI("DCameraClientTest dcamera_client_test_005: photo width: %d, height: %d, format: %d, isCapture: %d",
+        photoInfo_false_->width_, photoInfo_false_->height_, photoInfo_false_->format_, photoInfo_false_->isCapture_);
+    std::vector<std::shared_ptr<DCameraCaptureInfo>> captureInfos;
+    captureInfos.push_back(videoInfo_true_);
+    captureInfos.push_back(photoInfo_false_);
+    ret = client_->StartCapture(captureInfos);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    sleep(TEST_SLEEP_SEC);
+
+    DHLOGI("DCameraClientTest dcamera_client_test_005: video width: %d, height: %d, format: %d, isCapture: %d",
+        videoInfo_false_->width_, videoInfo_false_->height_, videoInfo_false_->format_, videoInfo_false_->isCapture_);
+    DHLOGI("DCameraClientTest dcamera_client_test_005: photo width: %d, height: %d, format: %d, isCapture: %d",
+        photoInfo_true_->width_, photoInfo_true_->height_, photoInfo_true_->format_, photoInfo_true_->isCapture_);
+    captureInfos.clear();
+    captureInfos.push_back(videoInfo_false_);
+    captureInfos.push_back(photoInfo_true_);
+    ret = client_->StartCapture(captureInfos);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    sleep(TEST_SLEEP_SEC);
+
+    ret = client_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = client_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\test\unittest\common\cameraoperator\dcamera_client_test.cpp:224
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\src\dcamera_handler.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\include\dcamera_handler.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_manager_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\src\dcamera_handler_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\include\dcamera_handler.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\callback\dcamera_manager_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\test\unittest\common\dcamerahandler\dcamera_handler_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\include\dcamera_handler.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraHandlerTest, dcamera_handler_test_001, TestSize.Level1)
+{
+    int32_t ret = DCameraHandler::GetInstance().Initialize();
+    EXPECT_EQ(ret, DCAMERA_OK);
+}
+warning: parse error HWTEST_F(DCameraHandlerTest, dcamera_handler_test_001, TestSize.Level1)
+{
+    int32_t ret = DCameraHandler::GetInstance().Initialize();
+    EXPECT_EQ(ret, DCAMERA_OK);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\test\unittest\common\dcamerahandler\dcamera_handler_test.cpp:60
+parsing error 
+HWTEST_F(DCameraHandlerTest, dcamera_handler_test_002, TestSize.Level1)
+{
+    int32_t ret = DCameraHandler::GetInstance().GetCameras().size();
+    EXPECT_GT(ret, DCAMERA_OK);
+}
+warning: parse error HWTEST_F(DCameraHandlerTest, dcamera_handler_test_002, TestSize.Level1)
+{
+    int32_t ret = DCameraHandler::GetInstance().GetCameras().size();
+    EXPECT_GT(ret, DCAMERA_OK);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\test\unittest\common\dcamerahandler\dcamera_handler_test.cpp:72
+parsing error 
+HWTEST_F(DCameraHandlerTest, dcamera_handler_test_003, TestSize.Level1)
+{
+    int32_t ret = DCameraHandler::GetInstance().Query().size();
+    EXPECT_GT(ret, DCAMERA_OK);
+}
+warning: parse error HWTEST_F(DCameraHandlerTest, dcamera_handler_test_003, TestSize.Level1)
+{
+    int32_t ret = DCameraHandler::GetInstance().Query().size();
+    EXPECT_GT(ret, DCAMERA_OK);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\test\unittest\common\dcamerahandler\dcamera_handler_test.cpp:84
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcamera\distributed_camera_sink_service.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcamera\distributed_camera_sink_service.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_dev.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\icamera_controller.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_channel_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_event_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_info_cmd.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_open_info_cmd.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_access_control.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcamera\distributed_camera_sink_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\idistributed_camera_sink.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\handler\include\dcamera_handler.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_service_ipc.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+REGISTER_SYSTEM_ABILITY_BY_ID(DistributedCameraSinkService, DISTRIBUTED_HARDWARE_CAMERA_SINK_SA_ID, true);
+warning: parse error REGISTER_SYSTEM_ABILITY_BY_ID(DistributedCameraSinkService, DISTRIBUTED_HARDWARE_CAMERA_SINK_SA_ID, true);Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcamera\distributed_camera_sink_service.cpp:33
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcamera\distributed_camera_sink_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcamera\distributed_camera_sink_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\callback\dcamera_sink_controller_state_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\callback\dcamera_sink_controller_state_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_frame_trigger_event.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_post_authorization_event.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\icamera_controller.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_access_control.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_output.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_channel_info_cmd.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\callback\dcamera_sink_output_result_callback.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\callback\dcamera_sink_output_result_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_output.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_output.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_access_control.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_access_control.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_controller.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_sink_impl.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_session.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\dcamera_client.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_metadata_setting_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_protocol.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_controller_channel_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\callback\dcamera_sink_controller_state_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_output.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_service_ipc.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_data_process.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_data_process.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_photo_output_event.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_video_output_event.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\idata_process_pipeline.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_sink_impl.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_sink.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\eventbus\dcamera_pipeline_event.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+parsing error 
+)
+warning: parse error )Missing ';' in file: D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\eventbus\dcamera_pipeline_event.h:76
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\idata_process_pipeline.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\abstract_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_data_process_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_data_process_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_sink_impl.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_sink.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_data_process_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_dev.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_channel_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_protocol.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_output.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_output.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_sink_impl.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\dcamera_client.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_data_process.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_output_channel_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_output.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\callback\dcamera_sink_output_result_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\dcamera_sink_service_ipc.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_service_ipc.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\eventbus\dcamera_frame_trigger_event.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_frame_trigger_event.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\eventbus\dcamera_photo_output_event.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_photo_output_event.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\eventbus\dcamera_post_authorization_event.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_post_authorization_event.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\eventbus\dcamera_video_output_event.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_video_output_event.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\listener\dcamera_sink_controller_channel_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_controller_channel_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\listener\dcamera_sink_data_process_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_data_process_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\src\distributedcameramgr\listener\dcamera_sink_output_channel_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\listener\dcamera_sink_output_channel_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcamera\distributed_camera_sink_service.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_001, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(g_testParams, service_->sinkVer_);
+    EXPECT_NE(0, (int32_t)service_->camerasMap_.size());
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(0, (int32_t)service_->camerasMap_.size());
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_001, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(g_testParams, service_->sinkVer_);
+    EXPECT_NE(0, (int32_t)service_->camerasMap_.size());
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(0, (int32_t)service_->camerasMap_.size());
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:81
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_002, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->SubscribeLocalHardware(service_->camerasMap_.begin()->first, g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_002, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->SubscribeLocalHardware(service_->camerasMap_.begin()->first, g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:99
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_003, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->UnsubscribeLocalHardware(service_->camerasMap_.begin()->first);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_003, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->UnsubscribeLocalHardware(service_->camerasMap_.begin()->first);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:117
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_004, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->StopCapture(service_->camerasMap_.begin()->first);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_004, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->StopCapture(service_->camerasMap_.begin()->first);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:135
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_005, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ChannelNeg(service_->camerasMap_.begin()->first, g_testChannelInfoContinue);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_005, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ChannelNeg(service_->camerasMap_.begin()->first, g_testChannelInfoContinue);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:153
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_006, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->GetCameraInfo(service_->camerasMap_.begin()->first, g_testCameraInfo);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_006, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->GetCameraInfo(service_->camerasMap_.begin()->first, g_testCameraInfo);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:171
+parsing error 
+HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_007, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->OpenChannel(service_->camerasMap_.begin()->first, g_testOpenInfoService);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->CloseChannel(service_->camerasMap_.begin()->first);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DistributedCameraSinkServiceTest, dcamera_sink_service_test_007, TestSize.Level1)
+{
+    int32_t ret = service_->InitSink(g_testParams);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->OpenChannel(service_->camerasMap_.begin()->first, g_testOpenInfoService);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->CloseChannel(service_->camerasMap_.begin()->first);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = service_->ReleaseSink();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcamera\distributed_camera_sink_service_test.cpp:189
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_access_control_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_001, TestSize.Level1)
+{
+    bool ret = accessControl_->IsSensitiveSrcAccess(TEST_SRC_TYPE);
+    EXPECT_EQ(true, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_001, TestSize.Level1)
+{
+    bool ret = accessControl_->IsSensitiveSrcAccess(TEST_SRC_TYPE);
+    EXPECT_EQ(true, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_access_control_test.cpp:66
+parsing error 
+HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_002, TestSize.Level1)
+{
+    bool ret = accessControl_->NotifySensitiveSrc(TEST_SRC_TYPE);
+    EXPECT_EQ(true, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_002, TestSize.Level1)
+{
+    bool ret = accessControl_->NotifySensitiveSrc(TEST_SRC_TYPE);
+    EXPECT_EQ(true, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_access_control_test.cpp:78
+parsing error 
+HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_003, TestSize.Level1)
+{
+    int32_t ret = accessControl_->GetAccessControlType(TEST_ACCESS_TYPE);
+    EXPECT_EQ(DCAMERA_SAME_ACCOUNT, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_003, TestSize.Level1)
+{
+    int32_t ret = accessControl_->GetAccessControlType(TEST_ACCESS_TYPE);
+    EXPECT_EQ(DCAMERA_SAME_ACCOUNT, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_access_control_test.cpp:90
+parsing error 
+HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_004, TestSize.Level1)
+{
+    int32_t ret = accessControl_->TriggerFrame(TEST_DEVICE_NAME);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkAccessControlTest, dcamera_sink_access_control_test_004, TestSize.Level1)
+{
+    int32_t ret = accessControl_->TriggerFrame(TEST_DEVICE_NAME);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_access_control_test.cpp:102
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_camera_channel.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_camera_operator.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_dcamera_sink_output.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\cameraoperator\client\include\icamera_operator.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_output.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_metadata_setting_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_001, TestSize.Level1)
+{
+    int32_t ret = controller_->Init(g_testCamIndex);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(true, controller_->isInit_);
+
+    ret = controller_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(false, controller_->isInit_);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_001, TestSize.Level1)
+{
+    int32_t ret = controller_->Init(g_testCamIndex);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(true, controller_->isInit_);
+
+    ret = controller_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(false, controller_->isInit_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:137
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_002, TestSize.Level1)
+{
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_DISCONNECTED, cmd.value_->state_);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_002, TestSize.Level1)
+{
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_DISCONNECTED, cmd.value_->state_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:154
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_003, TestSize.Level1)
+{
+    DCameraChannelInfoCmd cmd;
+    cmd.Unmarshal(TEST_CHANNEL_INFO_CMD_CONTINUE_JSON);
+    int32_t ret = controller_->ChannelNeg(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_003, TestSize.Level1)
+{
+    DCameraChannelInfoCmd cmd;
+    cmd.Unmarshal(TEST_CHANNEL_INFO_CMD_CONTINUE_JSON);
+    int32_t ret = controller_->ChannelNeg(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:169
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_004, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    int32_t ret = controller_->StartCapture(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_004, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    int32_t ret = controller_->StartCapture(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:183
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_005, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    int32_t ret = controller_->StartCapture(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    DCameraMetadataSettingCmd cmdMetadata;
+    cmdMetadata.Unmarshal(TEST_METADATA_SETTING_CMD_JSON);
+    ret = controller_->UpdateSettings(cmdMetadata.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_005, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    int32_t ret = controller_->StartCapture(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    DCameraMetadataSettingCmd cmdMetadata;
+    cmdMetadata.Unmarshal(TEST_METADATA_SETTING_CMD_JSON);
+    ret = controller_->UpdateSettings(cmdMetadata.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:197
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_006, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    int32_t ret = controller_->StartCapture(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = controller_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_006, TestSize.Level1)
+{
+    DCameraCaptureInfoCmd cmd;
+    cmd.Unmarshal(TEST_CAPTURE_INFO_CMD_JSON);
+    int32_t ret = controller_->StartCapture(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = controller_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:216
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_007, TestSize.Level1)
+{
+    controller_->srcDevId_ = TEST_DEVICE_ID_EMPTY;
+
+    DCameraEventCmd cmd;
+    cmd.Unmarshal(TEST_EVENT_CMD_JSON);
+    int32_t ret = controller_->DCameraNotify(cmd.value_);
+    EXPECT_EQ(DCAMERA_BAD_VALUE, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_007, TestSize.Level1)
+{
+    controller_->srcDevId_ = TEST_DEVICE_ID_EMPTY;
+
+    DCameraEventCmd cmd;
+    cmd.Unmarshal(TEST_EVENT_CMD_JSON);
+    int32_t ret = controller_->DCameraNotify(cmd.value_);
+    EXPECT_EQ(DCAMERA_BAD_VALUE, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:233
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_008, TestSize.Level1)
+{
+    DCameraEventCmd cmd;
+    cmd.Unmarshal(TEST_EVENT_CMD_JSON);
+    int32_t ret = controller_->DCameraNotify(cmd.value_);
+    EXPECT_NE(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_008, TestSize.Level1)
+{
+    DCameraEventCmd cmd;
+    cmd.Unmarshal(TEST_EVENT_CMD_JSON);
+    int32_t ret = controller_->DCameraNotify(cmd.value_);
+    EXPECT_NE(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:249
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_009, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_CONNECTING);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_CONNECTING, cmd.value_->state_);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_009, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_CONNECTING);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_CONNECTING, cmd.value_->state_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:263
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_010, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_CONNECTED);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_CONNECTED, cmd.value_->state_);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_010, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_CONNECTED);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_CONNECTED, cmd.value_->state_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:280
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_011, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_DISCONNECTED);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_DISCONNECTED, cmd.value_->state_);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_011, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_DISCONNECTED);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_DISCONNECTED, cmd.value_->state_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:297
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_012, TestSize.Level1)
+{
+    DCameraOpenInfoCmd cmd;
+    cmd.Unmarshal(TEST_OPEN_INFO_CMD_JSON);
+    int32_t ret = controller_->OpenChannel(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_012, TestSize.Level1)
+{
+    DCameraOpenInfoCmd cmd;
+    cmd.Unmarshal(TEST_OPEN_INFO_CMD_JSON);
+    int32_t ret = controller_->OpenChannel(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:314
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_013, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_CONNECTED);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_CONNECTED, cmd.value_->state_);
+
+    DCameraOpenInfoCmd cmdOpenInfo;
+    cmdOpenInfo.Unmarshal(TEST_OPEN_INFO_CMD_JSON);
+    ret = controller_->OpenChannel(cmdOpenInfo.value_);
+    EXPECT_EQ(DCAMERA_WRONG_STATE, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_013, TestSize.Level1)
+{
+    controller_->OnSessionState(DCAMERA_CHANNEL_STATE_CONNECTED);
+
+    DCameraInfoCmd cmd;
+    cmd.value_ = std::make_shared<DCameraInfo>();
+    int32_t ret = controller_->GetCameraInfo(cmd.value_);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(DCAMERA_CHANNEL_STATE_CONNECTED, cmd.value_->state_);
+
+    DCameraOpenInfoCmd cmdOpenInfo;
+    cmdOpenInfo.Unmarshal(TEST_OPEN_INFO_CMD_JSON);
+    ret = controller_->OpenChannel(cmdOpenInfo.value_);
+    EXPECT_EQ(DCAMERA_WRONG_STATE, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:328
+parsing error 
+HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_014, TestSize.Level1)
+{
+    int32_t ret = controller_->CloseChannel();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkControllerTest, dcamera_sink_controller_test_014, TestSize.Level1)
+{
+    int32_t ret = controller_->CloseChannel();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_controller_test.cpp:350
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_camera_channel.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_data_process_pipeline.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\idata_process_pipeline.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_001, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StartCapture(g_testCaptureInfoContinuousNotEncode);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_001, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StartCapture(g_testCaptureInfoContinuousNotEncode);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:117
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_002, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StartCapture(g_testCaptureInfoContinuousNeedEncode);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_002, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StartCapture(g_testCaptureInfoContinuousNeedEncode);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:129
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_003, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StartCapture(g_testCaptureInfoSnapshot);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_003, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StartCapture(g_testCaptureInfoSnapshot);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:141
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_004, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_004, TestSize.Level1)
+{
+    int32_t ret = dataProcess_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:153
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_005, TestSize.Level1)
+{
+    dataProcess_->captureInfo_ = g_testCaptureInfoContinuousNotEncode;
+    int32_t ret = dataProcess_->FeedStream(g_testDataBuffer);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_005, TestSize.Level1)
+{
+    dataProcess_->captureInfo_ = g_testCaptureInfoContinuousNotEncode;
+    int32_t ret = dataProcess_->FeedStream(g_testDataBuffer);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:165
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_006, TestSize.Level1)
+{
+    dataProcess_->captureInfo_ = g_testCaptureInfoContinuousNeedEncode;
+    int32_t ret = dataProcess_->FeedStream(g_testDataBuffer);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_006, TestSize.Level1)
+{
+    dataProcess_->captureInfo_ = g_testCaptureInfoContinuousNeedEncode;
+    int32_t ret = dataProcess_->FeedStream(g_testDataBuffer);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:178
+parsing error 
+HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_007, TestSize.Level1)
+{
+    dataProcess_->captureInfo_ = g_testCaptureInfoSnapshot;
+    int32_t ret = dataProcess_->FeedStream(g_testDataBuffer);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDataProcessTest, dcamera_sink_data_process_test_007, TestSize.Level1)
+{
+    dataProcess_->captureInfo_ = g_testCaptureInfoSnapshot;
+    int32_t ret = dataProcess_->FeedStream(g_testDataBuffer);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_data_process_test.cpp:191
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_dcamera_sink_controller.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\icamera_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_access_control.h...skip
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_001, TestSize.Level1)
+{
+    int32_t ret = dev_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(true, dev_->isInit_);
+
+    ret = dev_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(false, dev_->isInit_);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_001, TestSize.Level1)
+{
+    int32_t ret = dev_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(true, dev_->isInit_);
+
+    ret = dev_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(false, dev_->isInit_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:95
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_002, TestSize.Level1)
+{
+    int32_t ret = dev_->SubscribeLocalHardware(TEST_PARAMETER);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_002, TestSize.Level1)
+{
+    int32_t ret = dev_->SubscribeLocalHardware(TEST_PARAMETER);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:112
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_003, TestSize.Level1)
+{
+    int32_t ret = dev_->UnsubscribeLocalHardware();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_003, TestSize.Level1)
+{
+    int32_t ret = dev_->UnsubscribeLocalHardware();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:124
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_004, TestSize.Level1)
+{
+    int32_t ret = dev_->GetCameraInfo(g_testCameraInfo);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    DHLOGI("DCameraSinkDevTest::GetCameraInfo cameraInfo is %s", GetAnonyString(g_testCameraInfo).c_str());
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_004, TestSize.Level1)
+{
+    int32_t ret = dev_->GetCameraInfo(g_testCameraInfo);
+    EXPECT_EQ(DCAMERA_OK, ret);
+    DHLOGI("DCameraSinkDevTest::GetCameraInfo cameraInfo is %s", GetAnonyString(g_testCameraInfo).c_str());
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:136
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_005, TestSize.Level1)
+{
+    int32_t ret = dev_->ChannelNeg(g_testChannelInfoDevEmpty);
+    EXPECT_EQ(DCAMERA_BAD_VALUE, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_005, TestSize.Level1)
+{
+    int32_t ret = dev_->ChannelNeg(g_testChannelInfoDevEmpty);
+    EXPECT_EQ(DCAMERA_BAD_VALUE, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:149
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_006, TestSize.Level1)
+{
+    int32_t ret = dev_->ChannelNeg(g_testChannelInfoDevContinue);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_006, TestSize.Level1)
+{
+    int32_t ret = dev_->ChannelNeg(g_testChannelInfoDevContinue);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:161
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_007, TestSize.Level1)
+{
+    int32_t ret = dev_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_007, TestSize.Level1)
+{
+    int32_t ret = dev_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:173
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_008, TestSize.Level1)
+{
+    int32_t ret = dev_->OpenChannel(g_testOpenInfoDevEmpty);
+    EXPECT_EQ(DCAMERA_BAD_VALUE, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_008, TestSize.Level1)
+{
+    int32_t ret = dev_->OpenChannel(g_testOpenInfoDevEmpty);
+    EXPECT_EQ(DCAMERA_BAD_VALUE, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:185
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_009, TestSize.Level1)
+{
+    int32_t ret = dev_->OpenChannel(g_testOpenInfoDev);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_009, TestSize.Level1)
+{
+    int32_t ret = dev_->OpenChannel(g_testOpenInfoDev);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:197
+parsing error 
+HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_010, TestSize.Level1)
+{
+    int32_t ret = dev_->CloseChannel();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkDevTest, dcamera_sink_dev_test_010, TestSize.Level1)
+{
+    int32_t ret = dev_->CloseChannel();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_dev_test.cpp:209
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_output.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_camera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_camera_operator.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\mock_dcamera_sink_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_photo_output_event.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\eventbus\dcamera_video_output_event.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\interface\icamera_sink_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_access_control.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\include\distributedcameramgr\dcamera_sink_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_001, TestSize.Level1)
+{
+    int32_t ret = output_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(true, output_->isInit_);
+
+    ret = output_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(false, output_->isInit_);
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_001, TestSize.Level1)
+{
+    int32_t ret = output_->Init();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(true, output_->isInit_);
+
+    ret = output_->UnInit();
+    EXPECT_EQ(DCAMERA_OK, ret);
+    EXPECT_EQ(false, output_->isInit_);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:142
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_002, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputContinuousNotEncode);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_002, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputContinuousNotEncode);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:159
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_003, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputContinuousNeedEncode);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_003, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputContinuousNeedEncode);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:174
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_004, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputSnapshot);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_004, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputSnapshot);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:189
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_005, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputContinuousNotEncode);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = output_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_005, TestSize.Level1)
+{
+    g_testCaptureInfosOutput.push_back(g_testCaptureInfoOutputContinuousNotEncode);
+    int32_t ret = output_->StartCapture(g_testCaptureInfosOutput);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = output_->StopCapture();
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    g_testCaptureInfosOutput.clear();
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:204
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_006, TestSize.Level1)
+{
+    int32_t ret = output_->OpenChannel(g_testChannelInfo);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_006, TestSize.Level1)
+{
+    int32_t ret = output_->OpenChannel(g_testChannelInfo);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:222
+parsing error 
+HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_007, TestSize.Level1)
+{
+    int32_t ret = output_->CloseChannel();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSinkOutputTest, dcamera_sink_output_test_007, TestSize.Level1)
+{
+    int32_t ret = output_->CloseChannel();
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sinkservice\test\unittest\common\distributedcameramgr\dcamera_sink_output_test.cpp:234
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcamera\dcamera_service_state_listener.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\dcamera_service_state_listener.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_state_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\idcamera_source_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\distributed_camera_source_service.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_event.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_event_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+parsing error 
+)
+warning: parse error )Missing ';' in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_event.h:56
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_event.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_event.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\icamera_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_state_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_input.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\distributed_camera_source_stub.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcamera\dcamera_source_callback_proxy.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\dcamera_source_callback_proxy.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\callback\idcamera_source_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcamera\distributed_camera_source_service.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\distributed_camera_source_service.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\dcamera_service_state_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_service_ipc.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\idistributed_camera_sink.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+REGISTER_SYSTEM_ABILITY_BY_ID(DistributedCameraSourceService, DISTRIBUTED_HARDWARE_CAMERA_SOURCE_SA_ID, true);
+warning: parse error REGISTER_SYSTEM_ABILITY_BY_ID(DistributedCameraSourceService, DISTRIBUTED_HARDWARE_CAMERA_SOURCE_SA_ID, true);Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcamera\distributed_camera_source_service.cpp:33
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcamera\distributed_camera_source_stub.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\distributed_camera_source_stub.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcamera\dcamera_source_callback_proxy.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameracontrol\dcamera_source_controller.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameracontrol\dcamera_source_controller.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\icamera_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_capture_info_cmd.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_source_impl.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_session.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_metadata_setting_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_protocol.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameracontrol\dcamera_source_controller_channel_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_service_ipc.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_sink\include\idistributed_camera_sink.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameracontrol\dcamera_source_controller_channel_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameracontrol\dcamera_source_controller_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameracontrol\dcamera_source_controller.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameradata\dcamera_source_data_process.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_data_process.h...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_source_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\idata_process_pipeline.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process_producer.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\idistributed_camera_provider.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_source_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameradata\dcamera_source_input.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_input.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_input.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_source_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_source_impl.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_event.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_input_channel_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\icamera_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameradata\dcamera_source_input_channel_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_input_channel_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_input.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameradata\dcamera_stream_data_process.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_source.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\eventbus\dcamera_pipeline_event.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\idata_process_pipeline.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\abstract_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process_pipeline_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\interfaces\data_process_listener.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameradata\dcamera_stream_data_process_pipeline_listener.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process_pipeline_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcameradata\dcamera_stream_data_process_producer.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_stream_data_process_producer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerahdf\dcamera_provider_callback_impl.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerahdf\dcamera_provider_callback_impl.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\hdi_ipc\client\provider\dcamera_provider_callback.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_index.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\camera_hdf\interfaces\include\types.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_capture_state.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_capture_state.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_config_stream_state.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_config_stream_state.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_init_state.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_init_state.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_opened_state.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_opened_state.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_regist_state.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_regist_state.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_state_factory.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_factory.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_capture_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_config_stream_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_init_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_opened_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_regist_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamerastate\dcamera_source_state_machine.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_factory.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamera_source_dev.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_channel_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\base\include\dcamera_info_cmd.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerahdf\dcamera_provider_callback_impl.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameracontrol\dcamera_source_controller.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcameradata\dcamera_source_input.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamera_source_event.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_event.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\src\distributedcameramgr\dcamera_source_service_ipc.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_service_ipc.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\dcamera_source_state_machine_test.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_capture_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_config_stream_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_init_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_opened_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_regist_state.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_factory.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerastate\dcamera_source_state_machine.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\mock_dcamera_source_dev.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamera_source_dev.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\interfaces\inner_kits\native_cpp\camera_source\include\idistributed_camera_source.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\mock_dcamera_source_state_listener.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\include\distributedcameramgr\dcamerainterface\icamera_state_listener.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing error 
+HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_001, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_001, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\dcamera_source_state_machine_test.cpp:173
+parsing error 
+HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_002, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_002, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\dcamera_source_state_machine_test.cpp:191
+parsing error 
+HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_003, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event4(*camDev_, DCAMERA_EVENT_CONFIG_STREAMS, g_streamInfosSnap);
+    DCameraSourceEvent event5(*camDev_, DCAMERA_EVENT_RELEASE_STREAMS, g_streamIdSnap);
+    DCameraSourceEvent event8(*camDev_, DCAMERA_EVENT_UPDATE_SETTINGS, g_cameraSettingSnap);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_OPENED);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CONFIG_STREAMS, event4);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_RELEASE_STREAMS, event5);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UPDATE_SETTINGS, event8);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_003, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event4(*camDev_, DCAMERA_EVENT_CONFIG_STREAMS, g_streamInfosSnap);
+    DCameraSourceEvent event5(*camDev_, DCAMERA_EVENT_RELEASE_STREAMS, g_streamIdSnap);
+    DCameraSourceEvent event8(*camDev_, DCAMERA_EVENT_UPDATE_SETTINGS, g_cameraSettingSnap);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_OPENED);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CONFIG_STREAMS, event4);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_RELEASE_STREAMS, event5);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UPDATE_SETTINGS, event8);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\dcamera_source_state_machine_test.cpp:222
+parsing error 
+HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_004, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event4(*camDev_, DCAMERA_EVENT_CONFIG_STREAMS, g_streamInfosSnap);
+    DCameraSourceEvent event5(*camDev_, DCAMERA_EVENT_RELEASE_STREAMS, g_streamIdSnap);
+    DCameraSourceEvent event6(*camDev_, DCAMERA_EVENT_START_CAPTURE, g_captureInfoSnap);
+    DCameraSourceEvent event7(*camDev_, DCAMERA_EVENT_STOP_CAPTURE);
+    DCameraSourceEvent event8(*camDev_, DCAMERA_EVENT_UPDATE_SETTINGS, g_cameraSettingSnap);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_OPENED);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_CONFIG_STREAM);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CONFIG_STREAMS, event4);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_START_CAPTURE, event6);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UPDATE_SETTINGS, event8);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_STOP_CAPTURE, event7);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_RELEASE_STREAMS, event5);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_004, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event4(*camDev_, DCAMERA_EVENT_CONFIG_STREAMS, g_streamInfosSnap);
+    DCameraSourceEvent event5(*camDev_, DCAMERA_EVENT_RELEASE_STREAMS, g_streamIdSnap);
+    DCameraSourceEvent event6(*camDev_, DCAMERA_EVENT_START_CAPTURE, g_captureInfoSnap);
+    DCameraSourceEvent event7(*camDev_, DCAMERA_EVENT_STOP_CAPTURE);
+    DCameraSourceEvent event8(*camDev_, DCAMERA_EVENT_UPDATE_SETTINGS, g_cameraSettingSnap);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_OPENED);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_CONFIG_STREAM);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CONFIG_STREAMS, event4);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_START_CAPTURE, event6);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UPDATE_SETTINGS, event8);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_STOP_CAPTURE, event7);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_RELEASE_STREAMS, event5);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\dcamera_source_state_machine_test.cpp:266
+parsing error 
+HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_005, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event6(*camDev_, DCAMERA_EVENT_START_CAPTURE, g_captureInfoSnap);
+    DCameraSourceEvent event7(*camDev_, DCAMERA_EVENT_STOP_CAPTURE);
+    DCameraSourceEvent event8(*camDev_, DCAMERA_EVENT_UPDATE_SETTINGS, g_cameraSettingSnap);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_OPENED);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_CONFIG_STREAM);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_CAPTURE);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_START_CAPTURE, event6);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UPDATE_SETTINGS, event8);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_STOP_CAPTURE, event7);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}
+warning: parse error HWTEST_F(DCameraSourceStateMachineTest, dcamera_source_state_machine_test_005, TestSize.Level1)
+{
+    DCameraSourceEvent event0(*camDev_, DCAMERA_EVENT_REGIST, g_registParam);
+    DCameraSourceEvent event1(*camDev_, DCAMERA_EVENT_UNREGIST, g_registParam);
+    DCameraSourceEvent event2(*camDev_, DCAMERA_EVENT_OPEN, g_camIndex);
+    DCameraSourceEvent event3(*camDev_, DCAMERA_EVENT_CLOSE, g_camIndex);
+    DCameraSourceEvent event6(*camDev_, DCAMERA_EVENT_START_CAPTURE, g_captureInfoSnap);
+    DCameraSourceEvent event7(*camDev_, DCAMERA_EVENT_STOP_CAPTURE);
+    DCameraSourceEvent event8(*camDev_, DCAMERA_EVENT_UPDATE_SETTINGS, g_cameraSettingSnap);
+    DCameraSourceEvent event9(*camDev_, DCAMERA_EVENT_NOFIFY, g_camEvent);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_INIT);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_REGIST);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_OPENED);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_CONFIG_STREAM);
+    stateMachine_ ->UpdateState(DCAMERA_STATE_CAPTURE);
+    int32_t ret = stateMachine_ ->Execute(DCAMERA_EVENT_REGIST, event0);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_OPEN, event2);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_START_CAPTURE, event6);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_NOFIFY, event9);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UPDATE_SETTINGS, event8);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_STOP_CAPTURE, event7);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_CLOSE, event3);
+    EXPECT_EQ(DCAMERA_OK, ret);
+
+    ret = stateMachine_ ->Execute(DCAMERA_EVENT_UNREGIST, event1);
+    EXPECT_EQ(DCAMERA_OK, ret);
+}Syntax error in file: D:\lda_demoGPT\local\data\distributed_camera\services\cameraservice\sourceservice\test\unittest\common\distributedcameramgr\dcamera_source_state_machine_test.cpp:319
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\src\dcamera_channel_sink_impl.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_sink_impl.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_adapter.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_session.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\src\dcamera_channel_source_impl.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_channel_source_impl.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_adapter.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\src\dcamera_softbus_adapter.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_adapter.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\channel\src\dcamera_softbus_session.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_session.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\channel\include\dcamera_softbus_adapter.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_constants.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline\abstract_data_process.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\abstract_data_process.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline\dcamera_pipeline_sink.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_sink.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\abstract_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_sink.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline\dcamera_pipeline_source.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_source.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_data_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\eventbus\dcamera_codec_event.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+parsing error 
+)
+warning: parse error )Missing ';' in file: D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\eventbus\dcamera_codec_event.h:65
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\abstract_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_source.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\fpscontroller\fps_controller_process.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\abstract_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline\dcamera_pipeline_source.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\colorspace_conversion\convert_nv12_to_nv21.cpp...
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\colorspace_conversion\convert_nv12_to_nv21.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\data_buffer.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\fpscontroller\fps_controller_process.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\fpscontroller\fps_controller_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\constants\distributed_camera_errno.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\multimedia_codec\decode_data_process.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\colorspace_conversion\convert_nv12_to_nv21.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_video_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_data_process.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\multimedia_codec\decode_data_process_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\colorspace_conversion\convert_nv12_to_nv21.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_video_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\multimedia_codec\decode_video_callback.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\decode_video_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\multimedia_codec\encode_data_process.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_video_callback.h...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_data_process.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\multimedia_codec\encode_data_process_common.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_data_process.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\common\include\utils\dcamera_utils_tools.h...skip
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_video_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\pipeline_node\multimedia_codec\encode_video_callback.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\pipeline_node\multimedia_codec\encode_video_callback.h...skip
+parsing D:\lda_demoGPT\local\data\distributed_camera\services\data_process\src\utils\image_common_type.cpp...
+already parsed D:\lda_demoGPT\local\data\distributed_camera\services\data_process\include\utils\image_common_type.h...skip
+all files procceed successfully...
+Resolve types and bindings of variables, methods and expressions....
+Resolve type bindings....
+Dependency analaysing....
+types and bindings resolved successfully...
+Dependency done....
+dependencie data generating...
+Start create dependencies matrix....
+Finish create dependencies matrix....
+reorder dependency matrix...
+Dependencies data generating done successfully...
+Consumed time: 14.727 s,  or 0.24545 min.
