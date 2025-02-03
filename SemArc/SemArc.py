@@ -50,18 +50,18 @@ if __name__ == '__main__':
         help='paths to external stopword lists',
         default=DEFAULT_STOP_WORD_LIST)
     
-    parser.add_argument('-p', '--pattern_file',
+    parser.add_argument('-a', '--archsem_file',
         metavar='',
         nargs='+',
         type=str, 
-        help='paths to architecture pattern files',
+        help='paths to architecture semantic file',
         default=None)
     
-    parser.add_argument('-l', '--llm_file',
+    parser.add_argument('-c', '--codesem_file',
         metavar='',
         nargs='+',
         type=str, 
-        help='paths to llm code summary files',
+        help='paths to code semantic file',
         default=None)
 
     parser.add_argument('-r', '--resolution',
