@@ -14,7 +14,7 @@ The dataset consists of eight ground-truth datasets sourced from existing resear
 - **labeled**: This folder includes the datasets created by us, where the ground-truth architecture has been manually labeled and validated. These datasets are designed to cover a wide range of system sizes and programming languages, ensuring a diverse set of examples.
 
 ## semantic_analysis
-This module utilizes Large Language Models (LLMs) to identify both code semantics and architectural semantics within the project. The analysis results are automatically saved into two JSON files, which are named after the project as follows:
+This module utilizes Large Language Models (LLMs) to identify both code semantics and architectural semantics within the project. Before use this you should setup **API_KEY** in **config.py** The analysis results are automatically saved into two JSON files, which are named after the project as follows:
 
 - **[project name]_ArchSem.json**: This file contains the architectural semantics identified in the project.
 - **[project name]_CodeSem.json**: This file contains the code semantics identified in the project.
