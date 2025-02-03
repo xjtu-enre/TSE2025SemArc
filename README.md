@@ -29,7 +29,7 @@ python semantic_analysis.py [project folder]
 ## SemArc
 ### Usage
 ```bash
-SemArc.py [-h] [-g  [...]] [-o] [--cache_dir] [-s  [...]] [-a  [...]] [-c  [...]] [-r] [-n] datapath [datapath ...]
+python SemArc.py [-h] [-g  [...]] [-o] [--cache_dir] [-s  [...]] [-a  [...]] [-c  [...]] [-r] [-n] datapath [datapath ...]
 ```
 positional arguments:
 ````
