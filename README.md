@@ -16,11 +16,35 @@ The dataset consists of eight ground-truth datasets sourced from existing resear
 ## semantic_analysis
 This module utilizes Large Language Models (LLMs) to identify both code semantics and architectural semantics within the project. The analysis results are automatically saved into two JSON files, which are named after the project as follows:
 
-- **project_name_ArchSem.json**: This file contains the architectural semantics identified in the project.
-- **project_name_CodeSem.json**: This file contains the code semantics identified in the project.
+- **[project name]_ArchSem.json**: This file contains the architectural semantics identified in the project.
+- **[project name]_CodeSem.json**: This file contains the code semantics identified in the project.
 
 ### Usage
 To run the semantic analysis, use the following command:
 
 ```bash
 python semantic_analysis.py [project folder]
+
+## SemArc
+### Usage
+```bash
+SemArc.py [-h] [-g  [...]] [-o] [--cache_dir] [-s  [...]] [-a  [...]] [-c  [...]] [-r] [-n] datapath [datapath ...]
+````
+positional arguments:
+  datapath              path to the input project folder
+
+options:
+  -h, --help            show this help message and exit
+  -g  [ ...], --gt  [ ...]
+                        path to the ground truth json file
+  -o , --out_dir        path to the result folder
+  --cache_dir           cache path
+  -s  [ ...], --stopword_file  [ ...]
+                        paths to external stopword lists
+  -a  [ ...], --archsem_file  [ ...]
+                        paths to architecture semantic file
+  -c  [ ...], --codesem_file  [ ...]
+                        paths to code semantic file
+  -r , --resolution     resolution parameter, affecting the final cluster size.
+  -n, --no_fig          prevent figure generation
+````
