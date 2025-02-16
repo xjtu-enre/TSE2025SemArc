@@ -1,0 +1,260 @@
+{
+    "@schemaVersion": "1.0",
+    "name": "clustering",
+    "structure": [
+        {
+            "@type": "group",
+            "name": "0",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "analysis/error_handler.py",
+                    "Functionality": "Handles error reporting and logging during the analysis process. It manages how errors are raised, captured, and reported, including creating detailed error messages related to unresolved variables or syntax issues."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/assign_target.py",
+                    "Functionality": "Responsible for analyzing target assignments in Python code. It parses variables and expressions on the left-hand side of assignment statements and determines how they are affected by assignments."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/value_info.py",
+                    "Functionality": "Contains classes that define and manage the values of expressions during static analysis. This file represents how different types of values (e.g., literals, variables, constants) are tracked and manipulated during analysis."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/analyze_method.py",
+                    "Functionality": "This file handles the analysis of methods in Python code, parsing method definitions and their invocations. It also determines the type and nature of the methods and their interactions with other code components."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/analyze_manager.py",
+                    "Functionality": "The `AnalyzeManager` class in this file coordinates the analysis process across multiple modules. It handles loading and managing the state of modules, including tracking dependencies and the progress of analysis tasks."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/attribute_analyzer.py",
+                    "Functionality": "This file analyzes attribute accesses in Python, such as attribute lookups and method invocations on objects. It tracks how objects are modified or accessed, and evaluates the types of attributes in the context of the code."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/__init__.py",
+                    "Functionality": "Marks the directory as a package and may include setup code for initializing the analysis-related modules. It can handle imports that are commonly used across the analysis tools."
+                },
+                {
+                    "@type": "item",
+                    "name": "__main__.py",
+                    "Functionality": "This file serves as the entry point for executing the package directly. It processes command-line arguments, initiates analysis tasks, and can include logic for profiling or detailed report generation."
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "1",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "vis/mapping.py",
+                    "Functionality": "Defines an abstract base class 'Mapping' that provides interfaces for comparing nodes and edges. Subclasses are expected to implement logic for checking if two nodes or edges are the same, assisting in dependency analysis and ensuring consistency in mapping entities and relationships between systems."
+                },
+                {
+                    "@type": "item",
+                    "name": "vis/summary_repr.py",
+                    "Functionality": "Generates summary representations of modules and call graphs. It includes functions to summarize module contents and visualize the call relationships between classes or functions. The file assists in providing an overview of a system's structure and how different modules or entities interact within it."
+                },
+                {
+                    "@type": "item",
+                    "name": "vis/__init__.py",
+                    "Functionality": "Marks the directory as a Python package and potentially initializes required components for the 'vis' module. It may contain necessary setup code for the visual representation or dependency analysis functionality, ensuring that the 'vis' package operates as intended within the larger application context."
+                },
+                {
+                    "@type": "item",
+                    "name": "vis/graphdiffer.py",
+                    "Functionality": "This file implements functionality to compute differences between two graph representations (a baseline and a target). It includes a class that processes nodes and edges, comparing them to detect changes, additions, or removals. It helps to analyze and visualize the differences in dependencies and entities within a software system."
+                },
+                {
+                    "@type": "item",
+                    "name": "vis/und_mapping.py",
+                    "Functionality": "This file implements logic for comparing and mapping uncertain nodes and edges in dependency graphs. It leverages predefined mappings for entities and dependencies and allows for identifying differences or matches between the basic and uncertain representations, enhancing the process of dependency visualization and analysis."
+                },
+                {
+                    "@type": "item",
+                    "name": "vis/representation.py",
+                    "Functionality": "This file focuses on representing and managing entities, dependencies, and their relationships in the form of nodes and edges. It includes classes for nodes, edges, and dependency representations, and it facilitates the generation of dependency graphs and their serialization into JSON format. The class methods help to visualize how entities are related and their structure in a software system."
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "2",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "cfg/module_tree.py",
+                    "Functionality": "Defines the structure for managing modules and their interrelations. It helps in building a hierarchy of modules, classes, and functions, enabling a deeper analysis of code structure and dependencies across the project."
+                },
+                {
+                    "@type": "item",
+                    "name": "cfg/call_graph.py",
+                    "Functionality": "This file constructs and maintains a call graph, representing function calls and their relationships in the program. It provides the ability to analyze the flow of function calls within the program's execution context."
+                },
+                {
+                    "@type": "item",
+                    "name": "cfg/__init__.py",
+                    "Functionality": "cfg/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "cfg/HeapObject.py",
+                    "Functionality": "This file defines classes that represent objects in the heap, including instances, modules, and other runtime objects. It is used to track the state of objects during the analysis and execution of the program."
+                },
+                {
+                    "@type": "item",
+                    "name": "cfg/Resolver.py",
+                    "Functionality": "Responsible for resolving references to variables, functions, and other entities in the program. It analyzes and resolves dependencies between code components and ensures that references are correctly mapped to their definitions."
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "3",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "ent/EntKind.py",
+                    "Functionality": "ent/EntKind.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "ent/entity.py",
+                    "Functionality": "ent/entity.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "ent/__init__.py",
+                    "Functionality": "ent/__init__.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "ent/ent_finder.py",
+                    "Functionality": "ent/ent_finder.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "ent/ent_factory.py",
+                    "Functionality": "ent/ent_factory.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "4",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "passes/entity_pass.py",
+                    "Functionality": "passes/entity_pass.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "passes/build_ambiguous.py",
+                    "Functionality": "passes/build_ambiguous.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "passes/build_visibility.py",
+                    "Functionality": "passes/build_visibility.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "passes/aggregate_control_flow_info.py",
+                    "Functionality": "passes/aggregate_control_flow_info.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "passes/__init__.py",
+                    "Functionality": "passes/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "5",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "analysis/analyze_expr.py",
+                    "Functionality": "This file defines classes and methods for analyzing expressions in Python code, particularly through abstract syntax trees (AST). It focuses on evaluating the values and contexts in which expressions appear, such as usage and assignment."
+                },
+                {
+                    "@type": "item",
+                    "name": "__init__.py",
+                    "Functionality": "This file marks the directory as a Python package and may include initialization code for the package. It often handles imports and setup tasks needed for the module to work seamlessly."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/env.py",
+                    "Functionality": "This file defines environment-related classes and structures, such as managing variable scopes and handling the resolution of variables within different contexts in the code analysis process."
+                },
+                {
+                    "@type": "item",
+                    "name": "analysis/analyze_stmt.py",
+                    "Functionality": "This file provides functionality to analyze statements within Python code, processing assignments, conditionals, loops, and other constructs. It works with the AST to determine control flow and data flow within the program."
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "6",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "test_gen/yaml_represent.py",
+                    "Functionality": "This file provides functions to transform JSON data representing entities and dependencies into YAML format. It includes functions to handle single and multiple entities and dependencies, both positive and negative, and can output them into a YAML-compatible structure for easier visualization and analysis."
+                },
+                {
+                    "@type": "item",
+                    "name": "test_gen/__init__.py",
+                    "Functionality": "Typically used to mark a directory as a Python package. The content of this file may initialize specific test configurations or utilities for the 'test_gen' module, enabling the organization of test-related functionality for further development."
+                },
+                {
+                    "@type": "item",
+                    "name": "test_gen/binder.py",
+                    "Functionality": "test_gen/binder.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "7",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "dep/DepDB.py",
+                    "Functionality": "dep/DepDB.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "dep/__init__.py",
+                    "Functionality": "dep/__init__.py"
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "8",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "ref/Ref.py",
+                    "Functionality": "ref/Ref.py"
+                },
+                {
+                    "@type": "item",
+                    "name": "ref/__init__.py",
+                    "Functionality": "ref/__init__.py"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "modules": [
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 3,
+            "name": "EntityManager"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 3,
+            "name": "EntityManager"
+        },
+        {
+            "no": 4,
+            "name": "ProgramAnalysis"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 3,
+            "name": "EntityManager"
+        },
+        {
+            "no": 4,
+            "name": "ProgramAnalysis"
+        },
+        {
+            "no": 5,
+            "name": "PythonCodeAnalyzer"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 3,
+            "name": "EntityManager"
+        },
+        {
+            "no": 4,
+            "name": "ProgramAnalysis"
+        },
+        {
+            "no": 5,
+            "name": "PythonCodeAnalyzer"
+        },
+        {
+            "no": 6,
+            "name": "JSONtoYAMLConverterAndTestBinder"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 3,
+            "name": "EntityManager"
+        },
+        {
+            "no": 4,
+            "name": "ProgramAnalysis"
+        },
+        {
+            "no": 5,
+            "name": "PythonCodeAnalyzer"
+        },
+        {
+            "no": 6,
+            "name": "JSONtoYAMLConverterAndTestBinder"
+        },
+        {
+            "no": 7,
+            "name": "DependencyManager"
+        },
+        {
+            "no": 0,
+            "name": "StaticCodeAnalyzer"
+        },
+        {
+            "no": 1,
+            "name": "DependencyMappingAndVisualization"
+        },
+        {
+            "no": 2,
+            "name": "CodeStructureAndDependencyAnalyzer"
+        },
+        {
+            "no": 3,
+            "name": "EntityManager"
+        },
+        {
+            "no": 4,
+            "name": "ProgramAnalysis"
+        },
+        {
+            "no": 5,
+            "name": "PythonCodeAnalyzer"
+        },
+        {
+            "no": 6,
+            "name": "JSONtoYAMLConverterAndTestBinder"
+        },
+        {
+            "no": 7,
+            "name": "DependencyManager"
+        },
+        {
+            "no": 8,
+            "name": "ReferenceManager"
+        }
+    ]
+}

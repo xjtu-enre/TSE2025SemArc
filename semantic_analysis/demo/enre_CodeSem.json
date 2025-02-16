@@ -1,0 +1,164 @@
+{
+    "summary": [
+        {
+            "file": "__init__.py",
+            "Functionality": "This file marks the directory as a Python package and may include initialization code for the package. It often handles imports and setup tasks needed for the module to work seamlessly."
+        },
+        {
+            "file": "__main__.py",
+            "Functionality": "This file serves as the entry point for executing the package directly. It processes command-line arguments, initiates analysis tasks, and can include logic for profiling or detailed report generation."
+        },
+        {
+            "file": "analysis/analyze_expr.py",
+            "Functionality": "This file defines classes and methods for analyzing expressions in Python code, particularly through abstract syntax trees (AST). It focuses on evaluating the values and contexts in which expressions appear, such as usage and assignment."
+        },
+        {
+            "file": "analysis/analyze_manager.py",
+            "Functionality": "The `AnalyzeManager` class in this file coordinates the analysis process across multiple modules. It handles loading and managing the state of modules, including tracking dependencies and the progress of analysis tasks."
+        },
+        {
+            "file": "analysis/analyze_method.py",
+            "Functionality": "This file handles the analysis of methods in Python code, parsing method definitions and their invocations. It also determines the type and nature of the methods and their interactions with other code components."
+        },
+        {
+            "file": "analysis/analyze_stmt.py",
+            "Functionality": "This file provides functionality to analyze statements within Python code, processing assignments, conditionals, loops, and other constructs. It works with the AST to determine control flow and data flow within the program."
+        },
+        {
+            "file": "analysis/assign_target.py",
+            "Functionality": "Responsible for analyzing target assignments in Python code. It parses variables and expressions on the left-hand side of assignment statements and determines how they are affected by assignments."
+        },
+        {
+            "file": "analysis/attribute_analyzer.py",
+            "Functionality": "This file analyzes attribute accesses in Python, such as attribute lookups and method invocations on objects. It tracks how objects are modified or accessed, and evaluates the types of attributes in the context of the code."
+        },
+        {
+            "file": "analysis/env.py",
+            "Functionality": "This file defines environment-related classes and structures, such as managing variable scopes and handling the resolution of variables within different contexts in the code analysis process."
+        },
+        {
+            "file": "analysis/error_handler.py",
+            "Functionality": "Handles error reporting and logging during the analysis process. It manages how errors are raised, captured, and reported, including creating detailed error messages related to unresolved variables or syntax issues."
+        },
+        {
+            "file": "analysis/value_info.py",
+            "Functionality": "Contains classes that define and manage the values of expressions during static analysis. This file represents how different types of values (e.g., literals, variables, constants) are tracked and manipulated during analysis."
+        },
+        {
+            "file": "analysis/__init__.py",
+            "Functionality": "Marks the directory as a package and may include setup code for initializing the analysis-related modules. It can handle imports that are commonly used across the analysis tools."
+        },
+        {
+            "file": "cfg/call_graph.py",
+            "Functionality": "This file constructs and maintains a call graph, representing function calls and their relationships in the program. It provides the ability to analyze the flow of function calls within the program's execution context."
+        },
+        {
+            "file": "cfg/HeapObject.py",
+            "Functionality": "This file defines classes that represent objects in the heap, including instances, modules, and other runtime objects. It is used to track the state of objects during the analysis and execution of the program."
+        },
+        {
+            "file": "cfg/module_tree.py",
+            "Functionality": "Defines the structure for managing modules and their interrelations. It helps in building a hierarchy of modules, classes, and functions, enabling a deeper analysis of code structure and dependencies across the project."
+        },
+        {
+            "file": "cfg/Resolver.py",
+            "Functionality": "Responsible for resolving references to variables, functions, and other entities in the program. It analyzes and resolves dependencies between code components and ensures that references are correctly mapped to their definitions."
+        },
+        {
+            "file": "cfg\\__init__.py",
+            "Functionality": "This file provides the initialization for the configuration module, establishing the framework for static code analysis in Python. It prepares necessary settings and imports other components to enable code parsing and analysis for control flow and dependency tracking."
+        },
+        {
+            "file": "dep\\DepDB.py",
+            "Functionality": "This file defines the `DepDB` class responsible for managing and storing entities in the program, tracking dependencies between them, and resolving references. It helps in understanding how different program components interact, and it supports dependency analysis across entities such as variables, methods, and classes."
+        },
+        {
+            "file": "dep\\__init__.py",
+            "Functionality": "This file initializes the `dep` module, ensuring that all necessary components and classes related to dependency tracking and management are accessible and ready for use in the project."
+        },
+        {
+            "file": "ent\\entity.py",
+            "Functionality": "Defines key classes like `Entity`, `Variable`, `Function`, and `Class` for representing different code entities, such as variables, functions, and methods, as well as their relationships within the analysis framework. This allows the program to model and track elements in the codebase during static analysis."
+        },
+        {
+            "file": "ent\\EntKind.py",
+            "Functionality": "Contains enumerations `RefKind` and `EntKind`, which classify the types of references and entities, such as variable assignments, method calls, and class definitions. This helps in categorizing and understanding the relationships between different entities and how they interact in the code."
+        },
+        {
+            "file": "ent\\ent_factory.py",
+            "Functionality": "The `EntFactory` class provides a factory pattern for creating entity instances such as variables, classes, and functions. It abstracts the creation of these entities and manages their lifecycle within the program, ensuring consistency across the analysis process."
+        },
+        {
+            "file": "ent\\ent_finder.py",
+            "Functionality": "Contains methods to search for and retrieve entities within the codebase, such as class attributes and functions. It helps in identifying specific entities based on their names and analyzing their relationships within the code structure."
+        },
+        {
+            "file": "ent\\__init__.py",
+            "Functionality": "This file initializes the `ent` module, ensuring that all necessary components for handling and representing entities in the codebase are imported and accessible for the analysis."
+        },
+        {
+            "file": "passes\\aggregate_control_flow_info.py",
+            "Functionality": "Aggregates control flow information for analyzing how different entities (such as methods and functions) are interconnected and how data flows between them. This aids in understanding the program’s control structure and dependencies at a high level."
+        },
+        {
+            "file": "passes\\build_ambiguous.py",
+            "Functionality": "Identifies and resolves ambiguous references and attributes within the code, particularly when the same name is used in different classes or scopes. It handles the resolution of such ambiguities to ensure accurate dependency mapping and analysis."
+        },
+        {
+            "file": "passes\\build_visibility.py",
+            "Functionality": "This file deals with determining the visibility and scope of entities, such as methods and variables, within a class or module. It builds relationships between visible and non-visible entities and analyzes the accessibility of class attributes and functions."
+        },
+        {
+            "file": "passes\\entity_pass.py",
+            "Functionality": "Implements a pass in the analysis framework that processes and resolves references to various entities, such as variables, functions, and classes, across the codebase. It ensures that all references are accurately tracked and their relationships are properly understood."
+        },
+        {
+            "file": "passes\\__init__.py",
+            "Functionality": "This file initializes the `passes` module, making sure all the passes related to code analysis are imported and ready for use. It sets up the necessary structure for performing various passes over the code to extract control flow, visibility, and dependency information."
+        },
+        {
+            "file": "ref\\Ref.py",
+            "Functionality": "Defines the `Ref` class to represent references in the code, such as variable uses, function calls, and assignments. It helps in tracking and analyzing how different parts of the code interact and depend on each other through references."
+        },
+        {
+            "file": "ref\\__init__.py",
+            "Functionality": "This file initializes the `ref` module, ensuring that reference-related components are accessible for tracking and analyzing code dependencies and references."
+        },
+        {
+            "file": "test_gen\\binder.py",
+            "Functionality": "This script handles the binding process in test generation, analyzing the code to create bindings between entities (such as variables and functions) and their respective references. It generates dependency graphs and saves the results in a structured format, aiding in the generation of test cases and validation of code interactions."
+        },
+        {
+            "file": "test_gen/yaml_represent.py",
+            "Functionality": "This file provides functions to transform JSON data representing entities and dependencies into YAML format. It includes functions to handle single and multiple entities and dependencies, both positive and negative, and can output them into a YAML-compatible structure for easier visualization and analysis."
+        },
+        {
+            "file": "test_gen/__init__.py",
+            "Functionality": "Typically used to mark a directory as a Python package. The content of this file may initialize specific test configurations or utilities for the 'test_gen' module, enabling the organization of test-related functionality for further development."
+        },
+        {
+            "file": "vis/graphdiffer.py",
+            "Functionality": "This file implements functionality to compute differences between two graph representations (a baseline and a target). It includes a class that processes nodes and edges, comparing them to detect changes, additions, or removals. It helps to analyze and visualize the differences in dependencies and entities within a software system."
+        },
+        {
+            "file": "vis/mapping.py",
+            "Functionality": "Defines an abstract base class 'Mapping' that provides interfaces for comparing nodes and edges. Subclasses are expected to implement logic for checking if two nodes or edges are the same, assisting in dependency analysis and ensuring consistency in mapping entities and relationships between systems."
+        },
+        {
+            "file": "vis/representation.py",
+            "Functionality": "This file focuses on representing and managing entities, dependencies, and their relationships in the form of nodes and edges. It includes classes for nodes, edges, and dependency representations, and it facilitates the generation of dependency graphs and their serialization into JSON format. The class methods help to visualize how entities are related and their structure in a software system."
+        },
+        {
+            "file": "vis/summary_repr.py",
+            "Functionality": "Generates summary representations of modules and call graphs. It includes functions to summarize module contents and visualize the call relationships between classes or functions. The file assists in providing an overview of a system's structure and how different modules or entities interact within it."
+        },
+        {
+            "file": "vis/und_mapping.py",
+            "Functionality": "This file implements logic for comparing and mapping uncertain nodes and edges in dependency graphs. It leverages predefined mappings for entities and dependencies and allows for identifying differences or matches between the basic and uncertain representations, enhancing the process of dependency visualization and analysis."
+        },
+        {
+            "file": "vis/__init__.py",
+            "Functionality": "Marks the directory as a Python package and potentially initializes required components for the 'vis' module. It may contain necessary setup code for the visual representation or dependency analysis functionality, ensuring that the 'vis' package operates as intended within the larger application context."
+        }
+    ]
+}
