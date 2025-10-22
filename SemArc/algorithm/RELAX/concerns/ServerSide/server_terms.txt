@@ -1,0 +1,5 @@
+# concerns/ServerSide/server_terms.txt
+backend servletcontainer tomcat jetty undertow wildfly jboss springmvc
+controller restcontroller endpoint handler action router dispatcher
+daemon worker threadpool executor cron service init systemd api gateway
+middleware businessservice graphql resolver microgateway

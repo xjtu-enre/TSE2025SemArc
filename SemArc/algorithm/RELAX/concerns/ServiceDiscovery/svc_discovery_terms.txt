@@ -1,0 +1,5 @@
+# concerns/ServiceDiscovery/svc_discovery_terms.txt
+eureka consul zookeeper etcd nacos serviceregistry registry heartbeat
+healthcheck instance metadata dns srv vip cluster membership
+leader election kvstore watcher announcement serviceid lookup
+sidecar envoy controlplane configurationcenter

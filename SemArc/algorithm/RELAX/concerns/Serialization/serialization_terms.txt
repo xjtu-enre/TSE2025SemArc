@@ -1,0 +1,2 @@
+serialize deserialize json xml protobuf thrift avro yaml marshal unmarshal
+pickle binary codec encoder decoder schema versioning compatibility

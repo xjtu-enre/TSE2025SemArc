@@ -130,10 +130,6 @@ def clustering_method_dep_lda_func_weight(
             if len(set(file_topics_mat_norm[i])) == 1:
                 file_topics_mat_norm[i][0] += 1e-8
         
-        # #将filenames写入txt文件为json文件提供顺序，保证向量化后的矩阵和文件一一对应
-        # with open('.\\res\\oodt\\filenames.txt', "w") as file:
-        #     for filename in filenames:
-        #         file.write(filename + "\n")
 
         # # 查看指定文件的主题词
         # # 假设指定文件的索引
@@ -165,7 +161,7 @@ def clustering_method_dep_lda_func_weight(
         # filename2topic_vector = {filenames[i]:file_topics_mat_norm[i] for i in range(len(filenames))}
     else:
         # 替换为大模型生成的矩阵       
-        file_topics_mat=generate_matrix_from_json(llm_file[0])
+        file_topics_mat=generate_matrix_from_json(llm_file[0],filenames)
         file_topics_mat_norm = file_topics_mat.copy()
         for i in range(len(file_topics_mat_norm)):
             #file_topics_mat_norm[i] = file_topics_mat_norm[i] / np.mean(file_topics_mat_norm[i]) / num_topics * 100
@@ -293,8 +289,8 @@ def clustering_method_dep_lda_func_weight(
             for k in list(FUNC_EDGE_WEIGHT_DICT.keys()):
                 FUNC_EDGE_WEIGHT_DICT[f'{k}(possible)'] = FUNC_EDGE_WEIGHT_DICT[k]/2
             
-            func_node_id_set = set(n for n in id2node_info if id2node_info[n]['type'] == 'function' or id2node_info[n]['type'] == 'functionimpl')
-            # func_node_id_set = set(n for n in id2node_info if id2node_info[n]['type'] == 'Function' or id2node_info[n]['type'] == 'Call') #enre
+            # func_node_id_set = set(n for n in id2node_info if id2node_info[n]['type'] == 'function' or id2node_info[n]['type'] == 'functionimpl') #depends
+            func_node_id_set = set(n for n in id2node_info if id2node_info[n]['type'] == 'Function' or id2node_info[n]['type'] == 'Call') #enre
             # func_node_id_set = set(n for n in id2node_info if id2node_info[n]['type'] == 'Method' or id2node_info[n]['type'] == 'Call') #enrejava
             type_node_id_set = set(n for n in id2node_info if id2node_info[n]['type'] == 'type')
             call_graph = nx.DiGraph()
@@ -638,6 +634,34 @@ def clustering_method_dep_lda_func_weight(
         dep_graph_final_merged = merge_files_in_graph(dep_graph_final, merged2unmerged_dict, unmerged2merged_dict, copy=False)
         merged_dict = community_detection(dep_graph_final_merged, None, weight_keyword='weight', resolution=resolution_clustering)
         result_dict = unmerge_result_dict(merged_dict, merged2unmerged_dict)
+        UNSUPERVISED = False
+        if UNSUPERVISED:
+            #————————————————————————————————无监督聚类————————————————————————————————————#
+            from sklearn.cluster import AgglomerativeClustering  # 使用层次聚类作为无监督聚类算法
+            print("开始执行无监督聚类...")
+            clustering_model = AgglomerativeClustering(n_clusters=3, affinity='euclidean', linkage='ward')
+            cluster_labels = clustering_model.fit_predict(file_topics_mat_norm)
+
+            # 根据聚类结果调整边权重
+            print("开始根据无监督聚类结果调整边权重...")
+            clusters = defaultdict(list)
+            for idx, label in enumerate(cluster_labels):
+                clusters[label].append(filenames[idx])
+
+            # 遍历每个聚类结果，调整同一聚类之间文件的边权重
+            for cluster_label, cluster_files in clusters.items():
+                for i in range(len(cluster_files)):
+                    for j in range(i + 1, len(cluster_files)):
+                        if dep_graph_final.has_edge(cluster_files[i], cluster_files[j]):
+                            dep_graph_final[cluster_files[i]][cluster_files[j]]['weight'] *= 2
+
+                dep_graph_final_merged = merge_files_in_graph(dep_graph_final, merged2unmerged_dict, unmerged2merged_dict, copy=False)
+        
+            # 在合并后的图上进行社区检测
+            merged_dict = community_detection(dep_graph_final_merged, None, weight_keyword='weight', resolution=resolution_clustering)
+            
+            # 在全局图上进行解合并
+            result_dict = unmerge_result_dict(merged_dict, merged2unmerged_dict)
     else:
         #————————————————————————————————锚点聚类————————————————————————————————————#
         dep_graph_final_merged = dep_graph_final
@@ -675,7 +699,9 @@ def clustering_method_dep_lda_func_weight(
             y
         )
         # 打印聚类结果
-        print_clustering_results(clusters)
+        for component, files in clusters.items():
+            for file in files:
+                file_to_component[file] = component
         # 保存聚类结果到JSON文件
         # save_clustering_results_to_json(clusters, '.\\res\\oodt')
 
@@ -690,7 +716,7 @@ def clustering_method_dep_lda_func_weight(
             for i in range(len(cluster_files)):
                 for j in range(i + 1, len(cluster_files)):
                     if dep_graph_final.has_edge(cluster_files[i], cluster_files[j]):
-                        dep_graph_final[cluster_files[i]][cluster_files[j]]['weight'] *= 3
+                        dep_graph_final[cluster_files[i]][cluster_files[j]]['weight'] *= 2
             
         # 在全局图上进行合并
         ###查看指定节点权重
@@ -698,8 +724,6 @@ def clustering_method_dep_lda_func_weight(
         #     for node2 in valid_files:
         #         if node2!=node1 and dep_graph_final[node1][node2]['weight']!=0:
         #             filtered_edges[(node1, node2)] = dep_graph_final[node1][node2]['weight']
-
-        dep_graph_final_merged = merge_files_in_graph(dep_graph_final, merged2unmerged_dict, unmerged2merged_dict, copy=False)
         
         # 在合并后的图上进行社区检测
         merged_dict = community_detection(dep_graph_final_merged, None, weight_keyword='weight', resolution=resolution_clustering)

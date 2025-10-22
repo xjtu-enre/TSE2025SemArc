@@ -1,0 +1,3 @@
+config configuration yaml json toml ini properties settings env variable
+parameter profile springboot applicationcontext dependencyinjection flag
+cmdline cli templating placeholder reload dynamic override

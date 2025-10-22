@@ -6,6 +6,7 @@ import hashlib
 import tempfile
 import logging
 from collections import Counter
+import argparse
 
 from settings import MOJO_PATH
 from utils.utils import json2cluster_dict
@@ -813,8 +814,8 @@ METRICS_TO_FUNCTION = {
     # 'ARI': fun_ARI,
     'a2a_adj': fun_a2a_adj_v3,
     # 'c2c_cvg': fun_c2c_cvg,
-    'c2c_cvg': fun_c2c_cvg_66,
-    # 'c2c_cvg_50': fun_c2c_cvg,
+    'c2c_cvg_66': fun_c2c_cvg_66,
+    'c2c_cvg_50': fun_c2c_cvg,
     # 'c2c_cvg_33': fun_c2c_cvg_33,
     # 'c2c_cvg_10': fun_c2c_cvg_10,
 
@@ -845,10 +846,16 @@ def parse_rsf_file(filename):
     return clusters
 
 def main():
+    # 使用 argparse 接收命令行参数
+    parser = argparse.ArgumentParser(description="Compare two cluster results using RSF and JSON files.")
+    parser.add_argument("result", type=str, help="Path to the RSF file.")
+    parser.add_argument("gt", type=str, help="Path to the JSON file.")
+    args = parser.parse_args()
+
     # 解析 RSF 文件
-    result_dict = parse_rsf_file("E:\\recovery-master\\test\\bbb-acdc.rsf")
+    result_dict = json2cluster_dict(args.result)
     # 将 JSON 文件转换为集群字典
-    gt_dict = json2cluster_dict("E:\\recovery-master\\test\\bigbluebutton_gt.json")
+    gt_dict = json2cluster_dict(args.gt)
     # 比较两个集群结果
     metrics_result_dict = compare_two_cluster_results(result_dict, gt_dict)
     # 打印比较结果

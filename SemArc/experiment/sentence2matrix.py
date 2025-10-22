@@ -51,29 +51,38 @@ def get_sentence_vector_sentence_transformer(sentence):
     sentence_embedding = model.encode(sentence)
     return sentence_embedding
 
-def generate_matrix_from_json(json_path):
+def generate_matrix_from_json(json_path, filenames):
     # 读取 JSON 文件
     with open(json_path, 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
 
     # 初始化空矩阵
     matrix = []
-    
+    file_to_vector = {}
 
     # 遍历每个条目
     for entry in data['summary']:
         # 获取文件名和功能描述
-        print("\nentry:",entry)
+        print("\nentry:", entry)
         file_name = entry['file']
         functionality = entry['Functionality']
 
         # 向量化功能描述
         functionality_vector = get_sentence_vector(functionality)
 
-        # 将向量添加到矩阵
-        matrix.append(functionality_vector)
+        # 将文件名和向量存储在字典中
+        file_to_vector[file_name] = functionality_vector
 
-    # 转换为NumPy数组
+    # 根据 filenames 的顺序构建矩阵
+    for file_name in filenames:
+        if file_name in file_to_vector:
+            matrix.append(file_to_vector[file_name])
+        else:
+            # 如果文件名在 JSON 数据中不存在，则向量化文件名
+            file_vector = get_sentence_vector(file_name)
+            matrix.append(file_vector)
+
+    # 转换为 NumPy 数组
     matrix = np.array(matrix)
 
     # 返回最终矩阵

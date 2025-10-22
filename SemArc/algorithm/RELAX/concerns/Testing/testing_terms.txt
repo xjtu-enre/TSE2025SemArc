@@ -1,0 +1,3 @@
+test testcase testcase junit pytest mocha assertion mock stub spy
+integrationtest unittest endtoend coverage tdd bdd fixture harness
+snapshot regression selenium cucumber

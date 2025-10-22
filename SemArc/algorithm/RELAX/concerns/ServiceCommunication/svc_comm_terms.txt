@@ -1,0 +1,5 @@
+# concerns/ServiceCommunication/svc_comm_terms.txt
+rest rpc grpc thrift protobuf avro jsonxml soap wsdl swagger openapi
+feign retrofit httpclient resttemplate webclient axios fetch
+loadbalancer ribbon envoy linkerd istio servicecall retry timeout
+backoff header correlationid tracing httpstatus codec serialization

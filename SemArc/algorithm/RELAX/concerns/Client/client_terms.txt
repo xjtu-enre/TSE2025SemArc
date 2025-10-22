@@ -1,0 +1,5 @@
+# concerns/ClientSide/client_terms.txt
+gui cli frontend browser electron flutter reactnative angularcapacitor
+cordova android ios cocoa swift kotlin dart typescript javascript
+webassembly wasm sandbox serviceworker httpclient xhr fetch websocket
+sdk library stub proxy offline storage cache localstorage cookie

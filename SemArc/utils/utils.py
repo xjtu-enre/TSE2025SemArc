@@ -181,7 +181,7 @@ def get_prj_lang(src_path):
             f = f.lower()
             if f.endswith(".c") or f.endswith(".h"):
                 file_num['c'] += 1
-            elif f.endswith(".cpp") or f.endswith(".hpp") or f.endswith(".cxx") or f.endswith(".hxx"):
+            elif f.endswith(".cpp") or f.endswith(".hpp") or f.endswith(".cxx") or f.endswith(".hxx") or f.endswith(".cc"):
                 file_num['cpp'] += 1
             elif f.endswith(".java"):
                 file_num['java'] += 1

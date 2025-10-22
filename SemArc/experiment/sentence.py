@@ -6,7 +6,7 @@ import numpy as np
 
 
 def get_sentence_vector(sentence, vector_size=100, window=5, min_count=1, workers=4):
-    nltk.download('punkt')
+    # nltk.download('punkt')
     # 分词
     tokenized_sentence = word_tokenize(sentence.lower())  # 使用小写字母，确保一致性
 

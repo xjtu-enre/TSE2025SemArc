@@ -1,0 +1,5 @@
+# concerns/Pipeline/pipeline_terms.txt
+pipeline stage step processor task job workflow dag flow transform
+ingest source sink channel link edge node queue buffer operator
+preprocess postprocess validation enrichment aggregation fanin fanout
+batch realtime execution engine scheduler orchestrator

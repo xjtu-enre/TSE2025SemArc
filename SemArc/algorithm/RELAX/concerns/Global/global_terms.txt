@@ -1,0 +1,5 @@
+# concerns/Global/global_terms.txt
+globalvariable global_state singleton staticfield staticmethod util sharedcontext
+sharedmemory sharedresource constant envvar environmentvariable configurationconstant
+globalscope applicationcontext servicelocator registry contextholder
+mutableglobal threadunsafe globalsession globalsingleton globalschema

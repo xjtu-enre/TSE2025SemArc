@@ -1,0 +1,1566 @@
+{
+  "@schemaVersion": "1.0",
+  "name": "clustering",
+  "structure": [
+    {
+      "@type": "group",
+      "name": "Networking",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/Archstudio4Activator.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/Bootstrap.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/ArchlightElementIdentifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/ArchlightIssue.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/ArchlightNotice.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/ArchlightTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/ArchlightTestError.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/ArchlightTestResult.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/archlight/IArchlightTool.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/aimlauncher/AIMLauncherEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/aimlauncher/AIMLauncherMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/aimlauncher/AIMLauncherOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archedit/ArchEditEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archedit/ArchEditMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archedit/ArchEditOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/AbstractArchipelagoTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoDataCache.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoServices.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ArchipelagoUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/DefaultArchipelagoEventBus.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/FolderNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/FolderNodeLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/FolderNodeTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEditorFocuser.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEditorPane.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEventBus.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoEventListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeDoubleClickHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreeNodeDataCache.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IArchipelagoTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/IXArchEventHandlerLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/ObjRefTransfer.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/RootContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/RootLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/RootTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/TreeNodeDataCache.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsDoubleClickHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsEditDescriptionCellModifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsEditDescriptionContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsEditorSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsFileManagerListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsNewActivityDiagramContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsRemoveContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsTreeContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsTreeLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/ActivityDiagramsXArchEventHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/editorsupport/events/ActivityDiagramsEvents.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/editorsupport/logics/StructureNewElementLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logic/util/ExportPPTLogic2.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/editing/ActivityDiagramNewElementLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/editing/ActivityDiagramsEditorContextMenuAddDiagramLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlActionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlActorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlControlFlowLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlDecisionMergeLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlForkJoinLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlNoteLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/activitydiagrams/logics/mapping/MapXadlReferenceLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/archstructure/logics/mapping/MapXadlLinkLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickInterfaceSelectorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickLabel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickLabelList.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickList.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/BrickSelectorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/CodeGenLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/EditorUtil.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/ExternalBrickSelectorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/SWTBrickSelectorThing.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/codegen/SWTBrickSelectorThingPeer.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/coordinating/MaintainXadlLinksLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/AlignSignatureInterfaceMappingsLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/XadlCopyPasteLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/XadlEditDescriptionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/XadlRemoveElementLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/XadlSelectionProviderLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/dialogs/OptionsDialog.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/dialogs/OptionsDialogContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/editing/dialogs/OptionsDialogLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/hints/XAdlHintRepository.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/mapping/AbstractAutomapSingleAssemblyXArchRelativePathMappingLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/mapping/BNAPath.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/mapping/MapXadlDirectionalSplineLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/mapping/MapXadlNondirectionalSplineLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/mapping/MapXadlSplineLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/generic/logics/mapping/SingleAssemblyXadlMappingLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/options/EditOptionalLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/options/OptionsEventListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/options/OptionsTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/options/OptionsUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/prefs/ArchipelagoPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/prefs/ArchipelagoPrefsMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/prefs/types/ArchipelagoTypesPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/prefs/types/ArchipelagoTypesPrefsMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsDoubleClickHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditDescriptionCellModifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditDescriptionContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEditorSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsEvents.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsFileManagerListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsNewStatechartContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsRemoveContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTreeContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTreeLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/StatechartsXArchEventHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/logics/editing/StatechartsNewElementLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/logics/mapping/MapXadlFinalStateLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/logics/mapping/MapXadlInitialStateLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/logics/mapping/MapXadlStateLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/statecharts/logics/mapping/MapXadlTransitionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/stateline/StatelineEventListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/stateline/StatelineStatechartsLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/stateline/StatelineStructureLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/stateline/StatelineTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/stateline/StatelineUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/things/SWTXadlSelectorThing.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/things/SWTXadlSelectorThingPeer.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/ArchipelagoTypesConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureAssignTypeLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureDoubleClickHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditColorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDescriptionCellModifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDescriptionContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDescriptionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditDirectionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditorFocuser.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEditorSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureEvents.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureFileManagerListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureGraphLayoutLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureHintSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureInterfaceLocationsLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureMapSignatureLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureMapper.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureNewElementLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureNewInterfaceLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureNewStructureContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureRemoveContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureTreeContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureTreeLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureTypeDropLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureXArchEventHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/StructureXArchEventHandlerLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesAssignStructureLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesCreateSIMLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesDoubleClickHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditColorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDescriptionCellModifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDescriptionContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDescriptionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditDirectionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditorFocuser.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEditorSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesEvents.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesFileManagerListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesHintSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesMapper.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesNewSignatureLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesNewTypeContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesNewTypeSetContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveDeadSIMLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesRemoveTypeSetContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesStructureDropLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreeContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreeDragSourceListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreeLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesTypeDropLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesXArchEventHandler.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/types/TypesXArchEventHandlerLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDescriptionCellModifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDescriptionContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDescriptionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditDirectionLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractEditGuardLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractRemoveContextMenuFiller.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractRemoveLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractTypeDropLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/AbstractXadlSelectorLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/ArchipelagoFinder.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/ArrayPropertyCoder.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/BasicPropertyCoder.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/BasicSWTPropertyCoder.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/EnumPropertyCoder.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/FileDirtyLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/HintSupport.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/IPropertyCoder.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/InterfaceLocationSyncUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/util/PropertyDecodeException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/variants/AddVariantLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/variants/EditVariantsLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/variants/PromoteToVariantLogic.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/variants/VariantsEventListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archipelago/variants/VariantsTreePlugin.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightDocTest.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightToolAggregatorMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/ArchlightUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/DoubleClickAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/FolderNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueadt/ArchlightIssueADT.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueadt/ArchlightIssueADTEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueadt/ArchlightIssueADTListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueadt/ArchlightIssueADTMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueadt/IArchlightIssueADT.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueview/ArchlightIssueView.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/issueview/ArchlightIssueViewMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeadt/ArchlightNoticeADT.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeadt/ArchlightNoticeADTEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeadt/ArchlightNoticeADTListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeadt/ArchlightNoticeADTMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeadt/IArchlightNoticeADT.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeview/ArchlightNoticeView.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/noticeview/ArchlightNoticeViewMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/prefs/ArchlightPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/prefs/ArchlightPrefsMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/testadt/ArchlightTestADT.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/testadt/ArchlightTestADTEvent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/testadt/ArchlightTestADTListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/testadt/ArchlightTestADTMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/testadt/IArchlightTestADT.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronInitializationException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronPrefsMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestFile.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestFileParseException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTestResultParser.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronTester.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/archlight/tools/schematron/SchematronUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/basepreferences/ArchStudioPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/basepreferences/BasePreferencesMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPAndNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPEqualNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPGreaterEqualNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPGreaterNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPInRangeNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPInSetNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPLessEqualNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPLessNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPNotEqualNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPNotNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPOrNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPStart.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BPUtilities.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardConverter.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParser.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParserConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParserTokenManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BooleanGuardParserTreeConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/BooleanNotationMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/IBooleanGuard.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/IBooleanNotation.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/JJTBooleanGuardParserState.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/Node.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/ParseException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/SimpleCharStream.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/SimpleNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/Token.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/booleannotation/TokenMgrError.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/changesetsviewer/ChangeSetsDisplayContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/changesetsviewer/ChangeSetsDisplayLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/changesetsviewer/ChangeSetsViewerConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/changesetsviewer/ChangeSetsViewerEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/changesetsviewer/ChangeSetsViewerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/changesetsviewer/ChangeSetsViewerOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/copypaste/CopyPasteManagerImpl.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/copypaste/CopyPasteMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/copypaste/ICopiedElementNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/copypaste/ICopyPasteManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/copypaste/ObjRefNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/copypaste/RelatedElementNode.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/eclipsecontentstore/EclipseContentStoreMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/editormanager/EditorManagerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/editormanager/EditorPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/editormanager/EditorPrefsMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/fileman/CantOpenFileException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/fileman/FileManagerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/fileman/FileManagerView.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/fileman/IFileManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/fileman/IFileManagerListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/fileman/NewFileWizard.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/filetracker/FileTrackerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/filetracker/FileTrackerView.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/AliasTable.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/GraphLayoutMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/GraphLayoutPreferencePanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/GraphLayoutPrefsMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/ILayoutEngine.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/graphviz/AbstractGraphvizLayoutEngine.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/graphlayout/graphviz/DotLayoutEngine.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/guardtracker/GuardTrackerImpl.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/guardtracker/GuardTrackerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/guardtracker/IGuardTracker.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/launcher/LauncherMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/launcher/LauncherView.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/preferencesadt/PreferencesADTMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/BrokenLinkException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/InvalidElementIDException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/InvalidURIException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/MissingAttributeException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/MissingElementException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/PrunerImpl.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/PrunerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/resources/IResources.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/resources/ResourcesMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/selectordriver/SelectorDriverEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/selectordriver/SelectorDriverMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/selectordriver/SelectorDriverOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/typewrangler/TypeWranglerEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/typewrangler/TypeWranglerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/typewrangler/TypeWranglerOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/BrokenLinkException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/InvalidElementIDException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/InvalidURIException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/MissingAttributeException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/MissingElementException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/VersionPrunerImpl.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/VersionPrunerMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/AbstractArchstudioEditor.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/AbstractArchstudioEditorMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/AbstractArchstudioOutlinePage.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/EditorConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/FocusEditorListener.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/IEditorManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/XadlEditorMatchingStrategy.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/editors/XadlRootElementContentDescriber.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/GraphLayout.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/GraphLayoutConstants.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/GraphLayoutException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/GraphLayoutParameters.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/IGraphLayout.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/DataValidationException.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/DotPanelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/DotSpacingParameterPanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/GeneralOptionsParameterPanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/GraphLayoutDialog.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/IGraphLayoutParameterPanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/IGraphLayoutParameterPanelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/NeatoPanelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/OrientInterfacesParameterPanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/graphlayout/gui/SizeAndScaleParameterPanel.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/launcher/ILaunchData.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/launcher/ILaunchable.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/launcher/LaunchData.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/natures/ArchStudio4Nature.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/perspectives/ArchStudio4PerspectiveFactory.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/RationaleViewManager.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/actions/AddRationaleAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/actions/DeleteRationaleAction.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/dialog/CustomizedMessageDialog.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/AbstractRationaleViewMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/AssociatedItemsContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/AssociatedItemsLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/RationaleCellModifier.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/RationaleContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/RationaleLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/RationaleViewMyxComponent.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/rationale/views/RationaleViewPart.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/util/ArchstudioResources.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/util/EclipseUtils.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/util/XadlSelectorDialog.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/util/XadlTreeContentProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/util/XadlTreeLabelProvider.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/util/XadlTreeUtils.java"
+        }
+      ]
+    },
+    {
+      "@type": "group",
+      "name": "Security",
+      "nested": [
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/pruner/IPruner.java"
+        },
+        {
+          "@type": "item",
+          "name": "edu/uci/isr/archstudio4/comp/versionpruner/IVersionPruner.java"
+        }
+      ]
+    }
+  ]
+}

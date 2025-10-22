@@ -153,8 +153,8 @@ def generate_and_parse_dependency_pub(src_path, prj_name, prj_id, result_folder,
     except:
         # src_path = raw_paths_to_unified_paths(src_path, '/')
         pass
-    result_folder = raw_paths_to_unified_paths(result_folder, '.')
-    # result_folder='D:\\enre\\jabref'
+    # result_folder = raw_paths_to_unified_paths(result_folder, '.')
+    result_folder='.\\ext_tools\\enre\\bash'
     depends_jar_sha = hash_file(DEPENDS_PUB_PATH)
     depends_inputs = (
         src_path,
@@ -175,23 +175,23 @@ def generate_and_parse_dependency_pub(src_path, prj_name, prj_id, result_folder,
         dep_file_dict['id2node_info'] = cached_record['id2node_info']['path']
         return dep_file_dict
 
-    logger.info(f"Running Depends for {prj_name}...")
+    logger.info(f"Extracting depends for {prj_name}...")
     
     # run depends
-    tmp_folder = tempfile.mkdtemp()
-    # cmd = f'java -Xmx51200m -jar {DEPENDS_PUB_PATH} --auto-include --detail --output-self-deps -f=json -s -p / -d {tmp_folder} {analysis_type} {src_path} {prj_name}'
-    cmd = f'java -Xmx51200m -jar {DEPENDS_PUB_PATH} --auto-include --detail -f=json -s -p / -d {tmp_folder} {analysis_type} {src_path} {prj_name}'
-    logger.debug(cmd)
+    # tmp_folder = tempfile.mkdtemp()
+    # # cmd = f'java -Xmx51200m -jar {DEPENDS_PUB_PATH} --auto-include --detail --output-self-deps -f=json -s -p / -d {tmp_folder} {analysis_type} {src_path} {prj_name}'
+    # cmd = f'java -Xmx51200m -jar {DEPENDS_PUB_PATH} --auto-include --detail -f=json -s -p / -d {tmp_folder} {analysis_type} {src_path} {prj_name}'
+    # logger.debug(cmd)
 
-    with open(os.path.join(result_folder, 'depends_stdout.log'), 'w') as fp:
-        # return_code = subprocess_realtime_log(cmd, log_level=logging.DEBUG)
-        # subprocess.run(cmd, shell=True, timeout=DEPENDS_TIMEOUT_SEC, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-        subprocess.run(cmd, shell=True, timeout=DEPENDS_TIMEOUT_SEC, stdout=fp, stderr=fp)
-    logger.info(f"Depends Finished.") 
-    try:
-        shutil.move('depends.log', os.path.join(result_folder, 'depends.log'))
-    except:
-        pass
+    # with open(os.path.join(result_folder, 'depends_stdout.log'), 'w') as fp:
+    #     # return_code = subprocess_realtime_log(cmd, log_level=logging.DEBUG)
+    #     # subprocess.run(cmd, shell=True, timeout=DEPENDS_TIMEOUT_SEC, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    #     subprocess.run(cmd, shell=True, timeout=DEPENDS_TIMEOUT_SEC, stdout=fp, stderr=fp)
+    # logger.info(f"Depends Finished.") 
+    # try:
+    #     shutil.move('depends.log', os.path.join(result_folder, 'depends.log'))
+    # except:
+    #     pass
 
     # copy files
     # shutil.copyfile(
@@ -210,15 +210,18 @@ def generate_and_parse_dependency_pub(src_path, prj_name, prj_id, result_folder,
     # logger.info(f"Copied Depends result to {result_folder}.") 
     
     ## parse and cache results
-    result_dep_fn = f'{prj_name}-file.json'
-    result_fn = f'{prj_name}-file.pkl'
-    with open(os.path.join(tmp_folder, result_dep_fn), 'r') as fp:
-        depends_result_dict = json.load(fp)
-    #替换为enre
-    # result_dep_fn = f'D:\\enre\\jabref\\jabref_out_depends.json'
+
+    #替换为depends
+    # result_dep_fn = f'{prj_name}-file.json'
     # result_fn = f'{prj_name}-file.pkl'
-    # with open(result_dep_fn, 'r') as fp:
+    # with open(os.path.join(tmp_folder, result_dep_fn), 'r') as fp:
     #     depends_result_dict = json.load(fp)
+
+    #替换为enre
+    result_dep_fn = f'".\\ext_tools\\enre\\bash\\bash_out_depends.json"'
+    result_fn = f'{prj_name}-file.pkl'
+    with open(result_dep_fn, 'r') as fp:
+        depends_result_dict = json.load(fp)
 
     # # change fns
     # for i, fn in enumerate(depends_result_dict['variables']):

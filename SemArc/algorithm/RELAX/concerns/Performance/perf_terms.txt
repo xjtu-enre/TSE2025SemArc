@@ -1,0 +1,3 @@
+performance optimize latency throughput benchmark profiling hotspot
+bottleneck cache hit miss allocation gc jit timecomplexity bigo
+vectorization parallel optimize instrumentation flamegraph

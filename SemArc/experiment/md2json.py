@@ -40,8 +40,8 @@ def save_json_blocks_to_file(json_blocks, json_file_path):
         json.dump(json_blocks, json_file, ensure_ascii=False, indent=4)
 
 # 用法示例
-json_file_path = "D:\\lda_demoGPT\\res\\hdf\\hdf.json"
-md_file_path = "D:\\lda_demoGPT\\res\\hdf\\GPT-Academic-2024-12-23-18-57-49.md"
+json_file_path = ".\\res\\bash\\bash.json"
+md_file_path = "D:\\gpt_academic-master\\gpt_academic-master\\gpt_log\\default_user\\shared\\bash-ds-v2.md"
 json_blocks = extract_json_blocks_from_markdown_file(md_file_path)
 save_json_blocks_to_file(json_blocks, json_file_path)
 print(f"JSON数据已保存到文件: {json_file_path}")

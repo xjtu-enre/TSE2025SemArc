@@ -1,0 +1,3 @@
+sql query select insert update delete join index jdbc odbc datasource
+transaction commit rollback orm hibernate entity repository datasource pool
+primarykey foreignkey schema migration storedprocedure acid sharding

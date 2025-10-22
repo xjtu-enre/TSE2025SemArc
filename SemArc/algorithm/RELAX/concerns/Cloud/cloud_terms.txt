@@ -1,0 +1,2 @@
+aws azure gcp kubernetes docker container pod helm service mesh autoscale
+ec2 s3 lambda cloudfunction iam vpc loadbalancer terraform ansible ci cd

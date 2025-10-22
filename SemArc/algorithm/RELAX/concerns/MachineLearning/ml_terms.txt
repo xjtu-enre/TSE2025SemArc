@@ -1,0 +1,3 @@
+model training inference prediction feature dataset epoch loss gradient
+neuralnetwork cnn rnn transformer embedding sklearn tensorflow pytorch
+hyperparameter crossvalidation overfitting underfitting

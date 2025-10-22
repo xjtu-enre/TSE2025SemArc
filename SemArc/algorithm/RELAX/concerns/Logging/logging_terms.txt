@@ -1,0 +1,2 @@
+log logger logging append handler sink slf4j log4j logback syslog trace
+debug info warn error fatal rollingfile pattern layout audit correlationid

@@ -1,0 +1,3 @@
+queue topic broker rabbitmq kafka activemq mqtt amqp stomp jms
+producer consumer publish subscribe offset partition durable
+acknowledgement redelivery eventstream
